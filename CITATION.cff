@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: >-
+  SEMCA-7 — Architectural Variance Dominates Stimulus Variance in
+  Six of Seven Substrate-Agnostic Consciousness Operationalizations
+message: >-
+  If you use this code or data, please cite the paper and this
+  repository.
+type: software
+authors:
+  - given-names: Nate
+    family-names: Travis
+    email: labs@devmance.com
+    affiliation: Devmance Labs
+repository-code: 'https://github.com/devmance/SEMCA'
+license: MIT
+preferred-citation:
+  type: generic
+  title: >-
+    Architectural Variance Dominates Stimulus Variance in Six of
+    Seven Substrate-Agnostic Consciousness Operationalizations
+  authors:
+    - given-names: Nate
+      family-names: Travis
+      affiliation: Devmance Labs
+  year: 2026
+  url: "https://github.com/devmance/SEMCA"
+  notes: >-
+    Preprint, Devmance Labs. A cross-substrate comparison with human
+    fMRI BOLD reveals coincidental magnitude alignment of fundamentally
+    different variance sources.

@@ -1,0 +1,4363 @@
+{
+  "ai_integrated": {
+    "meta-llama/Llama-3.1-8B-Instruct": {
+      "adollshouse": {
+        "naive_unified": 59.741191446653936,
+        "riemannian_unified": 70.70690636841333,
+        "consensus": 0.35227082945884164,
+        "coherence": 0.5582081689620579,
+        "curvature": -0.999614754045081,
+        "confidence": 0.5696250477404422
+      },
+      "adventuresinsayingyes": {
+        "naive_unified": 61.0180468785703,
+        "riemannian_unified": 72.42877193367401,
+        "consensus": 0.35461227606423423,
+        "coherence": 0.5753949341664736,
+        "curvature": -0.999532537074076,
+        "confidence": 0.5745146654007928
+      },
+      "afatherscover": {
+        "naive_unified": 61.0818975039405,
+        "riemannian_unified": 72.56130863661912,
+        "consensus": 0.35562373285009063,
+        "coherence": 0.5706580252270951,
+        "curvature": -0.9995284625668291,
+        "confidence": 0.5735836772702525
+      },
+      "againstthewind": {
+        "naive_unified": 60.129033247435295,
+        "riemannian_unified": 70.49758877810484,
+        "consensus": 0.35512591145943,
+        "coherence": 0.5537011425683896,
+        "curvature": -0.9996302739409314,
+        "confidence": 0.5692106337406079
+      },
+      "alternateithicatom": {
+        "naive_unified": 60.31224067116237,
+        "riemannian_unified": 71.04123762528864,
+        "consensus": 0.3539933512529549,
+        "coherence": 0.5633614207138596,
+        "curvature": -0.999601513694909,
+        "confidence": 0.5713452093173506
+      },
+      "avatar": {
+        "naive_unified": 60.548841958481816,
+        "riemannian_unified": 71.53675174020796,
+        "consensus": 0.3543604171901473,
+        "coherence": 0.5667858956776637,
+        "curvature": -0.999577681183783,
+        "confidence": 0.5722952873150532
+      },
+      "backsideofthestorm": {
+        "naive_unified": 61.183883675490634,
+        "riemannian_unified": 72.7176620208634,
+        "consensus": 0.3549495477263677,
+        "coherence": 0.5769858618368825,
+        "curvature": -0.999518418326295,
+        "confidence": 0.5749980143495024
+      },
+      "becomingindian": {
+        "naive_unified": 61.66389691785438,
+        "riemannian_unified": 73.24225510895471,
+        "consensus": 0.3562575345616301,
+        "coherence": 0.5807929776648176,
+        "curvature": -0.9994940860514807,
+        "confidence": 0.5762790289564165
+      },
+      "beneaththemushroomcloud": {
+        "naive_unified": 61.318723032765185,
+        "riemannian_unified": 72.70991898370033,
+        "consensus": 0.3556528456285705,
+        "coherence": 0.5768585762301047,
+        "curvature": -0.9995203420823716,
+        "confidence": 0.5751418404107257
+      },
+      "birthofanation": {
+        "naive_unified": 59.95229718400809,
+        "riemannian_unified": 71.2122544595644,
+        "consensus": 0.35202704454877587,
+        "coherence": 0.5642466727135506,
+        "curvature": -0.9995892637526822,
+        "confidence": 0.5710760727226413
+      },
+      "bluehope": {
+        "naive_unified": 60.51303134570924,
+        "riemannian_unified": 71.61246894809067,
+        "consensus": 0.35439210056474263,
+        "coherence": 0.5655919741289256,
+        "curvature": -0.9995742227778278,
+        "confidence": 0.5720050459755353
+      },
+      "breakingupintheageofgoogle": {
+        "naive_unified": 59.760059858694476,
+        "riemannian_unified": 70.87627863298096,
+        "consensus": 0.35219923892888216,
+        "coherence": 0.5591024279825235,
+        "curvature": -0.9996064293978102,
+        "confidence": 0.5698314807779107
+      },
+      "buck": {
+        "naive_unified": 60.665449338648,
+        "riemannian_unified": 72.09646875613576,
+        "consensus": 0.3537908786116035,
+        "coherence": 0.5714556944284118,
+        "curvature": -0.9995480402843261,
+        "confidence": 0.5733230796194189
+      },
+      "catfishingstrangerstofindmyself": {
+        "naive_unified": 61.438661306054634,
+        "riemannian_unified": 72.83731471568922,
+        "consensus": 0.3563605887098437,
+        "coherence": 0.5753433519914879,
+        "curvature": -0.9995154047814103,
+        "confidence": 0.5749404244232477
+      },
+      "cautioneating": {
+        "naive_unified": 59.69877509292144,
+        "riemannian_unified": 70.16125337030553,
+        "consensus": 0.3528067371594999,
+        "coherence": 0.5540687693191514,
+        "curvature": -0.9996416198676354,
+        "confidence": 0.5687217029900695
+      },
+      "christmas1940": {
+        "naive_unified": 61.17871481550053,
+        "riemannian_unified": 72.6182887344436,
+        "consensus": 0.35505318700348365,
+        "coherence": 0.5766964537172816,
+        "curvature": -0.9995237407984277,
+        "confidence": 0.5749510823973716
+      },
+      "cocoonoflove": {
+        "naive_unified": 60.373421749723995,
+        "riemannian_unified": 71.4476179330487,
+        "consensus": 0.3534385966983229,
+        "coherence": 0.5671332487446092,
+        "curvature": -0.9995801364238349,
+        "confidence": 0.572151444555643
+      },
+      "comingofageondeathrow": {
+        "naive_unified": 60.94550743440311,
+        "riemannian_unified": 72.15816780258456,
+        "consensus": 0.3548022144118092,
+        "coherence": 0.5732984303148453,
+        "curvature": -0.9995468170637507,
+        "confidence": 0.5740367100914295
+      },
+      "eyespy": {
+        "naive_unified": 58.67979098299093,
+        "riemannian_unified": 69.42376026253778,
+        "consensus": 0.3534836521956885,
+        "coherence": 0.5083789392538353,
+        "curvature": -0.9996555143162262,
+        "confidence": 0.5574671959131272
+      },
+      "firetestforlove": {
+        "naive_unified": 59.91781914126523,
+        "riemannian_unified": 70.88486155639524,
+        "consensus": 0.3524306288332122,
+        "coherence": 0.5614989854430773,
+        "curvature": -0.9996062487904387,
+        "confidence": 0.5704884842361065
+      },
+      "food": {
+        "naive_unified": 60.74660126270241,
+        "riemannian_unified": 72.11650075011163,
+        "consensus": 0.35478313406477086,
+        "coherence": 0.5681895500040287,
+        "curvature": -0.9995495997803413,
+        "confidence": 0.5727544638852584
+      },
+      "forgettingfear": {
+        "naive_unified": 61.00318093639544,
+        "riemannian_unified": 72.35666081865102,
+        "consensus": 0.3549332951222515,
+        "coherence": 0.5734394721049748,
+        "curvature": -0.9995370867541328,
+        "confidence": 0.5741056360217877
+      },
+      "gangstersandcookies": {
+        "naive_unified": 60.02719308079424,
+        "riemannian_unified": 71.18822453051541,
+        "consensus": 0.35373963000208514,
+        "coherence": 0.5576544847749763,
+        "curvature": -0.9995945362377854,
+        "confidence": 0.5698556869936747
+      },
+      "goingthelibertyway": {
+        "naive_unified": 60.74869742678591,
+        "riemannian_unified": 71.91441708947468,
+        "consensus": 0.3541658852427448,
+        "coherence": 0.5720899590881383,
+        "curvature": -0.9995578174636274,
+        "confidence": 0.5735744978342225
+      },
+      "goldiethegoldfish": {
+        "naive_unified": 59.875824536113214,
+        "riemannian_unified": 70.66370119575602,
+        "consensus": 0.35436418322808244,
+        "coherence": 0.5507612791121395,
+        "curvature": -0.9996208185289268,
+        "confidence": 0.5682861057573203
+      },
+      "golfclubbing": {
+        "naive_unified": 60.09191405395743,
+        "riemannian_unified": 71.07874342312381,
+        "consensus": 0.35212681224704717,
+        "coherence": 0.566791825076172,
+        "curvature": -0.9995956004062804,
+        "confidence": 0.5717367197191471
+      },
+      "gpsformylostidentity": {
+        "naive_unified": 61.753076558057465,
+        "riemannian_unified": 73.24150997032149,
+        "consensus": 0.35685830578854566,
+        "coherence": 0.5796728019895793,
+        "curvature": -0.9994953967665632,
+        "confidence": 0.5761490572371303
+      },
+      "hangtime": {
+        "naive_unified": 60.81215217223047,
+        "riemannian_unified": 72.03822607918805,
+        "consensus": 0.3554346399091979,
+        "coherence": 0.5665914155456222,
+        "curvature": -0.9995551278949412,
+        "confidence": 0.572517298084198
+      },
+      "haveyoumethimyet": {
+        "naive_unified": 60.07812908440874,
+        "riemannian_unified": 71.10376313021237,
+        "consensus": 0.353704304334361,
+        "coherence": 0.5591255403623371,
+        "curvature": -0.999598429481218,
+        "confidence": 0.5702142612680163
+      },
+      "howtodraw": {
+        "naive_unified": 61.39669931433932,
+        "riemannian_unified": 72.52259050653817,
+        "consensus": 0.3562050229804212,
+        "coherence": 0.5769825537208538,
+        "curvature": -0.999531034219757,
+        "confidence": 0.5753098953004667
+      },
+      "ifthishaircouldtalk": {
+        "naive_unified": 60.00710757367493,
+        "riemannian_unified": 71.07410391584322,
+        "consensus": 0.3523568254156552,
+        "coherence": 0.563888461358014,
+        "curvature": -0.9995966720100555,
+        "confidence": 0.5710682834866991
+      },
+      "inamoment": {
+        "naive_unified": 61.331533831039856,
+        "riemannian_unified": 73.00725261334435,
+        "consensus": 0.3550333090646573,
+        "coherence": 0.5795212622129305,
+        "curvature": -0.9995035991725901,
+        "confidence": 0.5756541683601994
+      },
+      "itsabox": {
+        "naive_unified": 61.982835203377256,
+        "riemannian_unified": 73.87615372394067,
+        "consensus": 0.35654738554829307,
+        "coherence": 0.5849120720503947,
+        "curvature": -0.9994616861536209,
+        "confidence": 0.577384246669765
+      },
+      "jugglingandjesus": {
+        "naive_unified": 60.763515114829474,
+        "riemannian_unified": 72.1599541993664,
+        "consensus": 0.3549089850211426,
+        "coherence": 0.567790239232428,
+        "curvature": -0.999547733483765,
+        "confidence": 0.5726862706519723
+      },
+      "kiksuya": {
+        "naive_unified": 61.722954284543555,
+        "riemannian_unified": 73.33897168629723,
+        "consensus": 0.3565566715368281,
+        "coherence": 0.5798985326149543,
+        "curvature": -0.9994896404069848,
+        "confidence": 0.5761306110108656
+      },
+      "leavingbaghdad": {
+        "naive_unified": 60.733960204159544,
+        "riemannian_unified": 72.20910306873176,
+        "consensus": 0.35362534092087444,
+        "coherence": 0.5737937670028285,
+        "curvature": -0.9995417142753424,
+        "confidence": 0.5738667954073549
+      },
+      "lifeanddeathontheoregontrail": {
+        "naive_unified": 60.506379401477226,
+        "riemannian_unified": 71.09583573526302,
+        "consensus": 0.3546341165605689,
+        "coherence": 0.5650367270589831,
+        "curvature": -0.9995999087123322,
+        "confidence": 0.5719243748995091
+      },
+      "lifereimagined": {
+        "naive_unified": 60.4350855741597,
+        "riemannian_unified": 71.77625333255422,
+        "consensus": 0.3537771857156528,
+        "coherence": 0.5664946381050434,
+        "curvature": -0.9995647327208067,
+        "confidence": 0.572077856432351
+      },
+      "listo": {
+        "naive_unified": 59.12034389766443,
+        "riemannian_unified": 69.79898095149612,
+        "consensus": 0.3515913548482687,
+        "coherence": 0.545524139123006,
+        "curvature": -0.999655060813898,
+        "confidence": 0.5662804632664906
+      },
+      "mayorofthefreaks": {
+        "naive_unified": 60.47491915301294,
+        "riemannian_unified": 71.35302926876658,
+        "consensus": 0.35422422080320465,
+        "coherence": 0.5659045416729251,
+        "curvature": -0.9995865145251063,
+        "confidence": 0.5720400869763903
+      },
+      "metsmagic": {
+        "naive_unified": 60.55384039344925,
+        "riemannian_unified": 72.1298241933345,
+        "consensus": 0.35335886565538493,
+        "coherence": 0.5708489094570757,
+        "curvature": -0.9995455368908027,
+        "confidence": 0.5730636104786524
+      },
+      "mybackseatviewofagreatromance": {
+        "naive_unified": 61.07391195493113,
+        "riemannian_unified": 71.68534162327461,
+        "consensus": 0.358311800184711,
+        "coherence": 0.5583045646331978,
+        "curvature": -0.9995797921344003,
+        "confidence": 0.5711626060769414
+      },
+      "myfathershands": {
+        "naive_unified": 60.396937573176174,
+        "riemannian_unified": 71.20428426371578,
+        "consensus": 0.3550006786251058,
+        "coherence": 0.560526374873527,
+        "curvature": -0.9995960416037247,
+        "confidence": 0.5708887831697295
+      },
+      "notontheusualtour": {
+        "naive_unified": 60.524677410366685,
+        "riemannian_unified": 71.58562893649459,
+        "consensus": 0.3540594796963014,
+        "coherence": 0.5676061758758775,
+        "curvature": -0.9995745435455226,
+        "confidence": 0.5724254116816441
+      },
+      "odetostepfather": {
+        "naive_unified": 59.50456668238984,
+        "riemannian_unified": 70.4034129707619,
+        "consensus": 0.3518229826766019,
+        "coherence": 0.5546477858395638,
+        "curvature": -0.9996284201001354,
+        "confidence": 0.5686217329233806
+      },
+      "onlyonewaytofindout": {
+        "naive_unified": 60.84796908171351,
+        "riemannian_unified": 72.14265288299734,
+        "consensus": 0.35430339687428997,
+        "coherence": 0.5733882901384454,
+        "curvature": -0.9995465353010384,
+        "confidence": 0.573934496588377
+      },
+      "penpal": {
+        "naive_unified": 60.30825570817337,
+        "riemannian_unified": 71.42046533146578,
+        "consensus": 0.353030330784897,
+        "coherence": 0.5675584848385065,
+        "curvature": -0.9995805780973,
+        "confidence": 0.5721556464630643
+      },
+      "quietfire": {
+        "naive_unified": 61.38974097152624,
+        "riemannian_unified": 72.5403971196246,
+        "consensus": 0.35614830628801,
+        "coherence": 0.5770126088967467,
+        "curvature": -0.9995300126230956,
+        "confidence": 0.5753033239215599
+      },
+      "reachingoutbetweenthebars": {
+        "naive_unified": 61.38351905904282,
+        "riemannian_unified": 72.24959453415045,
+        "consensus": 0.35759532677763833,
+        "coherence": 0.5695884531585086,
+        "curvature": -0.9995485866653471,
+        "confidence": 0.5738073310701629
+      },
+      "shoppinginchina": {
+        "naive_unified": 61.981933527648415,
+        "riemannian_unified": 73.57145217240597,
+        "consensus": 0.3570599616729269,
+        "coherence": 0.5839765669119124,
+        "curvature": -0.9994788316138712,
+        "confidence": 0.577276936715167
+      },
+      "singlewomanseekingmanwich": {
+        "naive_unified": 61.229153497542185,
+        "riemannian_unified": 72.32440237384805,
+        "consensus": 0.3570047739595002,
+        "coherence": 0.5678774256891782,
+        "curvature": -0.9995437982868626,
+        "confidence": 0.5732323765846921
+      },
+      "sloth": {
+        "naive_unified": 60.123803869504336,
+        "riemannian_unified": 70.79878030695534,
+        "consensus": 0.3539378689186095,
+        "coherence": 0.5591997430660981,
+        "curvature": -0.9996134916508824,
+        "confidence": 0.5702898172784221
+      },
+      "souls": {
+        "naive_unified": 60.39573926058532,
+        "riemannian_unified": 71.12237673439738,
+        "consensus": 0.3548444674280482,
+        "coherence": 0.5611967604269416,
+        "curvature": -0.9995995931520884,
+        "confidence": 0.5710169999920184
+      },
+      "stagefright": {
+        "naive_unified": 60.17255689064258,
+        "riemannian_unified": 71.00537580472249,
+        "consensus": 0.3529446530735462,
+        "coherence": 0.5649343934146684,
+        "curvature": -0.9996009882937674,
+        "confidence": 0.571476326288042
+      },
+      "stumblinginthedark": {
+        "naive_unified": 59.97902794717468,
+        "riemannian_unified": 70.82721301582906,
+        "consensus": 0.3545403156613274,
+        "coherence": 0.552409940035374,
+        "curvature": -0.9996135481158351,
+        "confidence": 0.5687429730113394
+      },
+      "superheroesjustforeachother": {
+        "naive_unified": 61.90775922225498,
+        "riemannian_unified": 73.58719034587915,
+        "consensus": 0.3570456573272051,
+        "coherence": 0.5806945698803052,
+        "curvature": -0.9994776143653739,
+        "confidence": 0.5764529733794374
+      },
+      "sweetaspie": {
+        "naive_unified": 61.40271193867526,
+        "riemannian_unified": 72.16875288084078,
+        "consensus": 0.356812023439796,
+        "coherence": 0.5758719229007472,
+        "curvature": -0.9995502341319178,
+        "confidence": 0.5751822210857042
+      },
+      "swimmingwithastronauts": {
+        "naive_unified": 61.181662654961144,
+        "riemannian_unified": 72.60559293394729,
+        "consensus": 0.35523540566027884,
+        "coherence": 0.5757512883747732,
+        "curvature": -0.999524855681935,
+        "confidence": 0.5747602431414749
+      },
+      "thatthingonmyarm": {
+        "naive_unified": 60.42821633033761,
+        "riemannian_unified": 71.52504628601922,
+        "consensus": 0.3534599630715112,
+        "coherence": 0.5682591252037336,
+        "curvature": -0.9995761996559605,
+        "confidence": 0.5724386174804751
+      },
+      "theadvancedbeginner": {
+        "naive_unified": 59.74500779653941,
+        "riemannian_unified": 70.95006836990729,
+        "consensus": 0.35173571600290376,
+        "coherence": 0.5609570497949677,
+        "curvature": -0.9996018205761882,
+        "confidence": 0.5701796795400417
+      },
+      "theclosetthatateeverything": {
+        "naive_unified": 61.13778522722264,
+        "riemannian_unified": 72.46175021273055,
+        "consensus": 0.3553343587127152,
+        "coherence": 0.5745519033001784,
+        "curvature": -0.9995324952448772,
+        "confidence": 0.5744844321951637
+      },
+      "thecurse": {
+        "naive_unified": 59.86067776560252,
+        "riemannian_unified": 71.08488435203138,
+        "consensus": 0.3541566026004883,
+        "coherence": 0.5511649972299978,
+        "curvature": -0.9996003897436915,
+        "confidence": 0.5683370196941625
+      },
+      "thefreedomridersandme": {
+        "naive_unified": 60.27115677154658,
+        "riemannian_unified": 71.52549195615265,
+        "consensus": 0.3528014997820465,
+        "coherence": 0.5677087543142775,
+        "curvature": -0.9995749396917905,
+        "confidence": 0.5721365248636664
+      },
+      "theinterview": {
+        "naive_unified": 60.148918290253064,
+        "riemannian_unified": 71.17053252561885,
+        "consensus": 0.3524322754678935,
+        "coherence": 0.566713365382738,
+        "curvature": -0.9995917305318711,
+        "confidence": 0.5717938266574576
+      },
+      "thepostmanalwayscalls": {
+        "naive_unified": 58.34337345730918,
+        "riemannian_unified": 69.39151887500938,
+        "consensus": 0.3525243217241673,
+        "coherence": 0.5196838176778211,
+        "curvature": -0.9996493139680556,
+        "confidence": 0.560054153344642
+      },
+      "theshower": {
+        "naive_unified": 60.78583787000475,
+        "riemannian_unified": 71.43144236936604,
+        "consensus": 0.35625311546487,
+        "coherence": 0.563462965568497,
+        "curvature": -0.9995872147527327,
+        "confidence": 0.5719368521892513
+      },
+      "thetiniestbouquet": {
+        "naive_unified": 61.12389564995043,
+        "riemannian_unified": 72.84712848702812,
+        "consensus": 0.35442256870653877,
+        "coherence": 0.5780643846269456,
+        "curvature": -0.9995105935333395,
+        "confidence": 0.5751366202866441
+      },
+      "thetriangleshirtwaistconnection": {
+        "naive_unified": 60.02937590735072,
+        "riemannian_unified": 70.66463146739369,
+        "consensus": 0.3540701725897529,
+        "coherence": 0.5562937100658961,
+        "curvature": -0.9996203116157396,
+        "confidence": 0.5695957574746051
+      },
+      "threemonths": {
+        "naive_unified": 60.180671884330096,
+        "riemannian_unified": 70.96058421188383,
+        "consensus": 0.3533609098572155,
+        "coherence": 0.5632321602496914,
+        "curvature": -0.9996041867973673,
+        "confidence": 0.5711545379098574
+      },
+      "treasureisland": {
+        "naive_unified": 59.59466669986768,
+        "riemannian_unified": 70.39762781096923,
+        "consensus": 0.35162883956593793,
+        "coherence": 0.5574615675594871,
+        "curvature": -0.9996283458591447,
+        "confidence": 0.5692766494061667
+      },
+      "undertheinfluence": {
+        "naive_unified": 60.93011047539486,
+        "riemannian_unified": 71.83324682952136,
+        "consensus": 0.3555491776226229,
+        "coherence": 0.5699342510230967,
+        "curvature": -0.9995650232666765,
+        "confidence": 0.5733807309055141
+      },
+      "vixenandtheussr": {
+        "naive_unified": 60.82242459728135,
+        "riemannian_unified": 71.7124688042942,
+        "consensus": 0.3557482251812722,
+        "coherence": 0.5663047865777135,
+        "curvature": -0.999571980878354,
+        "confidence": 0.5725224865170857
+      },
+      "waitingtogo": {
+        "naive_unified": 62.06803656094933,
+        "riemannian_unified": 73.66588747661378,
+        "consensus": 0.35752814384380643,
+        "coherence": 0.5824866361025912,
+        "curvature": -0.9994746825915943,
+        "confidence": 0.5770218813402697
+      },
+      "whenmothersbullyback": {
+        "naive_unified": 62.26740189147298,
+        "riemannian_unified": 73.44309111524821,
+        "consensus": 0.3589002021010275,
+        "coherence": 0.5824966227393181,
+        "curvature": -0.9994894353064728,
+        "confidence": 0.5773660350557033
+      },
+      "wheretheressmoke": {
+        "naive_unified": 60.42279978970726,
+        "riemannian_unified": 71.32203821137418,
+        "consensus": 0.35369916206253266,
+        "coherence": 0.5671932396522085,
+        "curvature": -0.9995867683026994,
+        "confidence": 0.5722309734365036
+      },
+      "wildwomenanddancingqueens": {
+        "naive_unified": 59.157093629269184,
+        "riemannian_unified": 69.96878786996044,
+        "consensus": 0.35097715587025125,
+        "coherence": 0.5499687273858901,
+        "curvature": -0.9996470096224106,
+        "confidence": 0.5672388013131056
+      }
+    },
+    "microsoft/Phi-3-mini-4k-instruct": {
+      "adollshouse": {
+        "naive_unified": 62.45616035218519,
+        "riemannian_unified": 73.64891425750622,
+        "consensus": 0.35728295700038126,
+        "coherence": 0.566959109769387,
+        "curvature": -0.9994808974977751,
+        "confidence": 0.5730781311634943
+      },
+      "adventuresinsayingyes": {
+        "naive_unified": 63.979799076603165,
+        "riemannian_unified": 74.52562964930365,
+        "consensus": 0.36133555951466106,
+        "coherence": 0.5714430453823373,
+        "curvature": -0.9994399356332999,
+        "confidence": 0.5752160349855532
+      },
+      "afatherscover": {
+        "naive_unified": 63.24197709651836,
+        "riemannian_unified": 74.55593103218331,
+        "consensus": 0.3580829245699591,
+        "coherence": 0.5750912755422667,
+        "curvature": -0.99943185736373,
+        "confidence": 0.5753156771659068
+      },
+      "againstthewind": {
+        "naive_unified": 63.221373503711405,
+        "riemannian_unified": 74.22428575057471,
+        "consensus": 0.3592794884001807,
+        "coherence": 0.5675402905833875,
+        "curvature": -0.9994534064656636,
+        "confidence": 0.5737250889109103
+      },
+      "alternateithicatom": {
+        "naive_unified": 62.49888738079249,
+        "riemannian_unified": 73.4098146707743,
+        "consensus": 0.3590536024009599,
+        "coherence": 0.5376092163081679,
+        "curvature": -0.999496301255209,
+        "confidence": 0.5661819017422379
+      },
+      "avatar": {
+        "naive_unified": 62.23456834409744,
+        "riemannian_unified": 72.95837461490592,
+        "consensus": 0.35702347328589396,
+        "coherence": 0.5571659293409598,
+        "curvature": -0.9995184362489102,
+        "confidence": 0.5705615109662688
+      },
+      "backsideofthestorm": {
+        "naive_unified": 61.825710410100534,
+        "riemannian_unified": 72.91545029763418,
+        "consensus": 0.35663509264054305,
+        "coherence": 0.541947641942541,
+        "curvature": -0.9995187643347613,
+        "confidence": 0.5666598137667872
+      },
+      "becomingindian": {
+        "naive_unified": 62.90849405236242,
+        "riemannian_unified": 73.37988749854037,
+        "consensus": 0.3589130932343232,
+        "coherence": 0.5509618301932816,
+        "curvature": -0.9995000942989294,
+        "confidence": 0.5694845789010607
+      },
+      "beneaththemushroomcloud": {
+        "naive_unified": 62.83993345740979,
+        "riemannian_unified": 74.29109952281128,
+        "consensus": 0.35662368753438844,
+        "coherence": 0.5712420572069327,
+        "curvature": -0.9994432205306443,
+        "confidence": 0.5739875176663312
+      },
+      "birthofanation": {
+        "naive_unified": 63.30941996729931,
+        "riemannian_unified": 74.9127829319689,
+        "consensus": 0.357117925929417,
+        "coherence": 0.5740786511931529,
+        "curvature": -0.999408546372273,
+        "confidence": 0.5748234165705152
+      },
+      "bluehope": {
+        "naive_unified": 62.79348473554769,
+        "riemannian_unified": 74.02583880689505,
+        "consensus": 0.3577304562429255,
+        "coherence": 0.5620938062427666,
+        "curvature": -0.9994617286139311,
+        "confidence": 0.5719754439843445
+      },
+      "breakingupintheageofgoogle": {
+        "naive_unified": 62.78414821868627,
+        "riemannian_unified": 73.2812966775544,
+        "consensus": 0.35897073421068315,
+        "coherence": 0.5628451026941079,
+        "curvature": -0.9995048759297127,
+        "confidence": 0.5724693672855976
+      },
+      "buck": {
+        "naive_unified": 62.209650532434566,
+        "riemannian_unified": 73.1194466263039,
+        "consensus": 0.3579853573459775,
+        "coherence": 0.5582850552611432,
+        "curvature": -0.9995121817959716,
+        "confidence": 0.5710823389613707
+      },
+      "catfishingstrangerstofindmyself": {
+        "naive_unified": 62.55681096883119,
+        "riemannian_unified": 73.47039293538745,
+        "consensus": 0.35812043048930625,
+        "coherence": 0.5600278046975371,
+        "curvature": -0.9994934874399,
+        "confidence": 0.571553514778615
+      },
+      "cautioneating": {
+        "naive_unified": 62.78445978022806,
+        "riemannian_unified": 73.54204261210027,
+        "consensus": 0.35887076740331486,
+        "coherence": 0.5653295135888948,
+        "curvature": -0.9994902848557974,
+        "confidence": 0.5730668209208676
+      },
+      "christmas1940": {
+        "naive_unified": 61.46122564984797,
+        "riemannian_unified": 72.53234383254667,
+        "consensus": 0.35592541825523644,
+        "coherence": 0.5308555492315611,
+        "curvature": -0.9995329456677462,
+        "confidence": 0.5637080671189495
+      },
+      "cocoonoflove": {
+        "naive_unified": 63.45125990489188,
+        "riemannian_unified": 74.67971086660357,
+        "consensus": 0.3585443198418461,
+        "coherence": 0.566240405666822,
+        "curvature": -0.9994259463703477,
+        "confidence": 0.5732188524588095
+      },
+      "comingofageondeathrow": {
+        "naive_unified": 61.88687348799197,
+        "riemannian_unified": 72.48470593709332,
+        "consensus": 0.35720936435411504,
+        "coherence": 0.522971895441441,
+        "curvature": -0.9995356072953874,
+        "confidence": 0.5620578952925861
+      },
+      "eyespy": {
+        "naive_unified": 60.66656776685732,
+        "riemannian_unified": 71.9248974793003,
+        "consensus": 0.3539126501600503,
+        "coherence": 0.5347205685371296,
+        "curvature": -0.9995264018145745,
+        "confidence": 0.5641717320419335
+      },
+      "firetestforlove": {
+        "naive_unified": 63.029981358151915,
+        "riemannian_unified": 73.75896957484099,
+        "consensus": 0.35869616079479044,
+        "coherence": 0.5609866934212685,
+        "curvature": -0.9994779399511732,
+        "confidence": 0.5719386001718524
+      },
+      "food": {
+        "naive_unified": 62.81046476919814,
+        "riemannian_unified": 73.81377431561447,
+        "consensus": 0.3577914090066406,
+        "coherence": 0.5659546902949314,
+        "curvature": -0.9994726492655999,
+        "confidence": 0.5729548982822238
+      },
+      "forgettingfear": {
+        "naive_unified": 63.150004561705956,
+        "riemannian_unified": 74.06889344934476,
+        "consensus": 0.3589720458679877,
+        "coherence": 0.5623991368496467,
+        "curvature": -0.9994616236390466,
+        "confidence": 0.5723621837020543
+      },
+      "gangstersandcookies": {
+        "naive_unified": 63.1399230445838,
+        "riemannian_unified": 74.24110993325368,
+        "consensus": 0.357957013838291,
+        "coherence": 0.5672655776206944,
+        "curvature": -0.9994487452607493,
+        "confidence": 0.5733262209555124
+      },
+      "goingthelibertyway": {
+        "naive_unified": 62.40613747955233,
+        "riemannian_unified": 73.01602980577286,
+        "consensus": 0.3580010894882542,
+        "coherence": 0.5549422456677922,
+        "curvature": -0.999517980967187,
+        "confidence": 0.5702500359909419
+      },
+      "goldiethegoldfish": {
+        "naive_unified": 62.90684110372218,
+        "riemannian_unified": 73.57558113511774,
+        "consensus": 0.3584663274987112,
+        "coherence": 0.5625205004939758,
+        "curvature": -0.9994878399977268,
+        "confidence": 0.5722636826391575
+      },
+      "golfclubbing": {
+        "naive_unified": 62.40612725851275,
+        "riemannian_unified": 73.39118115666263,
+        "consensus": 0.3570083530925318,
+        "coherence": 0.5586840996012269,
+        "curvature": -0.9994949228354363,
+        "confidence": 0.5709394370754285
+      },
+      "gpsformylostidentity": {
+        "naive_unified": 63.635047143465066,
+        "riemannian_unified": 74.8317692169398,
+        "consensus": 0.3592260734680779,
+        "coherence": 0.5749667307821502,
+        "curvature": -0.9994183163357676,
+        "confidence": 0.5755715742830407
+      },
+      "hangtime": {
+        "naive_unified": 61.81342766477517,
+        "riemannian_unified": 72.4535653616068,
+        "consensus": 0.3574649780271007,
+        "coherence": 0.542051396561866,
+        "curvature": -0.999545064648252,
+        "confidence": 0.5668908037996133
+      },
+      "haveyoumethimyet": {
+        "naive_unified": 62.460956327516314,
+        "riemannian_unified": 73.2805962192015,
+        "consensus": 0.35707112936813806,
+        "coherence": 0.561227555481265,
+        "curvature": -0.9995007743129345,
+        "confidence": 0.5715904566844662
+      },
+      "howtodraw": {
+        "naive_unified": 63.31371589308814,
+        "riemannian_unified": 74.41139120575104,
+        "consensus": 0.35893162057831646,
+        "coherence": 0.5658436048458504,
+        "curvature": -0.999442159760439,
+        "confidence": 0.5732149854503159
+      },
+      "ifthishaircouldtalk": {
+        "naive_unified": 62.64410580092733,
+        "riemannian_unified": 73.47379025472425,
+        "consensus": 0.3581605396381741,
+        "coherence": 0.5608171815768899,
+        "curvature": -0.9994928998680014,
+        "confidence": 0.5717609403519699
+      },
+      "inamoment": {
+        "naive_unified": 62.02083604200469,
+        "riemannian_unified": 73.02951510158452,
+        "consensus": 0.35692833696919674,
+        "coherence": 0.5509085019962919,
+        "curvature": -0.9995144811987381,
+        "confidence": 0.5689737339722678
+      },
+      "itsabox": {
+        "naive_unified": 62.84214636219086,
+        "riemannian_unified": 73.71711126059844,
+        "consensus": 0.3587629893640684,
+        "coherence": 0.5642986321478055,
+        "curvature": -0.9994806794876165,
+        "confidence": 0.5727830399097976
+      },
+      "jugglingandjesus": {
+        "naive_unified": 62.938468605160175,
+        "riemannian_unified": 74.13973330002017,
+        "consensus": 0.357546685163362,
+        "coherence": 0.5669940648144786,
+        "curvature": -0.999453908050222,
+        "confidence": 0.5731552855036066
+      },
+      "kiksuya": {
+        "naive_unified": 61.85797374529521,
+        "riemannian_unified": 72.50921522910271,
+        "consensus": 0.3577926962242639,
+        "coherence": 0.536987877583194,
+        "curvature": -0.9995412728709119,
+        "confidence": 0.5657072024928151
+      },
+      "leavingbaghdad": {
+        "naive_unified": 62.36201678925237,
+        "riemannian_unified": 73.49411209040366,
+        "consensus": 0.35751752395581277,
+        "coherence": 0.5591834238336229,
+        "curvature": -0.9994907564712482,
+        "confidence": 0.571191944223663
+      },
+      "lifeanddeathontheoregontrail": {
+        "naive_unified": 63.00648952166516,
+        "riemannian_unified": 74.2501809021606,
+        "consensus": 0.3583415398960008,
+        "coherence": 0.5637454362436186,
+        "curvature": -0.9994497888780187,
+        "confidence": 0.5725422210914619
+      },
+      "lifereimagined": {
+        "naive_unified": 63.004271831950824,
+        "riemannian_unified": 73.97480416191273,
+        "consensus": 0.3581286335355271,
+        "coherence": 0.5679518367457629,
+        "curvature": -0.9994641184971658,
+        "confidence": 0.5735392760179372
+      },
+      "listo": {
+        "naive_unified": 61.67950077226611,
+        "riemannian_unified": 72.51308271867848,
+        "consensus": 0.35638922064004647,
+        "coherence": 0.5335048091903414,
+        "curvature": -0.9995359843537918,
+        "confidence": 0.5644860531071838
+      },
+      "mayorofthefreaks": {
+        "naive_unified": 63.3787343601572,
+        "riemannian_unified": 74.1742744205705,
+        "consensus": 0.36050020504581487,
+        "coherence": 0.5624434897561899,
+        "curvature": -0.9994594853711863,
+        "confidence": 0.5727555084854571
+      },
+      "metsmagic": {
+        "naive_unified": 62.6083652119684,
+        "riemannian_unified": 74.1308509533527,
+        "consensus": 0.3566550727816393,
+        "coherence": 0.5643250025874066,
+        "curvature": -0.9994527962284356,
+        "confidence": 0.5722652191614146
+      },
+      "mybackseatviewofagreatromance": {
+        "naive_unified": 61.89132991468331,
+        "riemannian_unified": 72.49786274769855,
+        "consensus": 0.35770610033867917,
+        "coherence": 0.539795341836386,
+        "curvature": -0.9995424514162037,
+        "confidence": 0.5663873111444019
+      },
+      "myfathershands": {
+        "naive_unified": 62.59821136452469,
+        "riemannian_unified": 73.19434732458858,
+        "consensus": 0.35848136227750277,
+        "coherence": 0.5535576763063205,
+        "curvature": -0.9995091770528005,
+        "confidence": 0.5700247719366107
+      },
+      "notontheusualtour": {
+        "naive_unified": 62.81771018284121,
+        "riemannian_unified": 73.77439383703661,
+        "consensus": 0.3581370600265048,
+        "coherence": 0.5639759445023272,
+        "curvature": -0.9994760822533604,
+        "confidence": 0.5725463086916311
+      },
+      "odetostepfather": {
+        "naive_unified": 63.379239420208094,
+        "riemannian_unified": 74.47862863708991,
+        "consensus": 0.3589016501726097,
+        "coherence": 0.5671360073907474,
+        "curvature": -0.9994377217989693,
+        "confidence": 0.5735310018724669
+      },
+      "onlyonewaytofindout": {
+        "naive_unified": 62.240333539478335,
+        "riemannian_unified": 73.45285801962365,
+        "consensus": 0.3564684079781222,
+        "coherence": 0.5587384780886921,
+        "curvature": -0.9994903791521623,
+        "confidence": 0.5708184635126741
+      },
+      "penpal": {
+        "naive_unified": 62.804589905197254,
+        "riemannian_unified": 73.08319228847802,
+        "consensus": 0.3596708973154628,
+        "coherence": 0.5542023125291446,
+        "curvature": -0.9995177973193539,
+        "confidence": 0.5704825215612926
+      },
+      "quietfire": {
+        "naive_unified": 62.53377227635715,
+        "riemannian_unified": 73.41069476500874,
+        "consensus": 0.35728372687961163,
+        "coherence": 0.5595043137426944,
+        "curvature": -0.9994945071157233,
+        "confidence": 0.571213372310573
+      },
+      "reachingoutbetweenthebars": {
+        "naive_unified": 62.67444662975094,
+        "riemannian_unified": 73.57705035353926,
+        "consensus": 0.3587730129171083,
+        "coherence": 0.5405029311691565,
+        "curvature": -0.9994863448904014,
+        "confidence": 0.5668360992379091
+      },
+      "shoppinginchina": {
+        "naive_unified": 62.37584016587079,
+        "riemannian_unified": 73.78158196773335,
+        "consensus": 0.35639162446438294,
+        "coherence": 0.5648458831332642,
+        "curvature": -0.9994717659808551,
+        "confidence": 0.5723278316347039
+      },
+      "singlewomanseekingmanwich": {
+        "naive_unified": 63.73796808051606,
+        "riemannian_unified": 74.6518811681337,
+        "consensus": 0.36045119883572213,
+        "coherence": 0.5669293680899684,
+        "curvature": -0.9994311093349015,
+        "confidence": 0.5738673377045027
+      },
+      "sloth": {
+        "naive_unified": 61.60869632164148,
+        "riemannian_unified": 72.45488273103842,
+        "consensus": 0.35721241857607344,
+        "coherence": 0.5381152018584148,
+        "curvature": -0.9995429002320011,
+        "confidence": 0.5658438144128499
+      },
+      "souls": {
+        "naive_unified": 63.10966699532748,
+        "riemannian_unified": 74.02518393810129,
+        "consensus": 0.35931578144461795,
+        "coherence": 0.5661530974851979,
+        "curvature": -0.9994648290411985,
+        "confidence": 0.5733863127964279
+      },
+      "stagefright": {
+        "naive_unified": 63.13817825060399,
+        "riemannian_unified": 74.00607359378182,
+        "consensus": 0.3593958800649788,
+        "coherence": 0.5659889931551852,
+        "curvature": -0.999465635085223,
+        "confidence": 0.5733652371976047
+      },
+      "stumblinginthedark": {
+        "naive_unified": 62.106534991497774,
+        "riemannian_unified": 72.8014712981714,
+        "consensus": 0.35755943919065597,
+        "coherence": 0.5525614499881479,
+        "curvature": -0.9995280396599286,
+        "confidence": 0.5695434989586985
+      },
+      "superheroesjustforeachother": {
+        "naive_unified": 63.793793370586464,
+        "riemannian_unified": 73.7275467655151,
+        "consensus": 0.3615834705591781,
+        "coherence": 0.5585996984860445,
+        "curvature": -0.9994857574120509,
+        "confidence": 0.5720629595357264
+      },
+      "sweetaspie": {
+        "naive_unified": 63.12436555800122,
+        "riemannian_unified": 73.66400908984384,
+        "consensus": 0.3596944048577068,
+        "coherence": 0.5671612216917119,
+        "curvature": -0.9994850414369731,
+        "confidence": 0.5737311397937974
+      },
+      "swimmingwithastronauts": {
+        "naive_unified": 63.38326392572852,
+        "riemannian_unified": 74.68944887680328,
+        "consensus": 0.3576789364711567,
+        "coherence": 0.5732900740079142,
+        "curvature": -0.9994220921013772,
+        "confidence": 0.5747652783822195
+      },
+      "thatthingonmyarm": {
+        "naive_unified": 62.51883679468769,
+        "riemannian_unified": 73.86605194133611,
+        "consensus": 0.3562681319981786,
+        "coherence": 0.5636378741391326,
+        "curvature": -0.9994664055302697,
+        "confidence": 0.5719954495313215
+      },
+      "theadvancedbeginner": {
+        "naive_unified": 62.52112414473879,
+        "riemannian_unified": 73.60546701710992,
+        "consensus": 0.35646690911022255,
+        "coherence": 0.5642416053234349,
+        "curvature": -0.9994811495403852,
+        "confidence": 0.5721947198871098
+      },
+      "theclosetthatateeverything": {
+        "naive_unified": 63.69093781911353,
+        "riemannian_unified": 74.56869099678372,
+        "consensus": 0.36053487298615217,
+        "coherence": 0.5721363840287729,
+        "curvature": -0.9994368128185755,
+        "confidence": 0.5751894853812156
+      },
+      "thecurse": {
+        "naive_unified": 62.34801625116556,
+        "riemannian_unified": 73.50401482518188,
+        "consensus": 0.35772135121970045,
+        "coherence": 0.5547684742847082,
+        "curvature": -0.9994909492951787,
+        "confidence": 0.5701391459093849
+      },
+      "thefreedomridersandme": {
+        "naive_unified": 62.61901740129705,
+        "riemannian_unified": 73.56620240974907,
+        "consensus": 0.3576819788938524,
+        "coherence": 0.5671772686621659,
+        "curvature": -0.9994860243512957,
+        "confidence": 0.5732319546004354
+      },
+      "theinterview": {
+        "naive_unified": 62.71739579420447,
+        "riemannian_unified": 73.87445149800557,
+        "consensus": 0.35781944927179116,
+        "coherence": 0.5649607179309362,
+        "curvature": -0.9994702450671955,
+        "confidence": 0.5727136364882052
+      },
+      "thepostmanalwayscalls": {
+        "naive_unified": 63.397695987507355,
+        "riemannian_unified": 74.59859280956962,
+        "consensus": 0.3578305081479202,
+        "coherence": 0.5698850290088531,
+        "curvature": -0.9994278079460787,
+        "confidence": 0.5739513840638242
+      },
+      "theshower": {
+        "naive_unified": 62.40290954533544,
+        "riemannian_unified": 72.65543141896372,
+        "consensus": 0.35943263725529623,
+        "coherence": 0.5447951768858329,
+        "curvature": -0.9995396930262602,
+        "confidence": 0.5680691579411071
+      },
+      "thetiniestbouquet": {
+        "naive_unified": 61.19277479366867,
+        "riemannian_unified": 71.73232800705352,
+        "consensus": 0.3566508305462947,
+        "coherence": 0.5222903393474282,
+        "curvature": -0.9995574700216289,
+        "confidence": 0.5617458611932629
+      },
+      "thetriangleshirtwaistconnection": {
+        "naive_unified": 63.2562644931359,
+        "riemannian_unified": 73.78615779359085,
+        "consensus": 0.359638870863781,
+        "coherence": 0.5702888654707244,
+        "curvature": -0.9994780493832125,
+        "confidence": 0.5744998106317596
+      },
+      "threemonths": {
+        "naive_unified": 62.61068266000352,
+        "riemannian_unified": 73.64793047009942,
+        "consensus": 0.35744354522951355,
+        "coherence": 0.5635544057269507,
+        "curvature": -0.9994816578923953,
+        "confidence": 0.5722670322404959
+      },
+      "treasureisland": {
+        "naive_unified": 62.46554325943662,
+        "riemannian_unified": 73.32183017976247,
+        "consensus": 0.3577100580755473,
+        "coherence": 0.5564120778780787,
+        "curvature": -0.9995004544288877,
+        "confidence": 0.5705463488949084
+      },
+      "undertheinfluence": {
+        "naive_unified": 63.33534886835931,
+        "riemannian_unified": 74.41618410764875,
+        "consensus": 0.3594185358541157,
+        "coherence": 0.5686829465535366,
+        "curvature": -0.9994427157933119,
+        "confidence": 0.5740464985294009
+      },
+      "vixenandtheussr": {
+        "naive_unified": 62.861344129324024,
+        "riemannian_unified": 73.57173732463723,
+        "consensus": 0.3583947430987798,
+        "coherence": 0.5632066414508546,
+        "curvature": -0.999487459764996,
+        "confidence": 0.5724173567662669
+      },
+      "waitingtogo": {
+        "naive_unified": 62.98447680344599,
+        "riemannian_unified": 74.05866249358152,
+        "consensus": 0.35846274006071394,
+        "coherence": 0.5658548783783395,
+        "curvature": -0.999460883925731,
+        "confidence": 0.5730988607004007
+      },
+      "whenmothersbullyback": {
+        "naive_unified": 63.35126780051221,
+        "riemannian_unified": 73.57929694431509,
+        "consensus": 0.3610369100737126,
+        "coherence": 0.5504239038911535,
+        "curvature": -0.9994937711037478,
+        "confidence": 0.5698816333713825
+      },
+      "wheretheressmoke": {
+        "naive_unified": 62.19866778182144,
+        "riemannian_unified": 73.4675830695279,
+        "consensus": 0.3557892274781629,
+        "coherence": 0.5585203142310009,
+        "curvature": -0.9994876575180381,
+        "confidence": 0.5705943778595073
+      },
+      "wildwomenanddancingqueens": {
+        "naive_unified": 63.70595003942291,
+        "riemannian_unified": 74.73074978772047,
+        "consensus": 0.35870285828816106,
+        "coherence": 0.571996047292705,
+        "curvature": -0.9994212315569665,
+        "confidence": 0.5746978313476029
+      }
+    },
+    "mistralai/Mistral-7B-Instruct-v0.3": {
+      "adollshouse": {
+        "naive_unified": 59.78424714013035,
+        "riemannian_unified": 68.17122257959582,
+        "consensus": 0.3564704769860137,
+        "coherence": 0.5291748124875008,
+        "curvature": -0.999732709456367,
+        "confidence": 0.5634057686208456
+      },
+      "adventuresinsayingyes": {
+        "naive_unified": 60.76838958003665,
+        "riemannian_unified": 69.21298469563274,
+        "consensus": 0.360175991067623,
+        "coherence": 0.5452113701879963,
+        "curvature": -0.9997004485714479,
+        "confidence": 0.5683442544364884
+      },
+      "afatherscover": {
+        "naive_unified": 60.19882763546521,
+        "riemannian_unified": 68.62872985737036,
+        "consensus": 0.35981290891623857,
+        "coherence": 0.5170134479942591,
+        "curvature": -0.9997161157446077,
+        "confidence": 0.5612025620220814
+      },
+      "againstthewind": {
+        "naive_unified": 60.09032553201861,
+        "riemannian_unified": 68.26059563120114,
+        "consensus": 0.3575067559716139,
+        "coherence": 0.5346311202280085,
+        "curvature": -0.9997339665637922,
+        "confidence": 0.5650287996555439
+      },
+      "alternateithicatom": {
+        "naive_unified": 58.89252531029427,
+        "riemannian_unified": 68.06471747855356,
+        "consensus": 0.3548185594101816,
+        "coherence": 0.5257823995445016,
+        "curvature": -0.9997105555059618,
+        "confidence": 0.562146724054113
+      },
+      "avatar": {
+        "naive_unified": 60.611381085646926,
+        "riemannian_unified": 68.9438561833314,
+        "consensus": 0.3590128685670119,
+        "coherence": 0.5463131271264058,
+        "curvature": -0.9997101654266428,
+        "confidence": 0.5683280191247296
+      },
+      "backsideofthestorm": {
+        "naive_unified": 59.920280990424416,
+        "riemannian_unified": 68.77530821278712,
+        "consensus": 0.3599485748686013,
+        "coherence": 0.5369018307594455,
+        "curvature": -0.9996854750963756,
+        "confidence": 0.5662113930608955
+      },
+      "becomingindian": {
+        "naive_unified": 61.52826328762808,
+        "riemannian_unified": 70.17341478328098,
+        "consensus": 0.3615094504235057,
+        "coherence": 0.5620034032201934,
+        "curvature": -0.999659523011857,
+        "confidence": 0.5728793926562065
+      },
+      "beneaththemushroomcloud": {
+        "naive_unified": 60.483959771156954,
+        "riemannian_unified": 68.7339663202952,
+        "consensus": 0.35884042032025043,
+        "coherence": 0.5424947067213582,
+        "curvature": -0.9997184989438022,
+        "confidence": 0.5673295353103922
+      },
+      "birthofanation": {
+        "naive_unified": 59.778431090057715,
+        "riemannian_unified": 68.79621599053576,
+        "consensus": 0.3567637564345114,
+        "coherence": 0.5298448577756963,
+        "curvature": -0.9997049970238117,
+        "confidence": 0.5636491492302315
+      },
+      "bluehope": {
+        "naive_unified": 60.51291020647411,
+        "riemannian_unified": 68.89309355474774,
+        "consensus": 0.3590981869325283,
+        "coherence": 0.5423933109134559,
+        "curvature": -0.9997116952336083,
+        "confidence": 0.5673692539260615
+      },
+      "breakingupintheageofgoogle": {
+        "naive_unified": 59.71313128630901,
+        "riemannian_unified": 67.94754226039456,
+        "consensus": 0.3569657476864527,
+        "coherence": 0.5168626244435726,
+        "curvature": -0.9997388845525852,
+        "confidence": 0.5604509712121701
+      },
+      "buck": {
+        "naive_unified": 63.64655034448856,
+        "riemannian_unified": 73.26374208187576,
+        "consensus": 0.36713548534281865,
+        "coherence": 0.5829124923302463,
+        "curvature": -0.9995176370794532,
+        "confidence": 0.5795262282627576
+      },
+      "catfishingstrangerstofindmyself": {
+        "naive_unified": 60.54909969278223,
+        "riemannian_unified": 68.89212350267643,
+        "consensus": 0.3604695625067462,
+        "coherence": 0.5335229034293051,
+        "curvature": -0.9997125711624585,
+        "confidence": 0.5654944153663308
+      },
+      "cautioneating": {
+        "naive_unified": 59.61490656120616,
+        "riemannian_unified": 67.92305145201674,
+        "consensus": 0.35704743805724265,
+        "coherence": 0.4976562380170804,
+        "curvature": -0.9997358815193738,
+        "confidence": 0.5556700734593307
+      },
+      "christmas1940": {
+        "naive_unified": 59.17649082392514,
+        "riemannian_unified": 68.38227280123553,
+        "consensus": 0.3570246428908603,
+        "coherence": 0.5414190416751765,
+        "curvature": -0.9996856938894181,
+        "confidence": 0.5666096926666997
+      },
+      "cocoonoflove": {
+        "naive_unified": 60.49803256473435,
+        "riemannian_unified": 68.63336717155283,
+        "consensus": 0.359938468835614,
+        "coherence": 0.5350877288350235,
+        "curvature": -0.9997237322943638,
+        "confidence": 0.5657518215228807
+      },
+      "comingofageondeathrow": {
+        "naive_unified": 61.49199451950345,
+        "riemannian_unified": 69.67695140878953,
+        "consensus": 0.36236246323715965,
+        "coherence": 0.5569813085242175,
+        "curvature": -0.9996859789512132,
+        "confidence": 0.5718346882402036
+      },
+      "eyespy": {
+        "naive_unified": 59.36723098729284,
+        "riemannian_unified": 67.64102244037488,
+        "consensus": 0.3575674403668141,
+        "coherence": 0.5392635762989098,
+        "curvature": -0.9997256445362321,
+        "confidence": 0.5662028503546095
+      },
+      "firetestforlove": {
+        "naive_unified": 59.804033687098,
+        "riemannian_unified": 68.43124070954245,
+        "consensus": 0.35712574350866516,
+        "coherence": 0.5257784598135938,
+        "curvature": -0.9997207202008083,
+        "confidence": 0.5627216000345696
+      },
+      "food": {
+        "naive_unified": 60.0566885303901,
+        "riemannian_unified": 69.22148131857193,
+        "consensus": 0.3576974530314452,
+        "coherence": 0.5352223979535945,
+        "curvature": -0.9996903339928508,
+        "confidence": 0.5652283073886253
+      },
+      "forgettingfear": {
+        "naive_unified": 61.265737495707796,
+        "riemannian_unified": 70.1101905287617,
+        "consensus": 0.36213479305511037,
+        "coherence": 0.548997024312861,
+        "curvature": -0.9996643517457612,
+        "confidence": 0.5697836893391337
+      },
+      "gangstersandcookies": {
+        "naive_unified": 63.41293087391824,
+        "riemannian_unified": 72.66743821390145,
+        "consensus": 0.36717713386892153,
+        "coherence": 0.5816164489262753,
+        "curvature": -0.9995492810038188,
+        "confidence": 0.5792097178979023
+      },
+      "goingthelibertyway": {
+        "naive_unified": 59.6571588236798,
+        "riemannian_unified": 68.4179229740181,
+        "consensus": 0.35654090824177453,
+        "coherence": 0.5236766480987304,
+        "curvature": -0.9997187912162262,
+        "confidence": 0.5620501157472982
+      },
+      "goldiethegoldfish": {
+        "naive_unified": 59.823444885131835,
+        "riemannian_unified": 68.5870052369867,
+        "consensus": 0.3575736798479236,
+        "coherence": 0.5224154795384556,
+        "curvature": -0.9997132555610507,
+        "confidence": 0.5619935257667967
+      },
+      "golfclubbing": {
+        "naive_unified": 59.00205503911034,
+        "riemannian_unified": 67.49257228675981,
+        "consensus": 0.3547988685306113,
+        "coherence": 0.5247940687281621,
+        "curvature": -0.9997377774813339,
+        "confidence": 0.5618922143381914
+      },
+      "gpsformylostidentity": {
+        "naive_unified": 61.33396714068148,
+        "riemannian_unified": 69.80823627963909,
+        "consensus": 0.36218623502914776,
+        "coherence": 0.5524313061401943,
+        "curvature": -0.9996790024141986,
+        "confidence": 0.5706537724270855
+      },
+      "hangtime": {
+        "naive_unified": 59.8773512879577,
+        "riemannian_unified": 68.64968456856289,
+        "consensus": 0.3590836526694992,
+        "coherence": 0.5155229504217032,
+        "curvature": -0.9997039071022223,
+        "confidence": 0.5606487467200464
+      },
+      "haveyoumethimyet": {
+        "naive_unified": 62.21488709106256,
+        "riemannian_unified": 71.0746288095734,
+        "consensus": 0.36362130696119604,
+        "coherence": 0.5703590082263289,
+        "curvature": -0.9996205569277553,
+        "confidence": 0.5754998430376971
+      },
+      "howtodraw": {
+        "naive_unified": 60.99510589629592,
+        "riemannian_unified": 70.23988304708277,
+        "consensus": 0.36046431825714126,
+        "coherence": 0.549681950807651,
+        "curvature": -0.9996539459189735,
+        "confidence": 0.5695382596120327
+      },
+      "ifthishaircouldtalk": {
+        "naive_unified": 59.785086601434095,
+        "riemannian_unified": 68.34347847687536,
+        "consensus": 0.3580755622146164,
+        "coherence": 0.5035837768328094,
+        "curvature": -0.9997202218163742,
+        "confidence": 0.5574104298150224
+      },
+      "inamoment": {
+        "naive_unified": 60.20236662946018,
+        "riemannian_unified": 68.48308128064252,
+        "consensus": 0.35962283866626105,
+        "coherence": 0.520301817288609,
+        "curvature": -0.9997235027049793,
+        "confidence": 0.5619764572150792
+      },
+      "itsabox": {
+        "naive_unified": 61.28378314710263,
+        "riemannian_unified": 69.41547515769079,
+        "consensus": 0.3621098488391193,
+        "coherence": 0.5515621233584456,
+        "curvature": -0.9996975239454068,
+        "confidence": 0.5704156762304012
+      },
+      "jugglingandjesus": {
+        "naive_unified": 60.728491712352366,
+        "riemannian_unified": 69.66038644881118,
+        "consensus": 0.35856898283120103,
+        "coherence": 0.5531474843500285,
+        "curvature": -0.9996765624503572,
+        "confidence": 0.5699287284055092
+      },
+      "kiksuya": {
+        "naive_unified": 60.97319223219158,
+        "riemannian_unified": 69.39657016088597,
+        "consensus": 0.36058068293091344,
+        "coherence": 0.5499003852044029,
+        "curvature": -0.9996937710777516,
+        "confidence": 0.5696182954706166
+      },
+      "leavingbaghdad": {
+        "naive_unified": 60.65550009943185,
+        "riemannian_unified": 68.59016835278328,
+        "consensus": 0.36030475543836077,
+        "coherence": 0.5386903350489393,
+        "curvature": -0.9997284071027188,
+        "confidence": 0.5667436146677849
+      },
+      "lifeanddeathontheoregontrail": {
+        "naive_unified": 60.183094062846585,
+        "riemannian_unified": 68.38368864788849,
+        "consensus": 0.3587780860069914,
+        "coherence": 0.529055089726605,
+        "curvature": -0.999729255627344,
+        "confidence": 0.5639530579195032
+      },
+      "lifereimagined": {
+        "naive_unified": 60.711183395987746,
+        "riemannian_unified": 69.41974911653858,
+        "consensus": 0.35930435293191887,
+        "coherence": 0.548607264776427,
+        "curvature": -0.9996890976484523,
+        "confidence": 0.5689763628111602
+      },
+      "listo": {
+        "naive_unified": 58.391119471897504,
+        "riemannian_unified": 67.27352247376594,
+        "consensus": 0.35366571081738435,
+        "coherence": 0.5475472017541169,
+        "curvature": -0.9997147295549105,
+        "confidence": 0.5672993284612904
+      },
+      "mayorofthefreaks": {
+        "naive_unified": 59.68427942772205,
+        "riemannian_unified": 67.9789084299532,
+        "consensus": 0.35807594338633203,
+        "coherence": 0.5179786385615446,
+        "curvature": -0.9997303465597472,
+        "confidence": 0.5610083091130591
+      },
+      "metsmagic": {
+        "naive_unified": 59.981654686214604,
+        "riemannian_unified": 68.89457127271697,
+        "consensus": 0.3571226673334799,
+        "coherence": 0.5360388777108444,
+        "curvature": -0.999704180885413,
+        "confidence": 0.5652874570210719
+      },
+      "mybackseatviewofagreatromance": {
+        "naive_unified": 60.06904686558992,
+        "riemannian_unified": 68.61385492868143,
+        "consensus": 0.36026043140750147,
+        "coherence": 0.5237823048390796,
+        "curvature": -0.9997056524854288,
+        "confidence": 0.5630076194388449
+      },
+      "myfathershands": {
+        "naive_unified": 59.7873672013346,
+        "riemannian_unified": 67.81090805192079,
+        "consensus": 0.3570307315153718,
+        "coherence": 0.5195087456531131,
+        "curvature": -0.9997466848456804,
+        "confidence": 0.5611280298953709
+      },
+      "notontheusualtour": {
+        "naive_unified": 59.88855578895446,
+        "riemannian_unified": 68.69164535922488,
+        "consensus": 0.35643118212867475,
+        "coherence": 0.536713298446562,
+        "curvature": -0.9997121142318258,
+        "confidence": 0.5652824610620638
+      },
+      "odetostepfather": {
+        "naive_unified": 60.28506407788374,
+        "riemannian_unified": 68.99757326275024,
+        "consensus": 0.3575736674877111,
+        "coherence": 0.5441639099757802,
+        "curvature": -0.9997034304806338,
+        "confidence": 0.5674315341609311
+      },
+      "onlyonewaytofindout": {
+        "naive_unified": 58.90721475267664,
+        "riemannian_unified": 67.77755926541133,
+        "consensus": 0.355781783041464,
+        "coherence": 0.5417273226920131,
+        "curvature": -0.9997082937031081,
+        "confidence": 0.5663739688269576
+      },
+      "penpal": {
+        "naive_unified": 60.09164568941292,
+        "riemannian_unified": 68.67695304278448,
+        "consensus": 0.35695770571579866,
+        "coherence": 0.5403596437433545,
+        "curvature": -0.9997155275223794,
+        "confidence": 0.5663253642733374
+      },
+      "quietfire": {
+        "naive_unified": 59.80807279374325,
+        "riemannian_unified": 68.46555071546469,
+        "consensus": 0.3580350420560628,
+        "coherence": 0.5112171104912916,
+        "curvature": -0.9997161042058724,
+        "confidence": 0.5593090119928128
+      },
+      "reachingoutbetweenthebars": {
+        "naive_unified": 64.03231955477193,
+        "riemannian_unified": 72.91702072221209,
+        "consensus": 0.37043006557897834,
+        "coherence": 0.5801422282265715,
+        "curvature": -0.9995440702684543,
+        "confidence": 0.5796548750983903
+      },
+      "shoppinginchina": {
+        "naive_unified": 60.93806815673526,
+        "riemannian_unified": 69.5988168343581,
+        "consensus": 0.35988368495916917,
+        "coherence": 0.5526258494524675,
+        "curvature": -0.9996826563500129,
+        "confidence": 0.5701264345784178
+      },
+      "singlewomanseekingmanwich": {
+        "naive_unified": 61.281667419423776,
+        "riemannian_unified": 68.91910882189379,
+        "consensus": 0.36339405099677835,
+        "coherence": 0.5427161149176764,
+        "curvature": -0.9997245244707581,
+        "confidence": 0.5685227407073808
+      },
+      "sloth": {
+        "naive_unified": 60.0550650340466,
+        "riemannian_unified": 68.52376825150783,
+        "consensus": 0.35711536166381846,
+        "coherence": 0.5374347339657918,
+        "curvature": -0.9997218574792412,
+        "confidence": 0.5656329684869128
+      },
+      "souls": {
+        "naive_unified": 60.05348918114698,
+        "riemannian_unified": 68.0069097335335,
+        "consensus": 0.3594260632909118,
+        "coherence": 0.4998880394995678,
+        "curvature": -0.999739174827843,
+        "confidence": 0.5568223771737408
+      },
+      "stagefright": {
+        "naive_unified": 59.680367629422165,
+        "riemannian_unified": 67.9035283409833,
+        "consensus": 0.35616256485648057,
+        "coherence": 0.5242950176691732,
+        "curvature": -0.9997420210424168,
+        "confidence": 0.5621079852736662
+      },
+      "stumblinginthedark": {
+        "naive_unified": 59.73815662429363,
+        "riemannian_unified": 68.57207152745806,
+        "consensus": 0.35646284067762596,
+        "coherence": 0.5297298215207352,
+        "curvature": -0.9997144318909862,
+        "confidence": 0.5635442932519297
+      },
+      "superheroesjustforeachother": {
+        "naive_unified": 61.318396328721384,
+        "riemannian_unified": 69.34757622928862,
+        "consensus": 0.36367406438254674,
+        "coherence": 0.5421304681035021,
+        "curvature": -0.9997043562782888,
+        "confidence": 0.5684481877458737
+      },
+      "sweetaspie": {
+        "naive_unified": 60.995413337266655,
+        "riemannian_unified": 68.9722835063381,
+        "consensus": 0.36076853834999173,
+        "coherence": 0.5490098662778627,
+        "curvature": -0.9997144325218675,
+        "confidence": 0.5694407288012644
+      },
+      "swimmingwithastronauts": {
+        "naive_unified": 62.367437124188655,
+        "riemannian_unified": 72.16708338107215,
+        "consensus": 0.36244307886735755,
+        "coherence": 0.5747625394317076,
+        "curvature": -0.9995628402496769,
+        "confidence": 0.5763114791781883
+      },
+      "thatthingonmyarm": {
+        "naive_unified": 60.08204763251213,
+        "riemannian_unified": 68.72469891496483,
+        "consensus": 0.35722905352950907,
+        "coherence": 0.5385092846182123,
+        "curvature": -0.9997132723745652,
+        "confidence": 0.5659308189103524
+      },
+      "theadvancedbeginner": {
+        "naive_unified": 59.32917274178947,
+        "riemannian_unified": 67.89353743192562,
+        "consensus": 0.3564224898457773,
+        "coherence": 0.5201193206746042,
+        "curvature": -0.99972744371291,
+        "confidence": 0.5611303833029913
+      },
+      "theclosetthatateeverything": {
+        "naive_unified": 60.658091325964605,
+        "riemannian_unified": 68.86192386756866,
+        "consensus": 0.3591723075289504,
+        "coherence": 0.5466579383667979,
+        "curvature": -0.9997145650285634,
+        "confidence": 0.5684536769281358
+      },
+      "thecurse": {
+        "naive_unified": 59.67545591918895,
+        "riemannian_unified": 68.12665257678907,
+        "consensus": 0.35831089784727715,
+        "coherence": 0.5223552523982691,
+        "curvature": -0.9997217059561334,
+        "confidence": 0.5621619960803336
+      },
+      "thefreedomridersandme": {
+        "naive_unified": 60.19063593060649,
+        "riemannian_unified": 68.30820786971236,
+        "consensus": 0.3584500265841854,
+        "coherence": 0.5318886212690631,
+        "curvature": -0.9997331486398906,
+        "confidence": 0.5645790678133429
+      },
+      "theinterview": {
+        "naive_unified": 63.6090677540956,
+        "riemannian_unified": 72.62202946683905,
+        "consensus": 0.3685026432644176,
+        "coherence": 0.5823115029661519,
+        "curvature": -0.9995554982812064,
+        "confidence": 0.5797142866986109
+      },
+      "thepostmanalwayscalls": {
+        "naive_unified": 59.03357874733347,
+        "riemannian_unified": 68.21801028751781,
+        "consensus": 0.35537676435680204,
+        "coherence": 0.5230184758594253,
+        "curvature": -0.999707407381595,
+        "confidence": 0.5615955839863289
+      },
+      "theshower": {
+        "naive_unified": 59.766108425006514,
+        "riemannian_unified": 67.92521701864624,
+        "consensus": 0.35890829358581877,
+        "coherence": 0.5276664804740218,
+        "curvature": -0.9997298020277944,
+        "confidence": 0.5636384072350975
+      },
+      "thetiniestbouquet": {
+        "naive_unified": 60.026693106472756,
+        "riemannian_unified": 67.9221042783309,
+        "consensus": 0.35991374958181027,
+        "coherence": 0.5233545569879553,
+        "curvature": -0.9997375254028995,
+        "confidence": 0.5628110798556407
+      },
+      "thetriangleshirtwaistconnection": {
+        "naive_unified": 60.39954054203786,
+        "riemannian_unified": 68.09041415626929,
+        "consensus": 0.35956194365440736,
+        "coherence": 0.5303410857750809,
+        "curvature": -0.9997466021971058,
+        "confidence": 0.5644689255637256
+      },
+      "threemonths": {
+        "naive_unified": 59.37661210981252,
+        "riemannian_unified": 67.72357927714971,
+        "consensus": 0.3566343782142714,
+        "coherence": 0.5222114894789511,
+        "curvature": -0.9997347617570387,
+        "confidence": 0.5617057243757025
+      },
+      "treasureisland": {
+        "naive_unified": 59.96855706252092,
+        "riemannian_unified": 68.02263550458495,
+        "consensus": 0.3577343290272455,
+        "coherence": 0.5250822184137286,
+        "curvature": -0.9997413027750245,
+        "confidence": 0.5626977925785158
+      },
+      "undertheinfluence": {
+        "naive_unified": 59.99640340990557,
+        "riemannian_unified": 68.73720812527864,
+        "consensus": 0.35833869142547387,
+        "coherence": 0.5246903213109999,
+        "curvature": -0.9997095296771474,
+        "confidence": 0.5627538318722536
+      },
+      "vixenandtheussr": {
+        "naive_unified": 60.78821593542032,
+        "riemannian_unified": 69.03281235517834,
+        "consensus": 0.3607766785955855,
+        "coherence": 0.5417846430461605,
+        "curvature": -0.9997098055769535,
+        "confidence": 0.5676368837167369
+      },
+      "waitingtogo": {
+        "naive_unified": 60.46091290830988,
+        "riemannian_unified": 69.02559847789215,
+        "consensus": 0.35951597085215053,
+        "coherence": 0.5377549247810427,
+        "curvature": -0.9997051165386379,
+        "confidence": 0.5663147085909734
+      },
+      "whenmothersbullyback": {
+        "naive_unified": 61.568952768636315,
+        "riemannian_unified": 70.24083664417377,
+        "consensus": 0.3618459438997991,
+        "coherence": 0.5613539815384502,
+        "curvature": -0.9996572140657266,
+        "confidence": 0.5728013730308561
+      },
+      "wheretheressmoke": {
+        "naive_unified": 60.05463535606045,
+        "riemannian_unified": 68.63378861369875,
+        "consensus": 0.35728071980685194,
+        "coherence": 0.5367899041369961,
+        "curvature": -0.9997168979879163,
+        "confidence": 0.565513556817213
+      },
+      "wildwomenanddancingqueens": {
+        "naive_unified": 61.29679354592387,
+        "riemannian_unified": 70.09294833494485,
+        "consensus": 0.36170026300162417,
+        "coherence": 0.5533831465928949,
+        "curvature": -0.9996641671371282,
+        "confidence": 0.5707716043799022
+      }
+    },
+    "mistralai/Mistral-Nemo-Instruct-2407": {
+      "adollshouse": {
+        "naive_unified": 60.12641746159706,
+        "riemannian_unified": 69.19435085648222,
+        "consensus": 0.35746022186951726,
+        "coherence": 0.5448904777341917,
+        "curvature": -0.9996941726424045,
+        "confidence": 0.5675856663945658
+      },
+      "adventuresinsayingyes": {
+        "naive_unified": 60.25173269933383,
+        "riemannian_unified": 69.14719689405182,
+        "consensus": 0.35717143512803423,
+        "coherence": 0.548921700283781,
+        "curvature": -0.9996966373539526,
+        "confidence": 0.5685210485983597
+      },
+      "afatherscover": {
+        "naive_unified": 63.69892843765168,
+        "riemannian_unified": 72.21931427233937,
+        "consensus": 0.3584098235970228,
+        "coherence": 0.5346323940831067,
+        "curvature": -0.9995511350289962,
+        "confidence": 0.5652717060279857
+      },
+      "againstthewind": {
+        "naive_unified": 59.61852605581134,
+        "riemannian_unified": 68.13481437584737,
+        "consensus": 0.3571941844305609,
+        "coherence": 0.516491235133809,
+        "curvature": -0.9997303850188752,
+        "confidence": 0.560416014979148
+      },
+      "alternateithicatom": {
+        "naive_unified": 59.50961113526743,
+        "riemannian_unified": 68.43826937517848,
+        "consensus": 0.3578247355670032,
+        "coherence": 0.5176099120309284,
+        "curvature": -0.999708247970736,
+        "confidence": 0.5608553585002983
+      },
+      "avatar": {
+        "naive_unified": 64.09118323658717,
+        "riemannian_unified": 72.24611865645323,
+        "consensus": 0.36014675486953224,
+        "coherence": 0.5383478750052857,
+        "curvature": -0.999555471583833,
+        "confidence": 0.5666344100661185
+      },
+      "backsideofthestorm": {
+        "naive_unified": 58.47115417019181,
+        "riemannian_unified": 68.23269841701514,
+        "consensus": 0.3550420534865208,
+        "coherence": 0.5495584038592874,
+        "curvature": -0.9996722079530188,
+        "confidence": 0.5681501265595901
+      },
+      "becomingindian": {
+        "naive_unified": 60.08258699272154,
+        "riemannian_unified": 68.76797180665565,
+        "consensus": 0.3568325025705567,
+        "coherence": 0.5456486904218428,
+        "curvature": -0.9997124855778998,
+        "confidence": 0.5676166050038808
+      },
+      "beneaththemushroomcloud": {
+        "naive_unified": 59.45834928576086,
+        "riemannian_unified": 69.08910355746089,
+        "consensus": 0.3546012586803638,
+        "coherence": 0.5400173224056403,
+        "curvature": -0.9996910500620302,
+        "confidence": 0.5656529240367107
+      },
+      "birthofanation": {
+        "naive_unified": 59.85069750376345,
+        "riemannian_unified": 69.12603206373473,
+        "consensus": 0.35629491755610615,
+        "coherence": 0.5423400984892998,
+        "curvature": -0.9996938654152898,
+        "confidence": 0.5666567737692718
+      },
+      "bluehope": {
+        "naive_unified": 59.45010451894147,
+        "riemannian_unified": 68.69201276078935,
+        "consensus": 0.35464037866548637,
+        "coherence": 0.5381590006031481,
+        "curvature": -0.9997083271519145,
+        "confidence": 0.5651965341335675
+      },
+      "breakingupintheageofgoogle": {
+        "naive_unified": 60.03784635184224,
+        "riemannian_unified": 68.64979689740514,
+        "consensus": 0.35741379732173434,
+        "coherence": 0.5395747711956297,
+        "curvature": -0.9997174687148044,
+        "confidence": 0.5662429904560728
+      },
+      "buck": {
+        "naive_unified": 59.61607868181818,
+        "riemannian_unified": 68.29208045720074,
+        "consensus": 0.35650476011587307,
+        "coherence": 0.5288751643576216,
+        "curvature": -0.9997265068748663,
+        "confidence": 0.5633399979756607
+      },
+      "catfishingstrangerstofindmyself": {
+        "naive_unified": 58.98793169614123,
+        "riemannian_unified": 68.10119361390483,
+        "consensus": 0.35653419359479716,
+        "coherence": 0.5360168678651641,
+        "curvature": -0.999703693819458,
+        "confidence": 0.5651348809336332
+      },
+      "cautioneating": {
+        "naive_unified": 59.76716776163419,
+        "riemannian_unified": 68.95749864224774,
+        "consensus": 0.35530444140681877,
+        "coherence": 0.5445720840413087,
+        "curvature": -0.9997002017955462,
+        "confidence": 0.566966568187363
+      },
+      "christmas1940": {
+        "naive_unified": 58.20407913294122,
+        "riemannian_unified": 67.85567703330953,
+        "consensus": 0.35387450822668476,
+        "coherence": 0.5484255732723294,
+        "curvature": -0.9996867693198892,
+        "confidence": 0.567573692961715
+      },
+      "cocoonoflove": {
+        "naive_unified": 59.785927822059136,
+        "riemannian_unified": 68.97022129046196,
+        "consensus": 0.3555516821351213,
+        "coherence": 0.5445984821601465,
+        "curvature": -0.9997000299039155,
+        "confidence": 0.5670349937127389
+      },
+      "comingofageondeathrow": {
+        "naive_unified": 59.832002724398365,
+        "riemannian_unified": 68.63008717790845,
+        "consensus": 0.3560809505706901,
+        "coherence": 0.5417163382112093,
+        "curvature": -0.9997157298239071,
+        "confidence": 0.566445330493089
+      },
+      "eyespy": {
+        "naive_unified": 58.08542438311953,
+        "riemannian_unified": 67.86003374210762,
+        "consensus": 0.3537430146383307,
+        "coherence": 0.5548948262174153,
+        "curvature": -0.9996744350806392,
+        "confidence": 0.5691592675415345
+      },
+      "firetestforlove": {
+        "naive_unified": 59.7204521490891,
+        "riemannian_unified": 68.93523639291683,
+        "consensus": 0.35627852966303236,
+        "coherence": 0.5369374322883294,
+        "curvature": -0.9997006144227188,
+        "confidence": 0.5653013893525372
+      },
+      "food": {
+        "naive_unified": 59.35988024274481,
+        "riemannian_unified": 68.85249871351283,
+        "consensus": 0.3555140442509847,
+        "coherence": 0.5283569779314243,
+        "curvature": -0.999698523612099,
+        "confidence": 0.5629653467596386
+      },
+      "forgettingfear": {
+        "naive_unified": 58.28221111186014,
+        "riemannian_unified": 67.99511320952588,
+        "consensus": 0.35335544230101235,
+        "coherence": 0.5358437760081357,
+        "curvature": -0.999698235402729,
+        "confidence": 0.5642974223058951
+      },
+      "gangstersandcookies": {
+        "naive_unified": 59.73146290652568,
+        "riemannian_unified": 67.84493684336411,
+        "consensus": 0.3580382396376541,
+        "coherence": 0.5058401834777183,
+        "curvature": -0.9997437459719487,
+        "confidence": 0.5579630367387732
+      },
+      "goingthelibertyway": {
+        "naive_unified": 59.81286054476691,
+        "riemannian_unified": 68.85353296882683,
+        "consensus": 0.3562546279738063,
+        "coherence": 0.5403939769688081,
+        "curvature": -0.9997056072819771,
+        "confidence": 0.5661590907714323
+      },
+      "goldiethegoldfish": {
+        "naive_unified": 59.008459888234675,
+        "riemannian_unified": 67.6098256643752,
+        "consensus": 0.3558806848561702,
+        "coherence": 0.5286568226919027,
+        "curvature": -0.9997319595689361,
+        "confidence": 0.56312889212499
+      },
+      "golfclubbing": {
+        "naive_unified": 59.22694294266721,
+        "riemannian_unified": 68.60578935275015,
+        "consensus": 0.3546163223830567,
+        "coherence": 0.5291152246255434,
+        "curvature": -0.9997080821024183,
+        "confidence": 0.562929598612304
+      },
+      "gpsformylostidentity": {
+        "naive_unified": 60.12177746545609,
+        "riemannian_unified": 69.57266633351341,
+        "consensus": 0.3566362295377521,
+        "coherence": 0.5490050294393524,
+        "curvature": -0.9996758659711089,
+        "confidence": 0.5684099904303207
+      },
+      "hangtime": {
+        "naive_unified": 59.05471467633049,
+        "riemannian_unified": 68.52402492790523,
+        "consensus": 0.3550533719761067,
+        "coherence": 0.5102074942456389,
+        "curvature": -0.9997047451588403,
+        "confidence": 0.5583122354039395
+      },
+      "haveyoumethimyet": {
+        "naive_unified": 60.09680335270047,
+        "riemannian_unified": 69.12926161945578,
+        "consensus": 0.35609722387001747,
+        "coherence": 0.5505807659070573,
+        "curvature": -0.999695251645512,
+        "confidence": 0.568667389671842
+      },
+      "howtodraw": {
+        "naive_unified": 59.569457427370494,
+        "riemannian_unified": 68.60331437997546,
+        "consensus": 0.35587907007943026,
+        "coherence": 0.5328391677842756,
+        "curvature": -0.9997129496649124,
+        "confidence": 0.5641758235274261
+      },
+      "ifthishaircouldtalk": {
+        "naive_unified": 59.52907239505497,
+        "riemannian_unified": 68.82495858860936,
+        "consensus": 0.3559095092302769,
+        "coherence": 0.5321950853592928,
+        "curvature": -0.9997025391457384,
+        "confidence": 0.5640233704427483
+      },
+      "inamoment": {
+        "naive_unified": 59.7228831033073,
+        "riemannian_unified": 68.44123670386162,
+        "consensus": 0.3554533650933072,
+        "coherence": 0.5407918773058481,
+        "curvature": -0.9997226802565311,
+        "confidence": 0.5660566794875678
+      },
+      "itsabox": {
+        "naive_unified": 64.55806165821214,
+        "riemannian_unified": 71.47205201630986,
+        "consensus": 0.36355267415156395,
+        "coherence": 0.5348001008688176,
+        "curvature": -0.9996089567666026,
+        "confidence": 0.5665940252721935
+      },
+      "jugglingandjesus": {
+        "naive_unified": 59.57646080519034,
+        "riemannian_unified": 68.25825542080969,
+        "consensus": 0.35611982222021016,
+        "coherence": 0.5301379148749763,
+        "curvature": -0.9997277823253599,
+        "confidence": 0.5635593337960689
+      },
+      "kiksuya": {
+        "naive_unified": 58.618489844478134,
+        "riemannian_unified": 67.83077623135902,
+        "consensus": 0.35559643293068904,
+        "coherence": 0.5497505828755136,
+        "curvature": -0.9996926141477116,
+        "confidence": 0.5683348888236824
+      },
+      "leavingbaghdad": {
+        "naive_unified": 58.75044035885056,
+        "riemannian_unified": 68.33280274244605,
+        "consensus": 0.3529126640945985,
+        "coherence": 0.5209964798814236,
+        "curvature": -0.999712521904393,
+        "confidence": 0.5604735894078833
+      },
+      "lifeanddeathontheoregontrail": {
+        "naive_unified": 60.55117238775706,
+        "riemannian_unified": 69.30482505698113,
+        "consensus": 0.35925209883886716,
+        "coherence": 0.5462189231158648,
+        "curvature": -0.9996939196610832,
+        "confidence": 0.5683657702560979
+      },
+      "lifereimagined": {
+        "naive_unified": 59.188935630169446,
+        "riemannian_unified": 68.56513909646205,
+        "consensus": 0.3548336927958986,
+        "coherence": 0.5251283298322612,
+        "curvature": -0.9997082485295345,
+        "confidence": 0.5619872022064477
+      },
+      "listo": {
+        "naive_unified": 59.39860627572726,
+        "riemannian_unified": 68.69165841364182,
+        "consensus": 0.35626515311243995,
+        "coherence": 0.5201874801227956,
+        "curvature": -0.9997038600155472,
+        "confidence": 0.5611102585878922
+      },
+      "mayorofthefreaks": {
+        "naive_unified": 59.38063736097575,
+        "riemannian_unified": 69.20667107352193,
+        "consensus": 0.3554095960770926,
+        "coherence": 0.5282727857740265,
+        "curvature": -0.9996823425462682,
+        "confidence": 0.5629196753079396
+      },
+      "metsmagic": {
+        "naive_unified": 59.66106455244727,
+        "riemannian_unified": 68.7018072613928,
+        "consensus": 0.35611965674455354,
+        "coherence": 0.5345622772777979,
+        "curvature": -0.9997098163395335,
+        "confidence": 0.564667035821768
+      },
+      "mybackseatviewofagreatromance": {
+        "naive_unified": 58.523893460292925,
+        "riemannian_unified": 67.99663208084033,
+        "consensus": 0.35523169071084554,
+        "coherence": 0.5494512869039571,
+        "curvature": -0.9996838747120138,
+        "confidence": 0.5681696832911297
+      },
+      "myfathershands": {
+        "naive_unified": 59.66586791276445,
+        "riemannian_unified": 68.82845105906087,
+        "consensus": 0.3551318961027345,
+        "coherence": 0.5423224906251882,
+        "curvature": -0.9997048899493093,
+        "confidence": 0.5663606022101932
+      },
+      "notontheusualtour": {
+        "naive_unified": 59.6203021489214,
+        "riemannian_unified": 68.86657071138906,
+        "consensus": 0.35579999116958866,
+        "coherence": 0.5368380973074959,
+        "curvature": -0.9997025752505181,
+        "confidence": 0.5651567405930876
+      },
+      "odetostepfather": {
+        "naive_unified": 59.93955685324011,
+        "riemannian_unified": 68.93764538735061,
+        "consensus": 0.35800468387216783,
+        "coherence": 0.5317767346466815,
+        "curvature": -0.9997025485518086,
+        "confidence": 0.5644425755597358
+      },
+      "onlyonewaytofindout": {
+        "naive_unified": 59.57850661196702,
+        "riemannian_unified": 68.73684994616724,
+        "consensus": 0.35605275982609624,
+        "coherence": 0.5332527697389425,
+        "curvature": -0.9997072197309264,
+        "confidence": 0.5643231735867895
+      },
+      "penpal": {
+        "naive_unified": 60.038216459742024,
+        "riemannian_unified": 68.7957561216943,
+        "consensus": 0.357669291415642,
+        "coherence": 0.538430598204071,
+        "curvature": -0.9997109026861651,
+        "confidence": 0.566021424781018
+      },
+      "quietfire": {
+        "naive_unified": 59.569923503903055,
+        "riemannian_unified": 67.86479830568574,
+        "consensus": 0.35654503049222325,
+        "coherence": 0.5221776771889141,
+        "curvature": -0.9997433212488729,
+        "confidence": 0.5616741469519557
+      },
+      "reachingoutbetweenthebars": {
+        "naive_unified": 60.13782381741573,
+        "riemannian_unified": 69.07666229576097,
+        "consensus": 0.3589190885073115,
+        "coherence": 0.5309638059467564,
+        "curvature": -0.9996983433909099,
+        "confidence": 0.5644683314074701
+      },
+      "shoppinginchina": {
+        "naive_unified": 60.05932706021564,
+        "riemannian_unified": 69.04900732906839,
+        "consensus": 0.3558047252449759,
+        "coherence": 0.5507202629776015,
+        "curvature": -0.9996983221790098,
+        "confidence": 0.5686288568010416
+      },
+      "singlewomanseekingmanwich": {
+        "naive_unified": 59.82372484944226,
+        "riemannian_unified": 68.85291324537819,
+        "consensus": 0.35829297220618983,
+        "coherence": 0.5190322269348392,
+        "curvature": -0.999701652544508,
+        "confidence": 0.5613286031454993
+      },
+      "sloth": {
+        "naive_unified": 60.117561179795885,
+        "riemannian_unified": 69.18152893742229,
+        "consensus": 0.357253733157449,
+        "coherence": 0.5445912739810068,
+        "curvature": -0.9996942904494385,
+        "confidence": 0.5674592324402425
+      },
+      "souls": {
+        "naive_unified": 59.38853502930618,
+        "riemannian_unified": 68.21200550926865,
+        "consensus": 0.3570839189242265,
+        "coherence": 0.5122988993184773,
+        "curvature": -0.9997184965347132,
+        "confidence": 0.5593414583322919
+      },
+      "stagefright": {
+        "naive_unified": 60.47566767630711,
+        "riemannian_unified": 68.70819910721228,
+        "consensus": 0.35917941215294147,
+        "coherence": 0.5434390100461726,
+        "curvature": -0.9997209369437366,
+        "confidence": 0.5676501348144007
+      },
+      "stumblinginthedark": {
+        "naive_unified": 58.90167405920043,
+        "riemannian_unified": 68.24187415091302,
+        "consensus": 0.3560550912484913,
+        "coherence": 0.5346367662961932,
+        "curvature": -0.9996972601981896,
+        "confidence": 0.5646706718313173
+      },
+      "superheroesjustforeachother": {
+        "naive_unified": 58.77825544325818,
+        "riemannian_unified": 67.91202043386518,
+        "consensus": 0.3561316632119241,
+        "coherence": 0.5462558708802857,
+        "curvature": -0.9996966676488103,
+        "confidence": 0.5675946454813993
+      },
+      "sweetaspie": {
+        "naive_unified": 59.71926152077343,
+        "riemannian_unified": 68.00347264498807,
+        "consensus": 0.3567608072658306,
+        "coherence": 0.5295844774442865,
+        "curvature": -0.999740864394055,
+        "confidence": 0.5635800172240784
+      },
+      "swimmingwithastronauts": {
+        "naive_unified": 59.41166684218563,
+        "riemannian_unified": 68.76198672913372,
+        "consensus": 0.35459484653072576,
+        "coherence": 0.5373612227773893,
+        "curvature": -0.9997047861442421,
+        "confidence": 0.5649860324049971
+      },
+      "thatthingonmyarm": {
+        "naive_unified": 59.33260777452267,
+        "riemannian_unified": 68.63695599308292,
+        "consensus": 0.35509554375413216,
+        "coherence": 0.5303165584548825,
+        "curvature": -0.9997082055098427,
+        "confidence": 0.5633497260593311
+      },
+      "theadvancedbeginner": {
+        "naive_unified": 57.81811802841066,
+        "riemannian_unified": 67.77539464208371,
+        "consensus": 0.3527238761798373,
+        "coherence": 0.5552354110807772,
+        "curvature": -0.9996736184748242,
+        "confidence": 0.5689897042703599
+      },
+      "theclosetthatateeverything": {
+        "naive_unified": 59.293890246066056,
+        "riemannian_unified": 68.71180244901682,
+        "consensus": 0.35543468862853683,
+        "coherence": 0.5245802191785772,
+        "curvature": -0.9997028174544724,
+        "confidence": 0.5620009231435076
+      },
+      "thecurse": {
+        "naive_unified": 59.17659099437784,
+        "riemannian_unified": 68.2241652428332,
+        "consensus": 0.35688572168058497,
+        "coherence": 0.528737321451501,
+        "curvature": -0.9997070484516443,
+        "confidence": 0.5634025677356971
+      },
+      "thefreedomridersandme": {
+        "naive_unified": 59.65973908694253,
+        "riemannian_unified": 68.77138596313394,
+        "consensus": 0.3566457395398685,
+        "coherence": 0.5318238200395674,
+        "curvature": -0.9997065402177472,
+        "confidence": 0.5641142436034421
+      },
+      "theinterview": {
+        "naive_unified": 59.609021511188665,
+        "riemannian_unified": 68.96789831047943,
+        "consensus": 0.35527333755733953,
+        "coherence": 0.5404047084218059,
+        "curvature": -0.9996981690975663,
+        "confidence": 0.5659171353233116
+      },
+      "thepostmanalwayscalls": {
+        "naive_unified": 58.42181566312114,
+        "riemannian_unified": 67.98088499617329,
+        "consensus": 0.3548262963913471,
+        "coherence": 0.5495610626393317,
+        "curvature": -0.9996827806390404,
+        "confidence": 0.5680958792987065
+      },
+      "theshower": {
+        "naive_unified": 63.50996155208985,
+        "riemannian_unified": 71.73951406208569,
+        "consensus": 0.359145252988859,
+        "coherence": 0.5121755411878652,
+        "curvature": -0.9995631080248532,
+        "confidence": 0.5598402485095925
+      },
+      "thetiniestbouquet": {
+        "naive_unified": 58.9960244516193,
+        "riemannian_unified": 68.27047443343733,
+        "consensus": 0.35571563014608093,
+        "coherence": 0.5203261218436317,
+        "curvature": -0.9997076406196951,
+        "confidence": 0.56100719047255
+      },
+      "thetriangleshirtwaistconnection": {
+        "naive_unified": 59.776957487156594,
+        "riemannian_unified": 68.64789244849665,
+        "consensus": 0.35689305421038364,
+        "coherence": 0.5337093186309462,
+        "curvature": -0.9997137592821707,
+        "confidence": 0.5646467827900992
+      },
+      "threemonths": {
+        "naive_unified": 59.33186940752182,
+        "riemannian_unified": 68.776084898065,
+        "consensus": 0.3554804208793143,
+        "coherence": 0.5261005700936203,
+        "curvature": -0.9997008823402852,
+        "confidence": 0.5623926219602144
+      },
+      "treasureisland": {
+        "naive_unified": 59.313602343351526,
+        "riemannian_unified": 68.70498753995096,
+        "consensus": 0.3552651990574869,
+        "coherence": 0.5281209288400079,
+        "curvature": -0.9997044441576538,
+        "confidence": 0.5628435785140927
+      },
+      "undertheinfluence": {
+        "naive_unified": 59.580875379158556,
+        "riemannian_unified": 68.84599225046247,
+        "consensus": 0.35553416700557644,
+        "coherence": 0.5362341358072463,
+        "curvature": -0.9997026307583604,
+        "confidence": 0.5649392890704552
+      },
+      "vixenandtheussr": {
+        "naive_unified": 59.79152404257848,
+        "riemannian_unified": 69.02803697575834,
+        "consensus": 0.3551927189037547,
+        "coherence": 0.5466343097464809,
+        "curvature": -0.999697197312967,
+        "confidence": 0.5674544703930016
+      },
+      "waitingtogo": {
+        "naive_unified": 59.56817489011371,
+        "riemannian_unified": 68.57734677434905,
+        "consensus": 0.3564223123098114,
+        "coherence": 0.5289487313338802,
+        "curvature": -0.9997133008878611,
+        "confidence": 0.5633389926612291
+      },
+      "whenmothersbullyback": {
+        "naive_unified": 60.45610997369479,
+        "riemannian_unified": 69.67910648033225,
+        "consensus": 0.35733357314564257,
+        "coherence": 0.5541385883881196,
+        "curvature": -0.999672940434097,
+        "confidence": 0.5698679852183351
+      },
+      "wheretheressmoke": {
+        "naive_unified": 59.18688841973189,
+        "riemannian_unified": 68.51241018985554,
+        "consensus": 0.35456521768834476,
+        "coherence": 0.5275390919699359,
+        "curvature": -0.9997113115607794,
+        "confidence": 0.5625224921756535
+      },
+      "wildwomenanddancingqueens": {
+        "naive_unified": 59.94816058011151,
+        "riemannian_unified": 68.64106030092412,
+        "consensus": 0.3569646060392982,
+        "coherence": 0.5390623911373901,
+        "curvature": -0.9997165890261654,
+        "confidence": 0.5660026785486421
+      }
+    }
+  },
+  "human_integrated": {
+    "UTS01": {
+      "adollshouse": {
+        "naive_unified": 65.65359550785712,
+        "riemannian_unified": 71.73316372102386,
+        "consensus": 0.37772371042829206,
+        "coherence": 0.5652018104147697,
+        "curvature": -0.9996148566401674,
+        "confidence": 0.5777366689066917
+      },
+      "adventuresinsayingyes": {
+        "naive_unified": 61.65616334715073,
+        "riemannian_unified": 67.01138929133073,
+        "consensus": 0.3711851395102958,
+        "coherence": 0.5449688500612333,
+        "curvature": -0.9998405902576016,
+        "confidence": 0.5710230197460872
+      },
+      "afatherscover": {
+        "naive_unified": 61.430231778974225,
+        "riemannian_unified": 65.47783929731058,
+        "consensus": 0.3680522251873343,
+        "coherence": 0.5234969431565625,
+        "curvature": -0.9999052818138717,
+        "confidence": 0.5648658640097486
+      },
+      "againstthewind": {
+        "naive_unified": 60.878176085039364,
+        "riemannian_unified": 69.73751474423653,
+        "consensus": 0.36188861044908477,
+        "coherence": 0.5675196079000102,
+        "curvature": -0.9996502827366219,
+        "confidence": 0.5743540839527014
+      },
+      "alternateithicatom": {
+        "naive_unified": 67.60434998759793,
+        "riemannian_unified": 71.98302077931967,
+        "consensus": 0.3899628383964493,
+        "coherence": 0.5421719244028388,
+        "curvature": -0.9996418589414322,
+        "confidence": 0.5750364950747663
+      },
+      "avatar": {
+        "naive_unified": 63.97308349993829,
+        "riemannian_unified": 71.79918771626237,
+        "consensus": 0.3701467052330991,
+        "coherence": 0.5792268482122054,
+        "curvature": -0.9995749629331255,
+        "confidence": 0.5793523475625004
+      },
+      "backsideofthestorm": {
+        "naive_unified": 62.23947573686552,
+        "riemannian_unified": 67.45549885750543,
+        "consensus": 0.3727814903217217,
+        "coherence": 0.5357142983977458,
+        "curvature": -0.99980821964514,
+        "confidence": 0.5691114471765911
+      },
+      "becomingindian": {
+        "naive_unified": 66.66634828851689,
+        "riemannian_unified": 72.56602778992917,
+        "consensus": 0.3839466610717355,
+        "coherence": 0.5553135372170831,
+        "curvature": -0.9996007365347769,
+        "confidence": 0.5768216374016757
+      },
+      "beneaththemushroomcloud": {
+        "naive_unified": 66.62439162199989,
+        "riemannian_unified": 72.27870649320008,
+        "consensus": 0.3833280131251365,
+        "coherence": 0.5587909208012662,
+        "curvature": -0.9996070968012191,
+        "confidence": 0.5775357361265196
+      },
+      "birthofanation": {
+        "naive_unified": 64.6319421059786,
+        "riemannian_unified": 69.74551597912306,
+        "consensus": 0.3803624226438614,
+        "coherence": 0.5457212985615155,
+        "curvature": -0.9997666675467886,
+        "confidence": 0.5735122526511283
+      },
+      "bluehope": {
+        "naive_unified": 63.37387225002798,
+        "riemannian_unified": 68.08694195987627,
+        "consensus": 0.3786264076322426,
+        "coherence": 0.5409045254043696,
+        "curvature": -0.999821903388882,
+        "confidence": 0.5718689745311119
+      },
+      "breakingupintheageofgoogle": {
+        "naive_unified": 60.16262743176857,
+        "riemannian_unified": 66.26579691551002,
+        "consensus": 0.3626909745211216,
+        "coherence": 0.5655602877658499,
+        "curvature": -0.999823795339284,
+        "confidence": 0.5740488828104602
+      },
+      "buck": {
+        "naive_unified": 60.51267088504235,
+        "riemannian_unified": 66.06680709487804,
+        "consensus": 0.3648373946752225,
+        "coherence": 0.540738141093729,
+        "curvature": -0.9998309512484641,
+        "confidence": 0.5683792929393674
+      },
+      "catfishingstrangerstofindmyself": {
+        "naive_unified": 61.27549019559696,
+        "riemannian_unified": 66.51159042144887,
+        "consensus": 0.3653563102094144,
+        "coherence": 0.5453811419215019,
+        "curvature": -0.999855644462823,
+        "confidence": 0.5696675006424804
+      },
+      "cautioneating": {
+        "naive_unified": 59.51820382224879,
+        "riemannian_unified": 66.8722691259928,
+        "consensus": 0.3606169337024414,
+        "coherence": 0.5482788977807722,
+        "curvature": -0.9998222301009447,
+        "confidence": 0.5692101690897525
+      },
+      "christmas1940": {
+        "naive_unified": 61.31005878543833,
+        "riemannian_unified": 68.54090779141114,
+        "consensus": 0.36518009342047475,
+        "coherence": 0.5738341101186302,
+        "curvature": -0.9997399157036941,
+        "confidence": 0.5767473342048994
+      },
+      "cocoonoflove": {
+        "naive_unified": 60.64759913865504,
+        "riemannian_unified": 67.0354891761404,
+        "consensus": 0.3637594448378752,
+        "coherence": 0.5621086980526012,
+        "curvature": -0.999775760118219,
+        "confidence": 0.5734575216385364
+      },
+      "comingofageondeathrow": {
+        "naive_unified": 66.35298716354639,
+        "riemannian_unified": 72.14694663994008,
+        "consensus": 0.3816691390520937,
+        "coherence": 0.5490273292001877,
+        "curvature": -0.9996242533779849,
+        "confidence": 0.5746785412134828
+      },
+      "eyespy": {
+        "naive_unified": 58.928220906592095,
+        "riemannian_unified": 66.70386494975946,
+        "consensus": 0.35951813998441423,
+        "coherence": 0.5733555801521947,
+        "curvature": -0.9997921643826754,
+        "confidence": 0.5752074069261883
+      },
+      "firetestforlove": {
+        "naive_unified": 61.58837170073431,
+        "riemannian_unified": 69.37805025882915,
+        "consensus": 0.36832767301737884,
+        "coherence": 0.5876826657289969,
+        "curvature": -0.9996881381823138,
+        "confidence": 0.5810011313401156
+      },
+      "food": {
+        "naive_unified": 61.834046070383366,
+        "riemannian_unified": 68.72399249173937,
+        "consensus": 0.36989674828895786,
+        "coherence": 0.5563097535482248,
+        "curvature": -0.9997281154336288,
+        "confidence": 0.5735464943373113
+      },
+      "forgettingfear": {
+        "naive_unified": 63.366972541562674,
+        "riemannian_unified": 69.52160600231593,
+        "consensus": 0.3696704758073399,
+        "coherence": 0.5726920656455846,
+        "curvature": -0.9996892918480642,
+        "confidence": 0.5775890758812416
+      },
+      "gangstersandcookies": {
+        "naive_unified": 60.69202953847832,
+        "riemannian_unified": 66.61679683703862,
+        "consensus": 0.36183031588146514,
+        "coherence": 0.572739936746285,
+        "curvature": -0.9997929759155209,
+        "confidence": 0.5756314653969278
+      },
+      "goingthelibertyway": {
+        "naive_unified": 62.05831284761632,
+        "riemannian_unified": 69.73673394277832,
+        "consensus": 0.36833850133186724,
+        "coherence": 0.567624903885648,
+        "curvature": -0.9996617652670872,
+        "confidence": 0.5759918242597665
+      },
+      "goldiethegoldfish": {
+        "naive_unified": 60.584060397752395,
+        "riemannian_unified": 68.1628032929484,
+        "consensus": 0.364451611641895,
+        "coherence": 0.5525402992498094,
+        "curvature": -0.9997277904498755,
+        "confidence": 0.5712428764977844
+      },
+      "golfclubbing": {
+        "naive_unified": 60.873831539700625,
+        "riemannian_unified": 68.19149801537425,
+        "consensus": 0.3627596739773377,
+        "coherence": 0.585378976900253,
+        "curvature": -0.9997332703962398,
+        "confidence": 0.5790290573685262
+      },
+      "gpsformylostidentity": {
+        "naive_unified": 63.20270220796355,
+        "riemannian_unified": 68.23416418740737,
+        "consensus": 0.378730166832284,
+        "coherence": 0.5512620863588388,
+        "curvature": -0.9998097266468611,
+        "confidence": 0.5744854246692885
+      },
+      "hangtime": {
+        "naive_unified": 66.498084472276,
+        "riemannian_unified": 70.24138177941492,
+        "consensus": 0.38608337318884445,
+        "coherence": 0.5591880494045838,
+        "curvature": -0.9997192831664068,
+        "confidence": 0.5783135370532259
+      },
+      "haveyoumethimyet": {
+        "naive_unified": 65.87649795366433,
+        "riemannian_unified": 73.07929523433344,
+        "consensus": 0.3820223651655656,
+        "coherence": 0.5526091546947345,
+        "curvature": -0.9995761099496806,
+        "confidence": 0.5756667336305105
+      },
+      "howtodraw": {
+        "naive_unified": 64.44194144676355,
+        "riemannian_unified": 71.13313862106043,
+        "consensus": 0.37182079750192365,
+        "coherence": 0.5684211375701587,
+        "curvature": -0.9996041703873099,
+        "confidence": 0.5770667556609794
+      },
+      "ifthishaircouldtalk": {
+        "naive_unified": 57.6036548571681,
+        "riemannian_unified": 66.95580024076494,
+        "consensus": 0.3567169741237352,
+        "coherence": 0.5738048121164782,
+        "curvature": -0.9997621476967296,
+        "confidence": 0.5746221846977608
+      },
+      "inamoment": {
+        "naive_unified": 67.47334281642557,
+        "riemannian_unified": 73.54917623385792,
+        "consensus": 0.3853409686779455,
+        "coherence": 0.5540518137297686,
+        "curvature": -0.9995528571887972,
+        "confidence": 0.5768591887521118
+      },
+      "itsabox": {
+        "naive_unified": 63.47033824568053,
+        "riemannian_unified": 67.50379478983412,
+        "consensus": 0.3792348990302072,
+        "coherence": 0.49727721256101054,
+        "curvature": -0.9998806572648655,
+        "confidence": 0.5611088647803174
+      },
+      "jugglingandjesus": {
+        "naive_unified": 63.662836822788606,
+        "riemannian_unified": 68.05144382641114,
+        "consensus": 0.37210463912510133,
+        "coherence": 0.5661753051723064,
+        "curvature": -0.9997690811684232,
+        "confidence": 0.5765610863921581
+      },
+      "kiksuya": {
+        "naive_unified": 65.6919274302311,
+        "riemannian_unified": 69.68596267916399,
+        "consensus": 0.3862998191401899,
+        "coherence": 0.5030070152890191,
+        "curvature": -0.9998171115578989,
+        "confidence": 0.5643133906628381
+      },
+      "leavingbaghdad": {
+        "naive_unified": 58.19049327630221,
+        "riemannian_unified": 65.14787045363896,
+        "consensus": 0.35706606755392495,
+        "coherence": 0.5511864231591336,
+        "curvature": -0.9998635877598099,
+        "confidence": 0.569045529641538
+      },
+      "lifeanddeathontheoregontrail": {
+        "naive_unified": 62.66136259637968,
+        "riemannian_unified": 69.45710945871609,
+        "consensus": 0.37195593215870587,
+        "coherence": 0.578796469008893,
+        "curvature": -0.9996940564585626,
+        "confidence": 0.579686102474219
+      },
+      "lifereimagined": {
+        "naive_unified": 60.16173566891501,
+        "riemannian_unified": 66.96012901602833,
+        "consensus": 0.3656188442032879,
+        "coherence": 0.5518083288867995,
+        "curvature": -0.999780611077423,
+        "confidence": 0.5713468329474272
+      },
+      "listo": {
+        "naive_unified": 58.9417758171914,
+        "riemannian_unified": 64.16710597434175,
+        "consensus": 0.35702304226362847,
+        "coherence": 0.544999298722267,
+        "curvature": -0.9998931050957323,
+        "confidence": 0.5674852771742125
+      },
+      "mayorofthefreaks": {
+        "naive_unified": 61.56648431053249,
+        "riemannian_unified": 67.16835700594427,
+        "consensus": 0.36751490210345966,
+        "coherence": 0.5356901333008214,
+        "curvature": -0.9997877618806142,
+        "confidence": 0.5677906407256582
+      },
+      "metsmagic": {
+        "naive_unified": 65.73428614783285,
+        "riemannian_unified": 72.09880275652952,
+        "consensus": 0.3844218960056153,
+        "coherence": 0.5324855410955781,
+        "curvature": -0.9996869588585529,
+        "confidence": 0.5712255144249561
+      },
+      "mybackseatviewofagreatromance": {
+        "naive_unified": 61.61318104152911,
+        "riemannian_unified": 69.02152315731229,
+        "consensus": 0.3758575380730152,
+        "coherence": 0.5347553918241986,
+        "curvature": -0.9997413756123698,
+        "confidence": 0.5696468814920024
+      },
+      "myfathershands": {
+        "naive_unified": 63.16552688236942,
+        "riemannian_unified": 67.94163540558151,
+        "consensus": 0.37687013406308956,
+        "coherence": 0.5467287567434874,
+        "curvature": -0.999809399238586,
+        "confidence": 0.5728871141905804
+      },
+      "notontheusualtour": {
+        "naive_unified": 65.34230184184693,
+        "riemannian_unified": 70.15602229736862,
+        "consensus": 0.37997753849797505,
+        "coherence": 0.5670700704663884,
+        "curvature": -0.9996941887955707,
+        "confidence": 0.5787598922486705
+      },
+      "odetostepfather": {
+        "naive_unified": 60.97284776879675,
+        "riemannian_unified": 67.05383394342198,
+        "consensus": 0.36156920599513115,
+        "coherence": 0.5604499555594425,
+        "curvature": -0.9997858892816684,
+        "confidence": 0.5724943445226122
+      },
+      "onlyonewaytofindout": {
+        "naive_unified": 59.7571797420231,
+        "riemannian_unified": 66.30049375753978,
+        "consensus": 0.36638351942874664,
+        "coherence": 0.5286912880675696,
+        "curvature": -0.9998191960557191,
+        "confidence": 0.5657551921837766
+      },
+      "penpal": {
+        "naive_unified": 61.522119218560405,
+        "riemannian_unified": 69.01011823591249,
+        "consensus": 0.3709372140766532,
+        "coherence": 0.5577069923340484,
+        "curvature": -0.9997473788866531,
+        "confidence": 0.5741541483589245
+      },
+      "quietfire": {
+        "naive_unified": 55.47552423008127,
+        "riemannian_unified": 65.4123669973864,
+        "consensus": 0.35161081750541884,
+        "coherence": 0.5684807560534438,
+        "curvature": -0.9998104356338751,
+        "confidence": 0.572010189543402
+      },
+      "reachingoutbetweenthebars": {
+        "naive_unified": 58.87683426067349,
+        "riemannian_unified": 66.27454112939463,
+        "consensus": 0.3567608923852313,
+        "coherence": 0.5698292101786895,
+        "curvature": -0.9997892017057989,
+        "confidence": 0.5736367750670347
+      },
+      "shoppinginchina": {
+        "naive_unified": 64.85479029981566,
+        "riemannian_unified": 71.7632934389428,
+        "consensus": 0.3751761209600381,
+        "coherence": 0.5723477015411104,
+        "curvature": -0.9995992623919662,
+        "confidence": 0.5788876790857082
+      },
+      "singlewomanseekingmanwich": {
+        "naive_unified": 63.525079890324896,
+        "riemannian_unified": 73.24032314467844,
+        "consensus": 0.364324326764847,
+        "coherence": 0.5734513275022307,
+        "curvature": -0.9994790430982905,
+        "confidence": 0.5764616986753968
+      },
+      "sloth": {
+        "naive_unified": 61.63149987265956,
+        "riemannian_unified": 70.07714885699971,
+        "consensus": 0.36829421201440643,
+        "coherence": 0.5854210972435553,
+        "curvature": -0.9996675544049834,
+        "confidence": 0.5804292676651008
+      },
+      "souls": {
+        "naive_unified": 61.69152689604213,
+        "riemannian_unified": 69.38195952889566,
+        "consensus": 0.36398573630901837,
+        "coherence": 0.5669944465313034,
+        "curvature": -0.9996705805854007,
+        "confidence": 0.5747452076511811
+      },
+      "stagefright": {
+        "naive_unified": 64.9005960768141,
+        "riemannian_unified": 71.90463966185149,
+        "consensus": 0.3821908053200773,
+        "coherence": 0.5599440899349686,
+        "curvature": -0.9996131481861911,
+        "confidence": 0.5775391696966233
+      },
+      "stumblinginthedark": {
+        "naive_unified": 61.50592529513791,
+        "riemannian_unified": 68.61037600314282,
+        "consensus": 0.3683913965529337,
+        "coherence": 0.5532765230568275,
+        "curvature": -0.9997245830085257,
+        "confidence": 0.572412173746014
+      },
+      "superheroesjustforeachother": {
+        "naive_unified": 66.40166345052656,
+        "riemannian_unified": 73.79624980158506,
+        "consensus": 0.3796660974560804,
+        "coherence": 0.569882495811461,
+        "curvature": -0.9995029321271148,
+        "confidence": 0.5794027352362482
+      },
+      "sweetaspie": {
+        "naive_unified": 64.68399364632425,
+        "riemannian_unified": 72.75869281815179,
+        "consensus": 0.36895816862992925,
+        "coherence": 0.5743787039161069,
+        "curvature": -0.9995165560041014,
+        "confidence": 0.5778485514553744
+      },
+      "swimmingwithastronauts": {
+        "naive_unified": 61.242464882843485,
+        "riemannian_unified": 68.17054836556764,
+        "consensus": 0.3733212241640023,
+        "coherence": 0.5476806426002307,
+        "curvature": -0.9997997459698821,
+        "confidence": 0.5722387461632877
+      },
+      "thatthingonmyarm": {
+        "naive_unified": 61.987910437196014,
+        "riemannian_unified": 68.78294852162368,
+        "consensus": 0.3694981707328795,
+        "coherence": 0.5471247788256894,
+        "curvature": -0.9997250439468272,
+        "confidence": 0.5711508888291174
+      },
+      "theadvancedbeginner": {
+        "naive_unified": 59.16471844405243,
+        "riemannian_unified": 68.8605038103094,
+        "consensus": 0.3586932818267594,
+        "coherence": 0.5848114242839912,
+        "curvature": -0.999695584871548,
+        "confidence": 0.5778740380991731
+      },
+      "theclosetthatateeverything": {
+        "naive_unified": 62.9885418869344,
+        "riemannian_unified": 68.07648390230025,
+        "consensus": 0.3760117311077568,
+        "coherence": 0.5463234058467249,
+        "curvature": -0.9998102422327915,
+        "confidence": 0.5725710981827512
+      },
+      "thecurse": {
+        "naive_unified": 59.493947156102486,
+        "riemannian_unified": 67.07973323015227,
+        "consensus": 0.36392175133526355,
+        "coherence": 0.5434844801259361,
+        "curvature": -0.9997687795412923,
+        "confidence": 0.568842685930122
+      },
+      "thefreedomridersandme": {
+        "naive_unified": 64.03034815109135,
+        "riemannian_unified": 68.68787242834057,
+        "consensus": 0.38045509646226333,
+        "coherence": 0.5438165641475189,
+        "curvature": -0.9998008905197555,
+        "confidence": 0.5730560893395618
+      },
+      "theinterview": {
+        "naive_unified": 62.95620835825777,
+        "riemannian_unified": 70.29103427579497,
+        "consensus": 0.36970516174718976,
+        "coherence": 0.574390236951209,
+        "curvature": -0.9996300302267876,
+        "confidence": 0.5780277423308999
+      },
+      "thepostmanalwayscalls": {
+        "naive_unified": 60.17085230435934,
+        "riemannian_unified": 67.63629610061896,
+        "consensus": 0.3633739521480723,
+        "coherence": 0.5673576918044902,
+        "curvature": -0.9997420387920685,
+        "confidence": 0.5746764989975393
+      },
+      "theshower": {
+        "naive_unified": 58.790417949042485,
+        "riemannian_unified": 66.0375813939431,
+        "consensus": 0.3598498664293541,
+        "coherence": 0.5513099254912787,
+        "curvature": -0.9998022295943135,
+        "confidence": 0.569777998988333
+      },
+      "thetiniestbouquet": {
+        "naive_unified": 66.11540060980651,
+        "riemannian_unified": 72.19558015139347,
+        "consensus": 0.3764625010787513,
+        "coherence": 0.5717927325059994,
+        "curvature": -0.999580637214105,
+        "confidence": 0.5790722455141561
+      },
+      "thetriangleshirtwaistconnection": {
+        "naive_unified": 62.16699432479235,
+        "riemannian_unified": 67.81070809647929,
+        "consensus": 0.3685105482847944,
+        "coherence": 0.5673376407769277,
+        "curvature": -0.9997754288844778,
+        "confidence": 0.5759525636517057
+      },
+      "threemonths": {
+        "naive_unified": 63.290949261920744,
+        "riemannian_unified": 71.79711807539137,
+        "consensus": 0.36562836849195834,
+        "coherence": 0.5646208816308533,
+        "curvature": -0.9995627574737392,
+        "confidence": 0.5745723947503454
+      },
+      "treasureisland": {
+        "naive_unified": 60.71733561698185,
+        "riemannian_unified": 66.0210671041559,
+        "consensus": 0.36829192054557386,
+        "coherence": 0.5277973890571056,
+        "curvature": -0.9998524829461084,
+        "confidence": 0.5660057558171079
+      },
+      "undertheinfluence": {
+        "naive_unified": 62.32178408440109,
+        "riemannian_unified": 70.1974916773597,
+        "consensus": 0.374249676589018,
+        "coherence": 0.5626985060277642,
+        "curvature": -0.9996957435825417,
+        "confidence": 0.5762348926246103
+      },
+      "vixenandtheussr": {
+        "naive_unified": 60.29787332885986,
+        "riemannian_unified": 67.25922633299126,
+        "consensus": 0.3702562159751388,
+        "coherence": 0.5495052633735055,
+        "curvature": -0.9998040384243129,
+        "confidence": 0.5719282544547402
+      },
+      "waitingtogo": {
+        "naive_unified": 63.09486431921509,
+        "riemannian_unified": 67.74342210648122,
+        "consensus": 0.3793841253763662,
+        "coherence": 0.5246637168472437,
+        "curvature": -0.9998635540306422,
+        "confidence": 0.5679943706216659
+      },
+      "whenmothersbullyback": {
+        "naive_unified": 59.316116092121824,
+        "riemannian_unified": 67.82388638915144,
+        "consensus": 0.3603638199550892,
+        "coherence": 0.5636028052842478,
+        "curvature": -0.9997321094921264,
+        "confidence": 0.5729861577556958
+      },
+      "wheretheressmoke": {
+        "naive_unified": 61.72478992064299,
+        "riemannian_unified": 66.61319730926814,
+        "consensus": 0.36811406886298387,
+        "coherence": 0.555710665569494,
+        "curvature": -0.999829457921709,
+        "confidence": 0.5729417299696239
+      },
+      "wildwomenanddancingqueens": {
+        "naive_unified": 61.447204219289155,
+        "riemannian_unified": 68.0557159690575,
+        "consensus": 0.3698427346712578,
+        "coherence": 0.5539769556732077,
+        "curvature": -0.9997726680543009,
+        "confidence": 0.5729456929429357
+      }
+    },
+    "UTS02": {
+      "adollshouse": {
+        "naive_unified": 63.699007404113004,
+        "riemannian_unified": 68.68390542711028,
+        "consensus": 0.3773605910927172,
+        "coherence": 0.5476815618694126,
+        "curvature": -0.9997952490268822,
+        "confidence": 0.5732492313797415
+      },
+      "adventuresinsayingyes": {
+        "naive_unified": 64.24760726942405,
+        "riemannian_unified": 69.07632864432101,
+        "consensus": 0.3755532484267099,
+        "coherence": 0.549350109264535,
+        "curvature": -0.9997627718343692,
+        "confidence": 0.5732175201450302
+      },
+      "afatherscover": {
+        "naive_unified": 61.76096819907952,
+        "riemannian_unified": 67.07144101091104,
+        "consensus": 0.3704323773432958,
+        "coherence": 0.5276380458882727,
+        "curvature": -0.9998666249665357,
+        "confidence": 0.5664997334020047
+      },
+      "againstthewind": {
+        "naive_unified": 63.30518173027234,
+        "riemannian_unified": 69.4653240398929,
+        "consensus": 0.3782342135205843,
+        "coherence": 0.5535790003288269,
+        "curvature": -0.9997218242187823,
+        "confidence": 0.5749487511016739
+      },
+      "alternateithicatom": {
+        "naive_unified": 62.597212103010484,
+        "riemannian_unified": 68.6039717769435,
+        "consensus": 0.37110363760261794,
+        "coherence": 0.5499373868250962,
+        "curvature": -0.9997588012256624,
+        "confidence": 0.5722523020928412
+      },
+      "avatar": {
+        "naive_unified": 65.82711684786916,
+        "riemannian_unified": 71.51368993025034,
+        "consensus": 0.3847790970024663,
+        "coherence": 0.530336404119245,
+        "curvature": -0.9996903453223018,
+        "confidence": 0.5707772188805024
+      },
+      "backsideofthestorm": {
+        "naive_unified": 65.67225861106972,
+        "riemannian_unified": 71.09332904536046,
+        "consensus": 0.38078136315518224,
+        "coherence": 0.5565752007002243,
+        "curvature": -0.9996635179130621,
+        "confidence": 0.5763399526742456
+      },
+      "becomingindian": {
+        "naive_unified": 63.033836349509066,
+        "riemannian_unified": 68.31475559680129,
+        "consensus": 0.37722974781548535,
+        "coherence": 0.5490582214449907,
+        "curvature": -0.999807804177339,
+        "confidence": 0.5735595305296955
+      },
+      "beneaththemushroomcloud": {
+        "naive_unified": 63.87730691146472,
+        "riemannian_unified": 68.28876565460199,
+        "consensus": 0.3815402248737092,
+        "coherence": 0.5269698337179702,
+        "curvature": -0.9998494625604863,
+        "confidence": 0.569111220890202
+      },
+      "birthofanation": {
+        "naive_unified": 65.86194545362024,
+        "riemannian_unified": 72.17738821035228,
+        "consensus": 0.38199444586431647,
+        "coherence": 0.5447138741159704,
+        "curvature": -0.9996358166133361,
+        "confidence": 0.5736804402828253
+      },
+      "bluehope": {
+        "naive_unified": 66.17506476992182,
+        "riemannian_unified": 72.45368284940372,
+        "consensus": 0.3852599497115869,
+        "coherence": 0.5444807852252055,
+        "curvature": -0.9996232599877127,
+        "confidence": 0.574439699280956
+      },
+      "breakingupintheageofgoogle": {
+        "naive_unified": 63.28010290588538,
+        "riemannian_unified": 69.23922713180363,
+        "consensus": 0.3787669952394925,
+        "coherence": 0.5513934403132997,
+        "curvature": -0.9997823943474001,
+        "confidence": 0.5745299845201737
+      },
+      "buck": {
+        "naive_unified": 66.19155894031657,
+        "riemannian_unified": 71.90408763526297,
+        "consensus": 0.3859052276019395,
+        "coherence": 0.5164206223306235,
+        "curvature": -0.9996910358737622,
+        "confidence": 0.5675797425536467
+      },
+      "catfishingstrangerstofindmyself": {
+        "naive_unified": 62.27050470565871,
+        "riemannian_unified": 66.84362252521329,
+        "consensus": 0.37099068002079444,
+        "coherence": 0.5465346551877241,
+        "curvature": -0.9998188669898049,
+        "confidence": 0.5713678543814507
+      },
+      "cautioneating": {
+        "naive_unified": 58.24966846638707,
+        "riemannian_unified": 65.36261204202737,
+        "consensus": 0.35640785609965747,
+        "coherence": 0.5737380243664902,
+        "curvature": -0.9998413676641289,
+        "confidence": 0.5745209209604015
+      },
+      "christmas1940": {
+        "naive_unified": 62.40947588836615,
+        "riemannian_unified": 67.60478609708768,
+        "consensus": 0.37615382569425854,
+        "coherence": 0.505779116325174,
+        "curvature": -0.9998768680706208,
+        "confidence": 0.5624644209212892
+      },
+      "cocoonoflove": {
+        "naive_unified": 65.54215903370508,
+        "riemannian_unified": 70.79212906028246,
+        "consensus": 0.38199056025977923,
+        "coherence": 0.558300245359319,
+        "curvature": -0.9996768108311817,
+        "confidence": 0.5770722901640399
+      },
+      "comingofageondeathrow": {
+        "naive_unified": 64.59233465901298,
+        "riemannian_unified": 71.83114904073855,
+        "consensus": 0.3801619960966525,
+        "coherence": 0.5338038119175977,
+        "curvature": -0.9996669854072133,
+        "confidence": 0.5704919447022332
+      },
+      "eyespy": {
+        "naive_unified": 63.31746837394946,
+        "riemannian_unified": 68.71087312703148,
+        "consensus": 0.37532538309740077,
+        "coherence": 0.5526584244859452,
+        "curvature": -0.9997766513978319,
+        "confidence": 0.5739863558225456
+      },
+      "firetestforlove": {
+        "naive_unified": 63.07804831915753,
+        "riemannian_unified": 70.88239204065697,
+        "consensus": 0.37213697975596566,
+        "coherence": 0.5548355183221255,
+        "curvature": -0.9996200073225664,
+        "confidence": 0.5737479393266484
+      },
+      "food": {
+        "naive_unified": 62.79842467724405,
+        "riemannian_unified": 68.04111501953489,
+        "consensus": 0.3725848779016456,
+        "coherence": 0.5500841977687495,
+        "curvature": -0.9997878305235139,
+        "confidence": 0.572656644477769
+      },
+      "forgettingfear": {
+        "naive_unified": 62.70866015996647,
+        "riemannian_unified": 68.76412953434374,
+        "consensus": 0.37188049222933434,
+        "coherence": 0.5617391817013729,
+        "curvature": -0.9997414686816758,
+        "confidence": 0.575398558938591
+      },
+      "gangstersandcookies": {
+        "naive_unified": 57.054067150436495,
+        "riemannian_unified": 64.0642171933439,
+        "consensus": 0.35026038070734505,
+        "coherence": 0.566158075426866,
+        "curvature": -0.9998706545639677,
+        "confidence": 0.571086370977467
+      },
+      "goingthelibertyway": {
+        "naive_unified": 66.90554323159574,
+        "riemannian_unified": 73.59505487269526,
+        "consensus": 0.38678432713324784,
+        "coherence": 0.5539947347216391,
+        "curvature": -0.9995615896205473,
+        "confidence": 0.5772049551376952
+      },
+      "goldiethegoldfish": {
+        "naive_unified": 62.16718974722794,
+        "riemannian_unified": 68.37255983897751,
+        "consensus": 0.3751516227366743,
+        "coherence": 0.5620504737240668,
+        "curvature": -0.9997739649657018,
+        "confidence": 0.5762911751682032
+      },
+      "golfclubbing": {
+        "naive_unified": 63.6850639948053,
+        "riemannian_unified": 72.22799232846316,
+        "consensus": 0.3737526107448563,
+        "coherence": 0.5828814182971632,
+        "curvature": -0.9995744396801634,
+        "confidence": 0.5811675146056523
+      },
+      "gpsformylostidentity": {
+        "naive_unified": 62.396648194531586,
+        "riemannian_unified": 70.66552737655195,
+        "consensus": 0.36623115399799705,
+        "coherence": 0.5607622264895286,
+        "curvature": -0.9996169229231009,
+        "confidence": 0.5737534437090462
+      },
+      "hangtime": {
+        "naive_unified": 63.313811390829414,
+        "riemannian_unified": 69.23972552696398,
+        "consensus": 0.3765974739496454,
+        "coherence": 0.5640295186978487,
+        "curvature": -0.9997202524527473,
+        "confidence": 0.5771523403966282
+      },
+      "haveyoumethimyet": {
+        "naive_unified": 62.62089218842488,
+        "riemannian_unified": 69.1437708733489,
+        "consensus": 0.3771595797562313,
+        "coherence": 0.5226735383841131,
+        "curvature": -0.9997846677484615,
+        "confidence": 0.5669479460374185
+      },
+      "howtodraw": {
+        "naive_unified": 57.64307944608081,
+        "riemannian_unified": 66.05660998317555,
+        "consensus": 0.35693733935856975,
+        "coherence": 0.5736897208406279,
+        "curvature": -0.9997845204977508,
+        "confidence": 0.5746464450976766
+      },
+      "ifthishaircouldtalk": {
+        "naive_unified": 61.80290744910229,
+        "riemannian_unified": 68.75172555836045,
+        "consensus": 0.3715151714297708,
+        "coherence": 0.56049218194352,
+        "curvature": -0.9997174812945105,
+        "confidence": 0.5749976855127739
+      },
+      "inamoment": {
+        "naive_unified": 56.893808564003415,
+        "riemannian_unified": 64.88041744412618,
+        "consensus": 0.3567291534351089,
+        "coherence": 0.5541264746293451,
+        "curvature": -0.9998426246756024,
+        "confidence": 0.5696982422345407
+      },
+      "itsabox": {
+        "naive_unified": 66.88029578583497,
+        "riemannian_unified": 72.0530498916309,
+        "consensus": 0.3868849881125363,
+        "coherence": 0.491522707380696,
+        "curvature": -0.9996779574387638,
+        "confidence": 0.5616014071452079
+      },
+      "jugglingandjesus": {
+        "naive_unified": 65.37469904476214,
+        "riemannian_unified": 71.65701727760005,
+        "consensus": 0.38354836877693943,
+        "coherence": 0.5235905179584189,
+        "curvature": -0.9996881486661092,
+        "confidence": 0.5687832673728672
+      },
+      "kiksuya": {
+        "naive_unified": 59.762222263868296,
+        "riemannian_unified": 67.26581542639391,
+        "consensus": 0.3665426756782826,
+        "coherence": 0.5602373552783774,
+        "curvature": -0.9997828285011033,
+        "confidence": 0.5736848434334041
+      },
+      "leavingbaghdad": {
+        "naive_unified": 61.49035821673019,
+        "riemannian_unified": 67.32630334146351,
+        "consensus": 0.3716036462300975,
+        "coherence": 0.5494548415677044,
+        "curvature": -0.9998034073659701,
+        "confidence": 0.57225256461677
+      },
+      "lifeanddeathontheoregontrail": {
+        "naive_unified": 65.50057368109175,
+        "riemannian_unified": 69.63771240915946,
+        "consensus": 0.3855600630287932,
+        "coherence": 0.5241235069447959,
+        "curvature": -0.9997894286150888,
+        "confidence": 0.5694101210462389
+      },
+      "lifereimagined": {
+        "naive_unified": 62.386950555644425,
+        "riemannian_unified": 68.20709157602225,
+        "consensus": 0.376482340982563,
+        "coherence": 0.5434826426835732,
+        "curvature": -0.9998109068923468,
+        "confidence": 0.5719784987204379
+      },
+      "listo": {
+        "naive_unified": 63.04851669248801,
+        "riemannian_unified": 70.00279970556782,
+        "consensus": 0.3736202506101831,
+        "coherence": 0.5478830145077019,
+        "curvature": -0.9997200751088526,
+        "confidence": 0.572371424829084
+      },
+      "mayorofthefreaks": {
+        "naive_unified": 58.87659345761155,
+        "riemannian_unified": 67.43710099695747,
+        "consensus": 0.369872996767604,
+        "coherence": 0.49441904793201713,
+        "curvature": -0.9997926139370139,
+        "confidence": 0.558061946712907
+      },
+      "metsmagic": {
+        "naive_unified": 61.275485462462214,
+        "riemannian_unified": 69.59497484480946,
+        "consensus": 0.3659702541137828,
+        "coherence": 0.5787624926747026,
+        "curvature": -0.999680516810885,
+        "confidence": 0.5781824345084099
+      },
+      "mybackseatviewofagreatromance": {
+        "naive_unified": 65.18551684993892,
+        "riemannian_unified": 73.47106110082956,
+        "consensus": 0.3760831480466213,
+        "coherence": 0.5781062519991043,
+        "curvature": -0.9995191412399518,
+        "confidence": 0.580561445451851
+      },
+      "myfathershands": {
+        "naive_unified": 62.916336970387746,
+        "riemannian_unified": 68.20168342229496,
+        "consensus": 0.37728228098937927,
+        "coherence": 0.5371126969447464,
+        "curvature": -0.9998230230273046,
+        "confidence": 0.5705848827642178
+      },
+      "notontheusualtour": {
+        "naive_unified": 59.83662261013181,
+        "riemannian_unified": 68.8349879104553,
+        "consensus": 0.36198066509198207,
+        "coherence": 0.571097510184979,
+        "curvature": -0.999707680067958,
+        "confidence": 0.5752662926652501
+      },
+      "odetostepfather": {
+        "naive_unified": 58.22688092908964,
+        "riemannian_unified": 65.52623368575735,
+        "consensus": 0.3560811528411654,
+        "coherence": 0.5609366863693709,
+        "curvature": -0.9998170277261342,
+        "confidence": 0.5712411495695762
+      },
+      "onlyonewaytofindout": {
+        "naive_unified": 67.0323701358439,
+        "riemannian_unified": 73.60298477853556,
+        "consensus": 0.38803365305791787,
+        "coherence": 0.5264577844277777,
+        "curvature": -0.9996136234877827,
+        "confidence": 0.5706282615239613
+      },
+      "penpal": {
+        "naive_unified": 64.504078082659,
+        "riemannian_unified": 69.54893771360072,
+        "consensus": 0.37938821512410675,
+        "coherence": 0.5549283864351146,
+        "curvature": -0.9997485969844555,
+        "confidence": 0.5755721350895338
+      },
+      "quietfire": {
+        "naive_unified": 60.940341559533806,
+        "riemannian_unified": 68.52221732967058,
+        "consensus": 0.36825945123614995,
+        "coherence": 0.5599212106037735,
+        "curvature": -0.9997273767684532,
+        "confidence": 0.5740401022914275
+      },
+      "reachingoutbetweenthebars": {
+        "naive_unified": 56.74171797767146,
+        "riemannian_unified": 66.36150903862617,
+        "consensus": 0.352754240007301,
+        "coherence": 0.5254796358409729,
+        "curvature": -0.999770595046954,
+        "confidence": 0.5615494300166283
+      },
+      "shoppinginchina": {
+        "naive_unified": 60.99807079702235,
+        "riemannian_unified": 66.56017465781169,
+        "consensus": 0.3678661139504415,
+        "coherence": 0.5336364880145538,
+        "curvature": -0.9998282005019932,
+        "confidence": 0.5673613125172655
+      },
+      "singlewomanseekingmanwich": {
+        "naive_unified": 59.02241607289124,
+        "riemannian_unified": 67.50273047957975,
+        "consensus": 0.3595746717358161,
+        "coherence": 0.5615360715780598,
+        "curvature": -0.9997409848740134,
+        "confidence": 0.572271370791622
+      },
+      "sloth": {
+        "naive_unified": 66.90711037269959,
+        "riemannian_unified": 73.21945855065451,
+        "consensus": 0.3812954234135651,
+        "coherence": 0.5722595159762441,
+        "curvature": -0.9995369413182351,
+        "confidence": 0.5804011924443468
+      },
+      "souls": {
+        "naive_unified": 62.94289510786881,
+        "riemannian_unified": 68.62863891089347,
+        "consensus": 0.3728410157613982,
+        "coherence": 0.5607002461786078,
+        "curvature": -0.9997400827110213,
+        "confidence": 0.5753790834414901
+      },
+      "stagefright": {
+        "naive_unified": 66.21088838864148,
+        "riemannian_unified": 74.0257479408311,
+        "consensus": 0.3752111835626574,
+        "coherence": 0.5800849812153648,
+        "curvature": -0.9994658171456143,
+        "confidence": 0.5808430433340522
+      },
+      "stumblinginthedark": {
+        "naive_unified": 61.1749688305352,
+        "riemannian_unified": 68.52618760590067,
+        "consensus": 0.37107035315238335,
+        "coherence": 0.558059560029441,
+        "curvature": -0.9997522893216277,
+        "confidence": 0.5742751233266946
+      },
+      "superheroesjustforeachother": {
+        "naive_unified": 64.9832976965473,
+        "riemannian_unified": 72.865880554263,
+        "consensus": 0.3805640099730299,
+        "coherence": 0.5593157616951622,
+        "curvature": -0.9995767140403319,
+        "confidence": 0.5769787410008119
+      },
+      "sweetaspie": {
+        "naive_unified": 64.3546058063126,
+        "riemannian_unified": 69.9260546527304,
+        "consensus": 0.3742633683591808,
+        "coherence": 0.5510885322267512,
+        "curvature": -0.9997125862307822,
+        "confidence": 0.573334272642571
+      },
+      "swimmingwithastronauts": {
+        "naive_unified": 65.62678238013224,
+        "riemannian_unified": 71.13604886026012,
+        "consensus": 0.3791317078246448,
+        "coherence": 0.5605931383947731,
+        "curvature": -0.9996571261221752,
+        "confidence": 0.5769326113170777
+      },
+      "thatthingonmyarm": {
+        "naive_unified": 62.850380450302325,
+        "riemannian_unified": 70.81582464149558,
+        "consensus": 0.3669504019153846,
+        "coherence": 0.5882722028525235,
+        "curvature": -0.9996176797087432,
+        "confidence": 0.5808106801510305
+      },
+      "theadvancedbeginner": {
+        "naive_unified": 61.25461207581514,
+        "riemannian_unified": 67.35569449952311,
+        "consensus": 0.36891633721904776,
+        "coherence": 0.5534758723673815,
+        "curvature": -0.9997970601246593,
+        "confidence": 0.5725865789354496
+      },
+      "theclosetthatateeverything": {
+        "naive_unified": 63.74555202534815,
+        "riemannian_unified": 68.68715342455991,
+        "consensus": 0.381016937184556,
+        "coherence": 0.536416207786733,
+        "curvature": -0.9998285048735106,
+        "confidence": 0.5713439202710278
+      },
+      "thecurse": {
+        "naive_unified": 62.72278954347236,
+        "riemannian_unified": 69.34620241322881,
+        "consensus": 0.37294815755687666,
+        "coherence": 0.5709119548958427,
+        "curvature": -0.999696497476202,
+        "confidence": 0.577962805727027
+      },
+      "thefreedomridersandme": {
+        "naive_unified": 61.289107912468936,
+        "riemannian_unified": 68.98432651760966,
+        "consensus": 0.36836172361635633,
+        "coherence": 0.5412741079308562,
+        "curvature": -0.9997071717183853,
+        "confidence": 0.5694057534993329
+      },
+      "theinterview": {
+        "naive_unified": 64.39320659402223,
+        "riemannian_unified": 70.58744627882267,
+        "consensus": 0.3799381175223928,
+        "coherence": 0.5679780678390928,
+        "curvature": -0.99965611667912,
+        "confidence": 0.5789805389728155
+      },
+      "thepostmanalwayscalls": {
+        "naive_unified": 63.73232241828392,
+        "riemannian_unified": 71.25031431006225,
+        "consensus": 0.3721100939280473,
+        "coherence": 0.578823554377109,
+        "curvature": -0.9996196609695508,
+        "confidence": 0.5797382587495652
+      },
+      "theshower": {
+        "naive_unified": 62.359234631934555,
+        "riemannian_unified": 67.0380140976738,
+        "consensus": 0.37339825615919536,
+        "coherence": 0.523884389346673,
+        "curvature": -0.9998752014236894,
+        "confidence": 0.5663020000931863
+      },
+      "thetiniestbouquet": {
+        "naive_unified": 66.01204182334136,
+        "riemannian_unified": 74.86921450907607,
+        "consensus": 0.370805874958504,
+        "coherence": 0.5797027036127934,
+        "curvature": -0.9993966983524618,
+        "confidence": 0.5796525072445572
+      },
+      "thetriangleshirtwaistconnection": {
+        "naive_unified": 62.75048821985992,
+        "riemannian_unified": 69.60509344729054,
+        "consensus": 0.37694358952670676,
+        "coherence": 0.5206749248287508,
+        "curvature": -0.9997606282543359,
+        "confidence": 0.5663965065028248
+      },
+      "threemonths": {
+        "naive_unified": 67.43178319509386,
+        "riemannian_unified": 72.71992518335925,
+        "consensus": 0.38538629735347846,
+        "coherence": 0.5478615624758277,
+        "curvature": -0.9996056748290444,
+        "confidence": 0.5753180984323142
+      },
+      "treasureisland": {
+        "naive_unified": 63.24821228497601,
+        "riemannian_unified": 67.46304679122377,
+        "consensus": 0.376728730822845,
+        "coherence": 0.5283716068195954,
+        "curvature": -0.9998632274321514,
+        "confidence": 0.5682575245176947
+      },
+      "undertheinfluence": {
+        "naive_unified": 62.561796347857616,
+        "riemannian_unified": 68.8877966900476,
+        "consensus": 0.3756051645674843,
+        "coherence": 0.5573543577297715,
+        "curvature": -0.9997582732532344,
+        "confidence": 0.5752319751295033
+      },
+      "vixenandtheussr": {
+        "naive_unified": 66.01787620739762,
+        "riemannian_unified": 71.46315182015773,
+        "consensus": 0.3812784000589378,
+        "coherence": 0.5502341759275732,
+        "curvature": -0.999660517061773,
+        "confidence": 0.5748792317881904
+      },
+      "waitingtogo": {
+        "naive_unified": 62.22891408838372,
+        "riemannian_unified": 67.11625851070632,
+        "consensus": 0.37290168459124007,
+        "coherence": 0.5395267078475672,
+        "curvature": -0.9998523231261112,
+        "confidence": 0.5700905412269323
+      },
+      "whenmothersbullyback": {
+        "naive_unified": 58.51871187569747,
+        "riemannian_unified": 69.4229278393026,
+        "consensus": 0.3569380392586558,
+        "coherence": 0.5839546645561425,
+        "curvature": -0.9996609890980847,
+        "confidence": 0.5772242203174184
+      },
+      "wheretheressmoke": {
+        "naive_unified": 67.87841246985276,
+        "riemannian_unified": 72.12886514837368,
+        "consensus": 0.3885495460348903,
+        "coherence": 0.5096243413287177,
+        "curvature": -0.9996784168350807,
+        "confidence": 0.5665429128485877
+      },
+      "wildwomenanddancingqueens": {
+        "naive_unified": 62.089977112092434,
+        "riemannian_unified": 68.70314877322124,
+        "consensus": 0.37045615972120965,
+        "coherence": 0.5689796732091507,
+        "curvature": -0.9997285285031252,
+        "confidence": 0.5768537891103394
+      }
+    },
+    "UTS03": {
+      "adollshouse": {
+        "naive_unified": 66.60779711068635,
+        "riemannian_unified": 72.28985210922202,
+        "consensus": 0.38456322107811475,
+        "coherence": 0.5449227683911556,
+        "curvature": -0.9996327767543328,
+        "confidence": 0.5743751373327394
+      },
+      "adventuresinsayingyes": {
+        "naive_unified": 63.38512802213095,
+        "riemannian_unified": 66.91376280468035,
+        "consensus": 0.38306999680521314,
+        "coherence": 0.5143408160145024,
+        "curvature": -0.999888961420693,
+        "confidence": 0.5663327762674106
+      },
+      "afatherscover": {
+        "naive_unified": 64.71007683890363,
+        "riemannian_unified": 67.84969009770631,
+        "consensus": 0.3771634859355551,
+        "coherence": 0.5442992393446183,
+        "curvature": -0.999859218701931,
+        "confidence": 0.5723484901606545
+      },
+      "againstthewind": {
+        "naive_unified": 66.18861027377145,
+        "riemannian_unified": 73.70223804002606,
+        "consensus": 0.37930066760221953,
+        "coherence": 0.5765627845487481,
+        "curvature": -0.9995052136430124,
+        "confidence": 0.5809812400223199
+      },
+      "alternateithicatom": {
+        "naive_unified": 70.59824782782519,
+        "riemannian_unified": 75.51371945439713,
+        "consensus": 0.3928357052157267,
+        "coherence": 0.5472220258836671,
+        "curvature": -0.9994544639388325,
+        "confidence": 0.5770344796310847
+      },
+      "avatar": {
+        "naive_unified": 61.024847311396194,
+        "riemannian_unified": 67.48944406147137,
+        "consensus": 0.3741207818928527,
+        "coherence": 0.5334110534005848,
+        "curvature": -0.9998221414566516,
+        "confidence": 0.5688691781963616
+      },
+      "backsideofthestorm": {
+        "naive_unified": 61.808846886533615,
+        "riemannian_unified": 67.51571683976064,
+        "consensus": 0.37092297385647005,
+        "coherence": 0.5423128896993538,
+        "curvature": -0.9997950445328623,
+        "confidence": 0.5702976778393045
+      },
+      "becomingindian": {
+        "naive_unified": 60.62988328368441,
+        "riemannian_unified": 67.3662667436235,
+        "consensus": 0.3701060124247542,
+        "coherence": 0.5365043807316319,
+        "curvature": -0.9997921637384274,
+        "confidence": 0.5686415752403963
+      },
+      "beneaththemushroomcloud": {
+        "naive_unified": 62.68394741824693,
+        "riemannian_unified": 67.40699863525852,
+        "consensus": 0.3797534522263753,
+        "coherence": 0.5255839621373994,
+        "curvature": -0.9998708224378506,
+        "confidence": 0.5683160950935244
+      },
+      "birthofanation": {
+        "naive_unified": 58.98912619936778,
+        "riemannian_unified": 66.1497931221385,
+        "consensus": 0.35955032792502556,
+        "coherence": 0.5509562506963831,
+        "curvature": -0.9997979446644786,
+        "confidence": 0.5696150898267158
+      },
+      "bluehope": {
+        "naive_unified": 61.96177959936991,
+        "riemannian_unified": 69.91783500819363,
+        "consensus": 0.37490109924720355,
+        "coherence": 0.5468102620981012,
+        "curvature": -0.9997282396806132,
+        "confidence": 0.5724226977842575
+      },
+      "breakingupintheageofgoogle": {
+        "naive_unified": 62.33584008282585,
+        "riemannian_unified": 66.49921102330305,
+        "consensus": 0.3693733000208126,
+        "coherence": 0.54237197203036,
+        "curvature": -0.9998608839188141,
+        "confidence": 0.5699189736822056
+      },
+      "buck": {
+        "naive_unified": 62.93794577254467,
+        "riemannian_unified": 66.42489496916738,
+        "consensus": 0.381694157955941,
+        "coherence": 0.5096630786465902,
+        "curvature": -0.9998969249855044,
+        "confidence": 0.564818649726758
+      },
+      "catfishingstrangerstofindmyself": {
+        "naive_unified": 61.93789381078356,
+        "riemannian_unified": 66.81211647480777,
+        "consensus": 0.37205407008693275,
+        "coherence": 0.5199580399579912,
+        "curvature": -0.9998440767496379,
+        "confidence": 0.5649872291616902
+      },
+      "cautioneating": {
+        "naive_unified": 58.60067902210306,
+        "riemannian_unified": 65.9246427484849,
+        "consensus": 0.357256785228685,
+        "coherence": 0.5646352162048427,
+        "curvature": -0.9998317164008845,
+        "confidence": 0.5724583389726801
+      },
+      "christmas1940": {
+        "naive_unified": 63.498848667118764,
+        "riemannian_unified": 65.98180090238652,
+        "consensus": 0.38877806470639614,
+        "coherence": 0.47071784491076074,
+        "curvature": -0.999912566590578,
+        "confidence": 0.556851879287146
+      },
+      "cocoonoflove": {
+        "naive_unified": 63.00530096473668,
+        "riemannian_unified": 66.83835336367196,
+        "consensus": 0.3792038443333314,
+        "coherence": 0.5228857443550261,
+        "curvature": -0.9998818264089875,
+        "confidence": 0.5675031265158105
+      },
+      "comingofageondeathrow": {
+        "naive_unified": 66.71699968146852,
+        "riemannian_unified": 71.38020921905876,
+        "consensus": 0.38733983739823347,
+        "coherence": 0.5183001228459945,
+        "curvature": -0.9997131387779794,
+        "confidence": 0.5684062367248626
+      },
+      "eyespy": {
+        "naive_unified": 64.62495732558962,
+        "riemannian_unified": 67.7576617976735,
+        "consensus": 0.3779690730333917,
+        "coherence": 0.5379955174012195,
+        "curvature": -0.9998355273015529,
+        "confidence": 0.5709761356766304
+      },
+      "firetestforlove": {
+        "naive_unified": 60.3354518378948,
+        "riemannian_unified": 67.40185211647952,
+        "consensus": 0.3692674197596122,
+        "coherence": 0.5671079424420661,
+        "curvature": -0.9997852712984737,
+        "confidence": 0.5760834515324045
+      },
+      "food": {
+        "naive_unified": 64.78537654505453,
+        "riemannian_unified": 71.72031893183878,
+        "consensus": 0.37313560519399774,
+        "coherence": 0.5755852582248174,
+        "curvature": -0.9995927159335336,
+        "confidence": 0.579187541635287
+      },
+      "forgettingfear": {
+        "naive_unified": 58.047841505536006,
+        "riemannian_unified": 65.12274533249183,
+        "consensus": 0.3569640363126309,
+        "coherence": 0.5577915081218978,
+        "curvature": -0.9998658024809071,
+        "confidence": 0.5706710893567539
+      },
+      "gangstersandcookies": {
+        "naive_unified": 54.87067366241835,
+        "riemannian_unified": 62.994334428919515,
+        "consensus": 0.34502224730049935,
+        "coherence": 0.5380008527289591,
+        "curvature": -0.9998846885398817,
+        "confidence": 0.5627362410905753
+      },
+      "goingthelibertyway": {
+        "naive_unified": 62.133712334774906,
+        "riemannian_unified": 67.0394386600428,
+        "consensus": 0.3771303838799402,
+        "coherence": 0.5200083549084935,
+        "curvature": -0.9998605869756452,
+        "confidence": 0.5662673676801462
+      },
+      "goldiethegoldfish": {
+        "naive_unified": 61.544674914724474,
+        "riemannian_unified": 67.04964907426074,
+        "consensus": 0.37317910031962054,
+        "coherence": 0.5326496337014249,
+        "curvature": -0.9998635992437213,
+        "confidence": 0.568439589412217
+      },
+      "golfclubbing": {
+        "naive_unified": 57.87684457874582,
+        "riemannian_unified": 67.91293349659591,
+        "consensus": 0.3552328894458505,
+        "coherence": 0.5756246008099768,
+        "curvature": -0.9997189067117084,
+        "confidence": 0.5747100886010387
+      },
+      "gpsformylostidentity": {
+        "naive_unified": 60.201055652750675,
+        "riemannian_unified": 67.58290342666774,
+        "consensus": 0.3673802342991345,
+        "coherence": 0.563670725503475,
+        "curvature": -0.9997708577624306,
+        "confidence": 0.5747536768377661
+      },
+      "hangtime": {
+        "naive_unified": 64.75098932608212,
+        "riemannian_unified": 69.33145678038017,
+        "consensus": 0.38275808462696154,
+        "coherence": 0.5522418851433212,
+        "curvature": -0.9997822364507031,
+        "confidence": 0.575739882599445
+      },
+      "haveyoumethimyet": {
+        "naive_unified": 64.4824138025181,
+        "riemannian_unified": 68.36591327876843,
+        "consensus": 0.37949538815423356,
+        "coherence": 0.5486346042504302,
+        "curvature": -0.9998131302950021,
+        "confidence": 0.5740195463805952
+      },
+      "howtodraw": {
+        "naive_unified": 58.65869514423899,
+        "riemannian_unified": 68.24129927775319,
+        "consensus": 0.35804911554781443,
+        "coherence": 0.5743826176009225,
+        "curvature": -0.999700202072377,
+        "confidence": 0.5751053700870477
+      },
+      "ifthishaircouldtalk": {
+        "naive_unified": 66.17936746725157,
+        "riemannian_unified": 72.73306405430185,
+        "consensus": 0.3838533722500188,
+        "coherence": 0.5641072862076856,
+        "curvature": -0.9995736008358104,
+        "confidence": 0.5789992491408421
+      },
+      "inamoment": {
+        "naive_unified": 62.38930356723368,
+        "riemannian_unified": 67.30505064253526,
+        "consensus": 0.3757461879198552,
+        "coherence": 0.5304206091367912,
+        "curvature": -0.9998490930827483,
+        "confidence": 0.5685254394923819
+      },
+      "itsabox": {
+        "naive_unified": 61.98158196498645,
+        "riemannian_unified": 65.48606262168903,
+        "consensus": 0.3855587581376964,
+        "coherence": 0.4931830801731667,
+        "curvature": -0.9999169462960968,
+        "confidence": 0.5616629586253302
+      },
+      "jugglingandjesus": {
+        "naive_unified": 58.110983574209115,
+        "riemannian_unified": 65.8560019243024,
+        "consensus": 0.3576106556644801,
+        "coherence": 0.553651151585366,
+        "curvature": -0.9998156577378647,
+        "confidence": 0.5698022676001759
+      },
+      "kiksuya": {
+        "naive_unified": 64.71752771853464,
+        "riemannian_unified": 71.21747141697823,
+        "consensus": 0.3800188704308627,
+        "coherence": 0.5545415377688035,
+        "curvature": -0.9996649876634153,
+        "confidence": 0.5756407785421845
+      },
+      "leavingbaghdad": {
+        "naive_unified": 62.540789184411956,
+        "riemannian_unified": 67.34963151908532,
+        "consensus": 0.37456980365247206,
+        "coherence": 0.5433687913779591,
+        "curvature": -0.9998368521812361,
+        "confidence": 0.5714695149566242
+      },
+      "lifeanddeathontheoregontrail": {
+        "naive_unified": 61.21336043527567,
+        "riemannian_unified": 67.31767446750453,
+        "consensus": 0.3682732074934494,
+        "coherence": 0.5170232166290409,
+        "curvature": -0.9998481803256316,
+        "confidence": 0.5633079302176947
+      },
+      "lifereimagined": {
+        "naive_unified": 60.06892930295361,
+        "riemannian_unified": 66.0479459966631,
+        "consensus": 0.36765435944527586,
+        "coherence": 0.5278592339567876,
+        "curvature": -0.9998365378186472,
+        "confidence": 0.5658632934661376
+      },
+      "listo": {
+        "naive_unified": 63.29516732415808,
+        "riemannian_unified": 68.96963346264046,
+        "consensus": 0.3782072660809072,
+        "coherence": 0.555468240087932,
+        "curvature": -0.9997719328179171,
+        "confidence": 0.5754097145340153
+      },
+      "mayorofthefreaks": {
+        "naive_unified": 62.13306232427848,
+        "riemannian_unified": 67.90879181398121,
+        "consensus": 0.37133727259876065,
+        "coherence": 0.5523287898621848,
+        "curvature": -0.999788177212197,
+        "confidence": 0.5729058592837366
+      },
+      "metsmagic": {
+        "naive_unified": 61.16167910575537,
+        "riemannian_unified": 67.76887442394316,
+        "consensus": 0.36331132055817683,
+        "coherence": 0.5638888410995534,
+        "curvature": -0.9997739646389265,
+        "confidence": 0.5737906914975107
+      },
+      "mybackseatviewofagreatromance": {
+        "naive_unified": 59.8976917727723,
+        "riemannian_unified": 68.42351394491719,
+        "consensus": 0.3651267620131022,
+        "coherence": 0.5566432737744607,
+        "curvature": -0.9997326051738794,
+        "confidence": 0.572436964792768
+      },
+      "myfathershands": {
+        "naive_unified": 60.03201903469918,
+        "riemannian_unified": 64.86626385011729,
+        "consensus": 0.3590209124699025,
+        "coherence": 0.5449364351935378,
+        "curvature": -0.9998948000367609,
+        "confidence": 0.5679688729435771
+      },
+      "notontheusualtour": {
+        "naive_unified": 62.719139293697864,
+        "riemannian_unified": 69.38430081050514,
+        "consensus": 0.37015455745795317,
+        "coherence": 0.5737008396858675,
+        "curvature": -0.9997117831156819,
+        "confidence": 0.5779602206656884
+      },
+      "odetostepfather": {
+        "naive_unified": 66.32753274562242,
+        "riemannian_unified": 72.28944693763317,
+        "consensus": 0.37731154928162863,
+        "coherence": 0.5467672445959314,
+        "curvature": -0.9996273310802364,
+        "confidence": 0.5730238394580149
+      },
+      "onlyonewaytofindout": {
+        "naive_unified": 63.810941549674716,
+        "riemannian_unified": 65.94294541179333,
+        "consensus": 0.3784265508322733,
+        "coherence": 0.5001837357300775,
+        "curvature": -0.9999123482015454,
+        "confidence": 0.5616304936104116
+      },
+      "penpal": {
+        "naive_unified": 67.33036204523822,
+        "riemannian_unified": 73.12818583771654,
+        "consensus": 0.3875309860989007,
+        "coherence": 0.5473950015349449,
+        "curvature": -0.9995977186432161,
+        "confidence": 0.5757383624042564
+      },
+      "quietfire": {
+        "naive_unified": 58.811943131261906,
+        "riemannian_unified": 66.43916177470254,
+        "consensus": 0.3601286810139304,
+        "coherence": 0.5447741511219025,
+        "curvature": -0.9997904154070913,
+        "confidence": 0.5682148458126096
+      },
+      "reachingoutbetweenthebars": {
+        "naive_unified": 57.695338472859234,
+        "riemannian_unified": 65.05190618198141,
+        "consensus": 0.35311999355104673,
+        "coherence": 0.5724256217616498,
+        "curvature": -0.9998426589450967,
+        "confidence": 0.5733707358943446
+      },
+      "shoppinginchina": {
+        "naive_unified": 62.13686082655717,
+        "riemannian_unified": 68.382312101637,
+        "consensus": 0.3771531578187382,
+        "coherence": 0.5315131694810653,
+        "curvature": -0.9998335243136537,
+        "confidence": 0.5691517541379311
+      },
+      "singlewomanseekingmanwich": {
+        "naive_unified": 61.45300599198244,
+        "riemannian_unified": 69.07595476375731,
+        "consensus": 0.3711853196118817,
+        "coherence": 0.5578265872010779,
+        "curvature": -0.999728695807129,
+        "confidence": 0.574247792189887
+      },
+      "sloth": {
+        "naive_unified": 56.007256613936775,
+        "riemannian_unified": 66.08048253864433,
+        "consensus": 0.3520878215901331,
+        "coherence": 0.5752573168114533,
+        "curvature": -0.9997876683038618,
+        "confidence": 0.5738256750830526
+      },
+      "souls": {
+        "naive_unified": 61.17331331587434,
+        "riemannian_unified": 69.10743787086827,
+        "consensus": 0.36347115951883535,
+        "coherence": 0.5882734948507583,
+        "curvature": -0.9996997794332525,
+        "confidence": 0.5799336392739862
+      },
+      "stagefright": {
+        "naive_unified": 60.78175992573329,
+        "riemannian_unified": 68.58503369732946,
+        "consensus": 0.36666300003456426,
+        "coherence": 0.5714809483861432,
+        "curvature": -0.9997360506618437,
+        "confidence": 0.5765301259858098
+      },
+      "stumblinginthedark": {
+        "naive_unified": 61.36731533363206,
+        "riemannian_unified": 66.81880978359789,
+        "consensus": 0.36547172673853856,
+        "coherence": 0.5657137430545437,
+        "curvature": -0.9998009103388504,
+        "confidence": 0.5747845398122644
+      },
+      "superheroesjustforeachother": {
+        "naive_unified": 61.49918008052196,
+        "riemannian_unified": 67.16866932817948,
+        "consensus": 0.37041478047196463,
+        "coherence": 0.5031287360545086,
+        "curvature": -0.9998044399279995,
+        "confidence": 0.56037372681573
+      },
+      "sweetaspie": {
+        "naive_unified": 63.67913825662544,
+        "riemannian_unified": 70.49226413624709,
+        "consensus": 0.3738459230337705,
+        "coherence": 0.5628260504103336,
+        "curvature": -0.9996683284030752,
+        "confidence": 0.5761683625034986
+      },
+      "swimmingwithastronauts": {
+        "naive_unified": 61.35801509334983,
+        "riemannian_unified": 67.20527038040906,
+        "consensus": 0.369572537472085,
+        "coherence": 0.5576327931793847,
+        "curvature": -0.9998120128647322,
+        "confidence": 0.5737884837314663
+      },
+      "thatthingonmyarm": {
+        "naive_unified": 58.89137801251354,
+        "riemannian_unified": 66.41440185147489,
+        "consensus": 0.3663170133641684,
+        "coherence": 0.4980956948976465,
+        "curvature": -0.9997941063183935,
+        "confidence": 0.5580919753209834
+      },
+      "theadvancedbeginner": {
+        "naive_unified": 66.63903354565194,
+        "riemannian_unified": 72.34016601315064,
+        "consensus": 0.3860810608874852,
+        "coherence": 0.5193331365488484,
+        "curvature": -0.9996616477756493,
+        "confidence": 0.5683545331237982
+      },
+      "theclosetthatateeverything": {
+        "naive_unified": 66.79760527931985,
+        "riemannian_unified": 73.11513676358172,
+        "consensus": 0.3846502446716345,
+        "coherence": 0.5474524016709701,
+        "curvature": -0.9995862912707628,
+        "confidence": 0.5750335784841738
+      },
+      "thecurse": {
+        "naive_unified": 64.7899146087917,
+        "riemannian_unified": 72.3906079193548,
+        "consensus": 0.378495509717232,
+        "coherence": 0.5704724503388215,
+        "curvature": -0.9995794525027528,
+        "confidence": 0.5792505361354863
+      },
+      "thefreedomridersandme": {
+        "naive_unified": 63.611034526406634,
+        "riemannian_unified": 68.98394332758679,
+        "consensus": 0.3790290838324892,
+        "coherence": 0.545691679049744,
+        "curvature": -0.9997613239163252,
+        "confidence": 0.5731720046392882
+      },
+      "theinterview": {
+        "naive_unified": 59.080888401568735,
+        "riemannian_unified": 65.83591011801724,
+        "consensus": 0.36351753058867553,
+        "coherence": 0.5656542742473872,
+        "curvature": -0.9998228876432256,
+        "confidence": 0.5742791019431617
+      },
+      "thepostmanalwayscalls": {
+        "naive_unified": 63.06992842908118,
+        "riemannian_unified": 68.70914617023507,
+        "consensus": 0.37270990442172786,
+        "coherence": 0.5348225561942627,
+        "curvature": -0.9997553424992475,
+        "confidence": 0.56887547931578
+      },
+      "theshower": {
+        "naive_unified": 63.20329498605123,
+        "riemannian_unified": 67.92581712655712,
+        "consensus": 0.3788727978313524,
+        "coherence": 0.523558784568051,
+        "curvature": -0.9998508665836022,
+        "confidence": 0.5675914726949739
+      },
+      "thetiniestbouquet": {
+        "naive_unified": 66.31621054413185,
+        "riemannian_unified": 73.85148092310513,
+        "consensus": 0.37900345894487675,
+        "coherence": 0.5694080953804079,
+        "curvature": -0.9994945282547137,
+        "confidence": 0.5791192487911847
+      },
+      "thetriangleshirtwaistconnection": {
+        "naive_unified": 69.6216557778679,
+        "riemannian_unified": 74.90007754882501,
+        "consensus": 0.3947418007317082,
+        "coherence": 0.5371944831233374,
+        "curvature": -0.9995246955508799,
+        "confidence": 0.5749976553307045
+      },
+      "threemonths": {
+        "naive_unified": 62.63141595784147,
+        "riemannian_unified": 66.60013601706693,
+        "consensus": 0.3708477637109933,
+        "coherence": 0.5415201788529244,
+        "curvature": -0.9998455346014367,
+        "confidence": 0.5700760531922027
+      },
+      "treasureisland": {
+        "naive_unified": 63.07498353313553,
+        "riemannian_unified": 68.73373542870534,
+        "consensus": 0.3753160748267284,
+        "coherence": 0.5253321049198333,
+        "curvature": -0.9998102607702953,
+        "confidence": 0.567149357175556
+      },
+      "undertheinfluence": {
+        "naive_unified": 60.27200867853144,
+        "riemannian_unified": 66.71409534363706,
+        "consensus": 0.3670048985993018,
+        "coherence": 0.5563640686940504,
+        "curvature": -0.9998387865297969,
+        "confidence": 0.5728269300917331
+      },
+      "vixenandtheussr": {
+        "naive_unified": 62.354250991180486,
+        "riemannian_unified": 65.13152357437083,
+        "consensus": 0.3864200518224192,
+        "coherence": 0.486044130943229,
+        "curvature": -0.9999128637678286,
+        "confidence": 0.5600939202405328
+      },
+      "waitingtogo": {
+        "naive_unified": 60.16261977050171,
+        "riemannian_unified": 66.36646139458534,
+        "consensus": 0.3622702671709765,
+        "coherence": 0.5554035449268205,
+        "curvature": -0.9998436404146583,
+        "confidence": 0.571402694810842
+      },
+      "whenmothersbullyback": {
+        "naive_unified": 63.63835816695269,
+        "riemannian_unified": 69.71835480860753,
+        "consensus": 0.3729639617690627,
+        "coherence": 0.5607974092536462,
+        "curvature": -0.9996928292103441,
+        "confidence": 0.5754384578424501
+      },
+      "wheretheressmoke": {
+        "naive_unified": 66.43181509589677,
+        "riemannian_unified": 72.0981736042483,
+        "consensus": 0.3846383911620008,
+        "coherence": 0.5305326651984553,
+        "curvature": -0.9996631550571796,
+        "confidence": 0.5707936091835499
+      },
+      "wildwomenanddancingqueens": {
+        "naive_unified": 65.76231609978824,
+        "riemannian_unified": 71.33744624751104,
+        "consensus": 0.3825806335684329,
+        "coherence": 0.5469566737560635,
+        "curvature": -0.9996620717122212,
+        "confidence": 0.5743852715932656
+      }
+    }
+  },
+  "summary": {
+    "distribution_naive_unified": {
+      "ai_mean": 60.86193535157269,
+      "ai_std": 1.4529974678782258,
+      "human_mean": 62.593309607058714,
+      "human_std": 2.710847579773473,
+      "gap": -1.731374255486024,
+      "ks_p": 1.3127568556316886e-16
+    },
+    "distribution_riemannian_unified": {
+      "ai_mean": 70.7742303503264,
+      "ai_std": 2.2375747818965652,
+      "human_mean": 68.9188424006522,
+      "human_std": 2.4388589026628575,
+      "gap": 1.8553879496742098,
+      "ks_p": 3.490938260440185e-15
+    },
+    "distribution_consensus": {
+      "ai_mean": 0.35703167386255347,
+      "ai_std": 0.0027333861255164167,
+      "human_mean": 0.3724750040262956,
+      "human_std": 0.00915051640860191,
+      "gap": -0.015443330163742108,
+      "ks_p": 3.526889896079992e-90
+    },
+    "distribution_coherence": {
+      "ai_mean": 0.5494901681783138,
+      "ai_std": 0.01905855696619329,
+      "human_mean": 0.5499787041162211,
+      "human_std": 0.021213512487799305,
+      "gap": -0.0004885359379073195,
+      "ks_p": 0.08703777445584791
+    },
+    "distribution_curvature": {
+      "ai_mean": -0.9996115726865731,
+      "ai_std": 0.00010063127555297434,
+      "human_mean": -0.9997403447935301,
+      "human_std": 0.00010387325280854458,
+      "gap": 0.00012877210695705354,
+      "ks_p": 1.0192798500635572e-35
+    },
+    "distribution_confidence": {
+      "ai_mean": 0.5686360518135968,
+      "ai_std": 0.0048338646267859775,
+      "human_mean": 0.5726071713784656,
+      "human_std": 0.0048217509352847816,
+      "gap": -0.003971119564868841,
+      "ks_p": 9.670860348726348e-14
+    },
+    "cross_substrate_naive_unified": {
+      "r": -0.08671227224182382,
+      "p": 0.45638282839296773,
+      "rho": -0.00456596035543404,
+      "n": 76
+    },
+    "cross_substrate_riemannian_unified": {
+      "r": -0.1852759062855304,
+      "p": 0.10908148759996748,
+      "rho": -0.15516062884483936,
+      "n": 76
+    },
+    "cross_substrate_consensus": {
+      "r": -0.12054617942374332,
+      "p": 0.2996106107713262,
+      "rho": 0.04492139439507861,
+      "n": 76
+    },
+    "cross_substrate_coherence": {
+      "r": -0.20553862083034888,
+      "p": 0.0748768227102248,
+      "rho": -0.20582365003417633,
+      "n": 76
+    },
+    "cross_substrate_curvature": {
+      "r": -0.243403147643585,
+      "p": 0.0341116765195857,
+      "rho": -0.2290362269309638,
+      "n": 76
+    },
+    "cross_substrate_confidence": {
+      "r": -0.202760945795548,
+      "p": 0.07898092577634074,
+      "rho": -0.18898154477101847,
+      "n": 76
+    }
+  },
+  "n_matched_stories": 76
+}

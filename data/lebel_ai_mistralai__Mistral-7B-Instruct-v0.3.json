@@ -1,0 +1,6002 @@
+{
+  "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+  "stimulus_set": "lebel_ds003020_stories",
+  "max_story_tokens": 1500,
+  "n_stories_processed": 81,
+  "results": [
+    {
+      "story": "adollshouse",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3506,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.298673042179043,
+          "components": {
+            "PLG": 1.5638137470092768,
+            "CGI": 51.61122189342973,
+            "PV": 0.16699800322744263
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67636801781931,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.92722272872925
+          },
+          "confidence": 0.8608666974894075
+        },
+        "AST": {
+          "score": 99.9710049683076,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88401987323037
+          },
+          "confidence": 0.9994530529892434
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 52.2350615647115,
+          "components": {
+            "PDE": 77.80711790575701,
+            "HPET": 29.481952522247546,
+            "PWCE": 48.946289716366365
+          },
+          "confidence": 0.6187944760364772
+        },
+        "FEP": {
+          "score": 69.01181056042898,
+          "components": {
+            "VFE": 89.18636066097675,
+            "LFED": 29.481952522247546,
+            "AIIG": 81.64226846454676
+          },
+          "confidence": 0.6024268548748926
+        },
+        "QIT": {
+          "score": 28.296811827466048,
+          "components": {
+            "LRMI": 24.633494605600823,
+            "CNC": 59.83361211698372,
+            "BCHSH": 1.6444345004353422
+          },
+          "confidence": 0.16633637124626932
+        }
+      },
+      "unified": 59.78424714013035,
+      "duration_seconds": 2.1
+    },
+    {
+      "story": "adventuresinsayingyes",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 4629,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299426321311888,
+          "components": {
+            "PLG": 1.5638661591065917,
+            "CGI": 51.61110757866353,
+            "PV": 0.17080484079768207
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67683203997889,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.92876946926117
+          },
+          "confidence": 0.8608588242070747
+        },
+        "AST": {
+          "score": 99.9724006182629,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88960247305157
+          },
+          "confidence": 0.9994793894867464
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 54.97129193893506,
+          "components": {
+            "PDE": 76.18094690372517,
+            "HPET": 39.03495728839007,
+            "PWCE": 48.81908490564908
+          },
+          "confidence": 0.7124900472016407
+        },
+        "FEP": {
+          "score": 72.50383863052932,
+          "components": {
+            "VFE": 89.79226814546702,
+            "LFED": 39.03495728839007,
+            "AIIG": 82.9214806194183
+          },
+          "confidence": 0.6814607572781541
+        },
+        "QIT": {
+          "score": 28.954937511238487,
+          "components": {
+            "LRMI": 26.212832709820187,
+            "CNC": 61.096176507753356,
+            "BCHSH": 0.469838249948017
+          },
+          "confidence": 0.15090524652542725
+        }
+      },
+      "unified": 60.76838958003665,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "afatherscover",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 2545,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29804443138866,
+          "components": {
+            "PLG": 1.563839789415574,
+            "CGI": 51.611399123755895,
+            "PV": 0.1635239977705275
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67477657380381,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.92191791534424
+          },
+          "confidence": 0.8608937010074931
+        },
+        "AST": {
+          "score": 99.97269882609245,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.89079530436979
+          },
+          "confidence": 0.999485016665889
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 50.93226918755421,
+          "components": {
+            "PDE": 72.71080918338846,
+            "HPET": 40.508526420952585,
+            "PWCE": 37.68500575344949
+          },
+          "confidence": 0.6841505814431089
+        },
+        "FEP": {
+          "score": 72.42975050940997,
+          "components": {
+            "VFE": 91.33408408065203,
+            "LFED": 40.508526420952585,
+            "AIIG": 79.14519650287795
+          },
+          "confidence": 0.6919399613564032
+        },
+        "QIT": {
+          "score": 29.08425392000734,
+          "components": {
+            "LRMI": 26.683892140281213,
+            "CNC": 58.080121409675534,
+            "BCHSH": 3.288868803307332
+          },
+          "confidence": 0.235193844909387
+        }
+      },
+      "unified": 60.19882763546521,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "againstthewind",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 1840,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29958758590184,
+          "components": {
+            "PLG": 1.56388529074417,
+            "CGI": 51.61137985067381,
+            "PV": 0.1711549266380557
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67179127517024,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.91196691989899
+          },
+          "confidence": 0.8609443584448678
+        },
+        "AST": {
+          "score": 99.97053806231621,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88215224926482
+          },
+          "confidence": 0.9994442420593063
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 53.032417907357114,
+          "components": {
+            "PDE": 77.43931727317171,
+            "HPET": 32.76965651399716,
+            "PWCE": 48.197590272826716
+          },
+          "confidence": 0.649168075877399
+        },
+        "FEP": {
+          "score": 69.3596510159397,
+          "components": {
+            "VFE": 88.07249177986922,
+            "LFED": 32.76965651399716,
+            "AIIG": 80.9991911659762
+          },
+          "confidence": 0.6347665015429081
+        },
+        "QIT": {
+          "score": 29.29829287744511,
+          "components": {
+            "LRMI": 24.62300575920788,
+            "CNC": 62.71602898105676,
+            "BCHSH": 2.114272931483099
+          },
+          "confidence": 0.16117928963897177
+        }
+      },
+      "unified": 60.09032553201861,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "alternateithicatom",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 5161,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299981081645274,
+          "components": {
+            "PLG": 1.563924400595846,
+            "CGI": 51.611423245744014,
+            "PV": 0.17295953812074202
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67348196091929,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.9176025390625
+          },
+          "confidence": 0.8609156687580106
+        },
+        "AST": {
+          "score": 99.97112810447987,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.8845124179195
+          },
+          "confidence": 0.9994553766596779
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 48.20374496297971,
+          "components": {
+            "PDE": 81.52826921943569,
+            "HPET": 31.54169121598801,
+            "PWCE": 28.76419603527141
+          },
+          "confidence": 0.48718084274353013
+        },
+        "FEP": {
+          "score": 69.30410327950537,
+          "components": {
+            "VFE": 89.9478481599754,
+            "LFED": 31.54169121598801,
+            "AIIG": 79.54152216906269
+          },
+          "confidence": 0.6203958878125801
+        },
+        "QIT": {
+          "score": 25.795237782530297,
+          "components": {
+            "LRMI": 25.634178544114857,
+            "CNC": 51.5703019925255,
+            "BCHSH": 0.2349192237556847
+          },
+          "confidence": 0.1880890992387827
+        }
+      },
+      "unified": 58.89252531029427,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "avatar",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3623,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.298079791059973,
+          "components": {
+            "PLG": 1.5637924016065377,
+            "CGI": 51.6115090973708,
+            "PV": 0.16365430522733102
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67598356786051,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.92594122886658
+          },
+          "confidence": 0.860873220706417
+        },
+        "AST": {
+          "score": 99.9716134003157,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88645360126283
+          },
+          "confidence": 0.9994645344758846
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 55.18290346420377,
+          "components": {
+            "PDE": 81.95912555239595,
+            "HPET": 40.2869446602663,
+            "PWCE": 41.322596299239954
+          },
+          "confidence": 0.6440952397521357
+        },
+        "FEP": {
+          "score": 71.01996896002004,
+          "components": {
+            "VFE": 87.33785532925646,
+            "LFED": 40.2869446602663,
+            "AIIG": 79.99581143412524
+          },
+          "confidence": 0.7013594452010973
+        },
+        "QIT": {
+          "score": 29.13111841606845,
+          "components": {
+            "LRMI": 26.60942155053147,
+            "CNC": 56.691196081631325,
+            "BCHSH": 4.933303237888223
+          },
+          "confidence": 0.2784152093258325
+        }
+      },
+      "unified": 60.611381085646926,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "backsideofthestorm",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 4010,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.297290955183534,
+          "components": {
+            "PLG": 1.5641916889170655,
+            "CGI": 51.60737320262234,
+            "PV": 0.16491574969149603
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.66699816766062,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.89598989486694
+          },
+          "confidence": 0.8610257009532055
+        },
+        "AST": {
+          "score": 99.9733570358184,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.89342814327358
+          },
+          "confidence": 0.9994974369192319
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 46.581149407330045,
+          "components": {
+            "PDE": 73.39674540990808,
+            "HPET": 50.96770038287405,
+            "PWCE": 10.17864459952101
+          },
+          "confidence": 0.4164923252711056
+        },
+        "FEP": {
+          "score": 74.95814044111506,
+          "components": {
+            "VFE": 88.51931202373413,
+            "LFED": 50.96770038287405,
+            "AIIG": 80.86701838919734
+          },
+          "confidence": 0.7794136023209586
+        },
+        "QIT": {
+          "score": 28.965030925863243,
+          "components": {
+            "LRMI": 24.778068442967598,
+            "CNC": 57.87461791570433,
+            "BCHSH": 5.638060579883023
+          },
+          "confidence": 0.2668185261309767
+        }
+      },
+      "unified": 59.920280990424416,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "becomingindian",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 5302,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299447260455235,
+          "components": {
+            "PLG": 1.5638903980416503,
+            "CGI": 51.61142441646748,
+            "PV": 0.17037368247083132
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67587002101222,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.92556273937225
+          },
+          "confidence": 0.8608751473437433
+        },
+        "AST": {
+          "score": 99.97138593047737,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88554372190947
+          },
+          "confidence": 0.9994602420017803
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 59.0086881299778,
+          "components": {
+            "PDE": 80.08960245695486,
+            "HPET": 44.29861035974358,
+            "PWCE": 51.5760454804445
+          },
+          "confidence": 0.7366766048596638
+        },
+        "FEP": {
+          "score": 73.72209666866502,
+          "components": {
+            "VFE": 89.88682969967236,
+            "LFED": 44.29861035974358,
+            "AIIG": 81.59260560291
+          },
+          "confidence": 0.7243443679220833
+        },
+        "QIT": {
+          "score": 29.020355002808884,
+          "components": {
+            "LRMI": 26.446247354166058,
+            "CNC": 57.47922719427605,
+            "BCHSH": 3.993626342865485
+          },
+          "confidence": 0.2517372207724863
+        }
+      },
+      "unified": 61.52826328762808,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "beneaththemushroomcloud",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 4155,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299970405777945,
+          "components": {
+            "PLG": 1.5638344677795604,
+            "CGI": 51.61152713008734,
+            "PV": 0.17297516430982746
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67529424014369,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.92364346981049
+          },
+          "confidence": 0.8608849171533464
+        },
+        "AST": {
+          "score": 99.9700454154841,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.8801816619364
+          },
+          "confidence": 0.9994349452578978
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 54.415581481829,
+          "components": {
+            "PDE": 83.3339172675969,
+            "HPET": 33.377744793204094,
+            "PWCE": 45.2216658684955
+          },
+          "confidence": 0.605140451757767
+        },
+        "FEP": {
+          "score": 70.68675944554288,
+          "components": {
+            "VFE": 91.53078893494207,
+            "LFED": 33.377744793204094,
+            "AIIG": 80.20373477868274
+          },
+          "confidence": 0.6318281275280473
+        },
+        "QIT": {
+          "score": 29.34006740932107,
+          "components": {
+            "LRMI": 25.34989699753542,
+            "CNC": 60.94641265236804,
+            "BCHSH": 3.0539493819882946
+          },
+          "confidence": 0.19950393424404067
+        }
+      },
+      "unified": 60.483959771156954,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "birthofanation",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3336,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.30020891383147,
+          "components": {
+            "PLG": 1.563850482219164,
+            "CGI": 51.61140803756338,
+            "PV": 0.17430630726437918
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68663372578898,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.9614417552948
+          },
+          "confidence": 0.8606925371075231
+        },
+        "AST": {
+          "score": 99.96917396742639,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.87669586970553
+          },
+          "confidence": 0.9994184997508615
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 52.33408757941085,
+          "components": {
+            "PDE": 75.34690877565978,
+            "HPET": 35.156788379684166,
+            "PWCE": 45.525978583468216
+          },
+          "confidence": 0.672445289242013
+        },
+        "FEP": {
+          "score": 71.02929026705672,
+          "components": {
+            "VFE": 90.53702371663161,
+            "LFED": 35.156788379684166,
+            "AIIG": 80.89148088832945
+          },
+          "confidence": 0.6492083275347863
+        },
+        "QIT": {
+          "score": 26.129623176889677,
+          "components": {
+            "LRMI": 24.284897836542193,
+            "CNC": 54.014122617814785,
+            "BCHSH": 0.7047575230945399
+          },
+          "confidence": 0.17174856604362876
+        }
+      },
+      "unified": 59.778431090057715,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "bluehope",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 4221,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.298837549374362,
+          "components": {
+            "PLG": 1.563857618238841,
+            "CGI": 51.611294572274225,
+            "PV": 0.16760184286336324
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67910208287516,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.9363362789154
+          },
+          "confidence": 0.8608203087223429
+        },
+        "AST": {
+          "score": 99.97206379657192,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88825518628764
+          },
+          "confidence": 0.9994730336105403
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 54.40268653711294,
+          "components": {
+            "PDE": 75.1083100168513,
+            "HPET": 37.46208249831464,
+            "PWCE": 50.01016385601622
+          },
+          "confidence": 0.7111999561982602
+        },
+        "FEP": {
+          "score": 71.30814235343774,
+          "components": {
+            "VFE": 88.36548431064836,
+            "LFED": 37.46208249831464,
+            "AIIG": 82.4110795989467
+          },
+          "confidence": 0.6726396272532817
+        },
+        "QIT": {
+          "score": 28.92953912594669,
+          "components": {
+            "LRMI": 26.58854641900918,
+            "CNC": 55.342341017842564,
+            "BCHSH": 5.638060843300827
+          },
+          "confidence": 0.3019829522827622
+        }
+      },
+      "unified": 60.51291020647411,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "breakingupintheageofgoogle",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 7108,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29936513775309,
+          "components": {
+            "PLG": 1.5638695268447806,
+            "CGI": 51.611298231783586,
+            "PV": 0.17020452397812505
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67597730937281,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.9259203672409
+          },
+          "confidence": 0.860873326898874
+        },
+        "AST": {
+          "score": 99.97141520294512,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88566081178048
+          },
+          "confidence": 0.999460794389925
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 50.919837629306805,
+          "components": {
+            "PDE": 76.89703871364384,
+            "HPET": 34.25004808285209,
+            "PWCE": 40.06119083511078
+          },
+          "confidence": 0.6253399693323265
+        },
+        "FEP": {
+          "score": 69.03786060501221,
+          "components": {
+            "VFE": 86.5451335822584,
+            "LFED": 34.25004808285209,
+            "AIIG": 80.48264249084407
+          },
+          "confidence": 0.6519033728779203
+        },
+        "QIT": {
+          "score": 29.08746311977294,
+          "components": {
+            "LRMI": 24.926024607597505,
+            "CNC": 60.904480583114115,
+            "BCHSH": 2.81903033933235
+          },
+          "confidence": 0.18992392190842733
+        }
+      },
+      "unified": 59.71313128630901,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "buck",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3434,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.281878723811786,
+          "components": {
+            "PLG": 1.566628813252207,
+            "CGI": 51.54811705428667,
+            "PV": 0.1706460044984031
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.6144876677064,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.72095489501953
+          },
+          "confidence": 0.8619175222888146
+        },
+        "AST": {
+          "score": 99.96814347372434,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.87257389489734
+          },
+          "confidence": 0.9993990523251396
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 66.33128645989827,
+          "components": {
+            "PDE": 71.94370006425869,
+            "HPET": 75.73905794723194,
+            "PWCE": 48.80773718625513
+          },
+          "confidence": 0.8182773582083018
+        },
+        "FEP": {
+          "score": 82.4854502800477,
+          "components": {
+            "VFE": 88.84254059836832,
+            "LFED": 75.73905794723194,
+            "AIIG": 80.75572218843594
+          },
+          "confidence": 0.933990507678863
+        },
+        "QIT": {
+          "score": 27.84460580623139,
+          "components": {
+            "LRMI": 24.662762120078625,
+            "CNC": 56.407881965312356,
+            "BCHSH": 3.523787895354115
+          },
+          "confidence": 0.22923683687516216
+        }
+      },
+      "unified": 63.64655034448856,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "catfishingstrangerstofindmyself",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3484,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.298406436399425,
+          "components": {
+            "PLG": 1.5638698280321834,
+            "CGI": 51.61128425114253,
+            "PV": 0.16543123520287964
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67017211499491,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.90656971931458
+          },
+          "confidence": 0.8609718356058935
+        },
+        "AST": {
+          "score": 99.97313318208022,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.89253272832086
+          },
+          "confidence": 0.9994932128795032
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 52.871230910470885,
+          "components": {
+            "PDE": 73.53584439490197,
+            "HPET": 42.167064823247955,
+            "PWCE": 41.2507089470614
+          },
+          "confidence": 0.7131375160295438
+        },
+        "FEP": {
+          "score": 72.68311800642917,
+          "components": {
+            "VFE": 88.7568433129781,
+            "LFED": 42.167064823247955,
+            "AIIG": 81.76753744754517
+          },
+          "confidence": 0.7106421954368625
+        },
+        "QIT": {
+          "score": 29.347637199100994,
+          "components": {
+            "LRMI": 25.752828987354775,
+            "CNC": 60.66932165806765,
+            "BCHSH": 2.8190303557959626
+          },
+          "confidence": 0.200406289684517
+        }
+      },
+      "unified": 60.54909969278223,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "cautioneating",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3311,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299415513429445,
+          "components": {
+            "PLG": 1.5638729536389957,
+            "CGI": 51.61139609352392,
+            "PV": 0.17030104276385163
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67750974478999,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.93102848529816
+          },
+          "confidence": 0.8608473254453439
+        },
+        "AST": {
+          "score": 99.97162521257037,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.8865008502815
+          },
+          "confidence": 0.9994647573785594
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 50.08307291097923,
+          "components": {
+            "PDE": 72.16189367712049,
+            "HPET": 32.69120239022515,
+            "PWCE": 44.614964291360884
+          },
+          "confidence": 0.6682384902407807
+        },
+        "FEP": {
+          "score": 69.28858511337685,
+          "components": {
+            "VFE": 86.2814926389855,
+            "LFED": 32.69120239022515,
+            "AIIG": 83.22875780238373
+          },
+          "confidence": 0.6353914863216057
+        },
+        "QIT": {
+          "score": 28.98413743329721,
+          "components": {
+            "LRMI": 25.084895749962982,
+            "CNC": 61.522829655934466,
+            "BCHSH": 1.64443412177225
+          },
+          "confidence": 0.16252012507427716
+        }
+      },
+      "unified": 59.61490656120616,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "christmas1940",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 2652,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29807219790624,
+          "components": {
+            "PLG": 1.5638479314564326,
+            "CGI": 51.61111278000631,
+            "PV": 0.16407199088065394
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.6761006909875,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.92633163928986
+          },
+          "confidence": 0.8608712333937004
+        },
+        "AST": {
+          "score": 99.9725682712575,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.89027308502999
+          },
+          "confidence": 0.9994825531028012
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 45.79425842354364,
+          "components": {
+            "PDE": 80.31075288187195,
+            "HPET": 40.21491069900623,
+            "PWCE": 12.034253900787595
+          },
+          "confidence": 0.3659873208741745
+        },
+        "FEP": {
+          "score": 72.1382983326969,
+          "components": {
+            "VFE": 90.11182098210901,
+            "LFED": 40.21491069900623,
+            "AIIG": 80.09698910050479
+          },
+          "confidence": 0.6927276332127497
+        },
+        "QIT": {
+          "score": 27.356137851084238,
+          "components": {
+            "LRMI": 25.185308643220537,
+            "CNC": 55.72736131692242,
+            "BCHSH": 1.8793533290643223
+          },
+          "confidence": 0.20103098260416796
+        }
+      },
+      "unified": 59.17649082392514,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "cocoonoflove",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 4013,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299477931008006,
+          "components": {
+            "PLG": 1.5638424535833042,
+            "CGI": 51.611380677530114,
+            "PV": 0.1707125047865941
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67250309222385,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.2834698742505,
+            "IGC": 99.91401433944702
+          },
+          "confidence": 0.8609350342685695
+        },
+        "AST": {
+          "score": 99.97090275302025,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.883611012081
+          },
+          "confidence": 0.9994511241055475
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 53.110855920064125,
+          "components": {
+            "PDE": 74.06305466712917,
+            "HPET": 38.76819536353556,
+            "PWCE": 45.39972803110493
+          },
+          "confidence": 0.7096094389592073
+        },
+        "FEP": {
+          "score": 71.46003171049385,
+          "components": {
+            "VFE": 87.98825329344837,
+            "LFED": 38.76819536353556,
+            "AIIG": 82.11423928017948
+          },
+          "confidence": 0.6847413418129487
+        },
+        "QIT": {
+          "score": 29.972456546330395,
+          "components": {
+            "LRMI": 25.697247203156483,
+            "CNC": 58.83253566640375,
+            "BCHSH": 6.812656550488932
+          },
+          "confidence": 0.2938326773616198
+        }
+      },
+      "unified": 60.49803256473435,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "comingofageondeathrow",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 4689,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29936697320385,
+          "components": {
+            "PLG": 1.563796417400091,
+            "CGI": 51.611015749265164,
+            "PV": 0.170820198621286
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.6854070621995,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.95735287666321
+          },
+          "confidence": 0.8607133452686431
+        },
+        "AST": {
+          "score": 99.96903798292834,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.8761519317134
+          },
+          "confidence": 0.9994159334888207
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 57.65444194582457,
+          "components": {
+            "PDE": 78.78514960242788,
+            "HPET": 44.648777529119045,
+            "PWCE": 48.17522483261051
+          },
+          "confidence": 0.7320316840241844
+        },
+        "FEP": {
+          "score": 73.24024243276821,
+          "components": {
+            "VFE": 88.57704455993701,
+            "LFED": 44.648777529119045,
+            "AIIG": 81.38263783352566
+          },
+          "confidence": 0.7310761586195831
+        },
+        "QIT": {
+          "score": 30.59546523959968,
+          "components": {
+            "LRMI": 25.954225333301682,
+            "CNC": 60.331674234282865,
+            "BCHSH": 7.047576119980484
+          },
+          "confidence": 0.2910370717467121
+        }
+      },
+      "unified": 61.49199451950345,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "eyespy",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 4812,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299388788543126,
+          "components": {
+            "PLG": 1.563842755921754,
+            "CGI": 51.61116799746638,
+            "PV": 0.17058505671166888
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68389608445445,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.95231628417969
+          },
+          "confidence": 0.8607389772462328
+        },
+        "AST": {
+          "score": 99.97111816367561,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88447265470246
+          },
+          "confidence": 0.9994551890696493
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 46.21709893228103,
+          "components": {
+            "PDE": 76.62402637981549,
+            "HPET": 39.20570591165241,
+            "PWCE": 18.92230876755757
+          },
+          "confidence": 0.4679040745052526
+        },
+        "FEP": {
+          "score": 69.8578704310389,
+          "components": {
+            "VFE": 86.61278412978767,
+            "LFED": 39.20570591165241,
+            "AIIG": 78.1701500187604
+          },
+          "confidence": 0.6963408626945865
+        },
+        "QIT": {
+          "score": 30.541244511056764,
+          "components": {
+            "LRMI": 27.038214867927117,
+            "CNC": 58.235780777170106,
+            "BCHSH": 7.5174144357829515
+          },
+          "confidence": 0.3246852704006591
+        }
+      },
+      "unified": 59.36723098729284,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "firetestforlove",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 4589,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29957108664223,
+          "components": {
+            "PLG": 1.5638315721368226,
+            "CGI": 51.61118086417764,
+            "PV": 0.17150520660263885
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68181200804987,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.94536936283112
+          },
+          "confidence": 0.8607743328662818
+        },
+        "AST": {
+          "score": 99.96956270398438,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.87825081593752
+          },
+          "confidence": 0.9994258358289054
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 51.80550204535721,
+          "components": {
+            "PDE": 74.22719023958444,
+            "HPET": 32.85002948559432,
+            "PWCE": 47.76158380514881
+          },
+          "confidence": 0.6684887100666912
+        },
+        "FEP": {
+          "score": 70.23600669829383,
+          "components": {
+            "VFE": 90.80817258189116,
+            "LFED": 32.85002948559432,
+            "AIIG": 80.19242939953024
+          },
+          "confidence": 0.6292121513029543
+        },
+        "QIT": {
+          "score": 27.63578126735847,
+          "components": {
+            "LRMI": 25.169183127086995,
+            "CNC": 56.915925439398265,
+            "BCHSH": 1.6444346156806309
+          },
+          "confidence": 0.18854596838568527
+        }
+      },
+      "unified": 59.804033687098,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "food",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 4359,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299599429774076,
+          "components": {
+            "PLG": 1.5638865236358033,
+            "CGI": 51.611575275633825,
+            "PV": 0.1709179263301372
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67713870587626,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.92979168891907
+          },
+          "confidence": 0.8608536209158516
+        },
+        "AST": {
+          "score": 99.97170348185463,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88681392741856
+          },
+          "confidence": 0.9994662343541548
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 53.15140099812589,
+          "components": {
+            "PDE": 80.48419854359217,
+            "HPET": 39.02338233789144,
+            "PWCE": 37.7458256320221
+          },
+          "confidence": 0.6212586065215033
+        },
+        "FEP": {
+          "score": 72.48617877966345,
+          "components": {
+            "VFE": 91.31910736634033,
+            "LFED": 39.02338233789144,
+            "AIIG": 80.83840377253293
+          },
+          "confidence": 0.679075923824997
+        },
+        "QIT": {
+          "score": 25.81079831743639,
+          "components": {
+            "LRMI": 24.482452977812596,
+            "CNC": 52.21812789901055,
+            "BCHSH": 1.1745958553606204
+          },
+          "confidence": 0.19623093396859725
+        }
+      },
+      "unified": 60.0566885303901,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "forgettingfear",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 2664,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.298806271037623,
+          "components": {
+            "PLG": 1.563883873874071,
+            "CGI": 51.610144827136516,
+            "PV": 0.16910442979817888
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68107887091914,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.94292557239532
+          },
+          "confidence": 0.860786770744975
+        },
+        "AST": {
+          "score": 99.9711191612987,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88447664519484
+          },
+          "confidence": 0.999455207895507
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 55.83565180263051,
+          "components": {
+            "PDE": 78.25853326678349,
+            "HPET": 55.44926433476445,
+            "PWCE": 30.126408806962424
+          },
+          "confidence": 0.6400241294326605
+        },
+        "FEP": {
+          "score": 76.15799599644446,
+          "components": {
+            "VFE": 88.06247982519095,
+            "LFED": 55.44926433476445,
+            "AIIG": 80.99408255312915
+          },
+          "confidence": 0.8128099721205163
+        },
+        "QIT": {
+          "score": 27.91551036762412,
+          "components": {
+            "LRMI": 24.060401441867153,
+            "CNC": 54.86326707390536,
+            "BCHSH": 6.107898895685492
+          },
+          "confidence": 0.28967217753396135
+        }
+      },
+      "unified": 61.265737495707796,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "fromboyhoodtofatherhood",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 5845,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.300355478163524,
+          "components": {
+            "PLG": 1.5638626133989382,
+            "CGI": 51.61158050477687,
+            "PV": 0.17475010015498016
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67862464967051,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.9347448348999
+          },
+          "confidence": 0.8608284090682438
+        },
+        "AST": {
+          "score": 99.96685503269879,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.86742013079518
+          },
+          "confidence": 0.9993747361782573
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 43.320549441571174,
+          "components": {
+            "PDE": 78.55550252503964,
+            "HPET": 26.801717802916635,
+            "PWCE": 21.48507442262161
+          },
+          "confidence": 0.3911703487900857
+        },
+        "FEP": {
+          "score": 68.07923696313887,
+          "components": {
+            "VFE": 89.89617514608683,
+            "LFED": 26.801717802916635,
+            "AIIG": 80.26750521276382
+          },
+          "confidence": 0.5772866268455377
+        },
+        "QIT": {
+          "score": 26.508181189398737,
+          "components": {
+            "LRMI": 25.38680790452521,
+            "CNC": 54.276607534873165,
+            "BCHSH": 0.2349192237556847
+          },
+          "confidence": 0.17094599950276546
+        }
+      },
+      "unified": 58.12197182209166,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "gangstersandcookies",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3144,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.296791166954588,
+          "components": {
+            "PLG": 1.5640400148842066,
+            "CGI": 51.60727473433228,
+            "PV": 0.16294369606401063
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67106350245753,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.90954101085663
+          },
+          "confidence": 0.8609567086070717
+        },
+        "AST": {
+          "score": 99.97343292987071,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.89373171948282
+          },
+          "confidence": 0.9994988690070453
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 65.66301582705472,
+          "components": {
+            "PDE": 80.13861753405762,
+            "HPET": 68.52370681155638,
+            "PWCE": 45.437341020299435
+          },
+          "confidence": 0.7770868553526308
+        },
+        "FEP": {
+          "score": 80.17937904003772,
+          "components": {
+            "VFE": 88.21303522822528,
+            "LFED": 68.52370681155638,
+            "AIIG": 81.12350968426894
+          },
+          "confidence": 0.8973045810047138
+        },
+        "QIT": {
+          "score": 29.106833651052458,
+          "components": {
+            "LRMI": 26.03600045907956,
+            "CNC": 61.60335396911978,
+            "BCHSH": 0.7047575889489907
+          },
+          "confidence": 0.15177569913553624
+        }
+      },
+      "unified": 63.41293087391824,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "goingthelibertyway",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 4928,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29989918712696,
+          "components": {
+            "PLG": 1.5638590539664627,
+            "CGI": 51.61165644208076,
+            "PV": 0.17236363759750895
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68394972863474,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.95249509811401
+          },
+          "confidence": 0.8607380672175482
+        },
+        "AST": {
+          "score": 99.9705270672924,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88210826916958
+          },
+          "confidence": 0.999444034572138
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 51.564849677085775,
+          "components": {
+            "PDE": 76.05342022334861,
+            "HPET": 34.283142305698114,
+            "PWCE": 43.15684263973143
+          },
+          "confidence": 0.6488162336508942
+        },
+        "FEP": {
+          "score": 70.04490847997553,
+          "components": {
+            "VFE": 89.30947481865736,
+            "LFED": 34.283142305698114,
+            "AIIG": 80.1205862026772
+          },
+          "confidence": 0.6455609849308602
+        },
+        "QIT": {
+          "score": 27.035977625643245,
+          "components": {
+            "LRMI": 25.613109314242216,
+            "CNC": 55.02943623650736,
+            "BCHSH": 0.9396767633138372
+          },
+          "confidence": 0.18694304713655618
+        }
+      },
+      "unified": 59.6571588236798,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "goldiethegoldfish",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3537,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.30060196912161,
+          "components": {
+            "PLG": 1.563871419496489,
+            "CGI": 51.61146725753852,
+            "PV": 0.17613041055906242
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68827344956675,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.9669075012207
+          },
+          "confidence": 0.860664723177423
+        },
+        "AST": {
+          "score": 99.96819046097713,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.87276184390853
+          },
+          "confidence": 0.9993999390778627
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 51.43013557736851,
+          "components": {
+            "PDE": 73.60378704492437,
+            "HPET": 37.725661711810076,
+            "PWCE": 41.549428375038175
+          },
+          "confidence": 0.6843038862514491
+        },
+        "FEP": {
+          "score": 71.07414039099633,
+          "components": {
+            "VFE": 89.52808321365092,
+            "LFED": 37.725661711810076,
+            "AIIG": 79.81736197330981
+          },
+          "confidence": 0.6742665645402685
+        },
+        "QIT": {
+          "score": 27.302772347892546,
+          "components": {
+            "LRMI": 25.239846949181494,
+            "CNC": 57.12119268677442,
+            "BCHSH": 0.23491920729207202
+          },
+          "confidence": 0.15443032491152986
+        }
+      },
+      "unified": 59.823444885131835,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "golfclubbing",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 2548,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299317491455714,
+          "components": {
+            "PLG": 1.5638257188608093,
+            "CGI": 51.61146870034873,
+            "PV": 0.16982010960344818
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67843063655177,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.93409812450409
+          },
+          "confidence": 0.8608317008112507
+        },
+        "AST": {
+          "score": 99.96625896803998,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.86503587215994
+          },
+          "confidence": 0.9993634866450164
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 48.321918715576736,
+          "components": {
+            "PDE": 68.60594681021584,
+            "HPET": 29.92645852736404,
+            "PWCE": 46.11858949141261
+          },
+          "confidence": 0.6710621660510538
+        },
+        "FEP": {
+          "score": 67.59522179351252,
+          "components": {
+            "VFE": 86.89952896826343,
+            "LFED": 29.92645852736404,
+            "AIIG": 79.5249088266598
+          },
+          "confidence": 0.6134635139170301
+        },
+        "QIT": {
+          "score": 28.15323766863568,
+          "components": {
+            "LRMI": 25.97948768338356,
+            "CNC": 57.79529337426119,
+            "BCHSH": 1.4095152766796575
+          },
+          "confidence": 0.18708025545872942
+        }
+      },
+      "unified": 59.00205503911034,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "gpsformylostidentity",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3812,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29931681903585,
+          "components": {
+            "PLG": 1.563882105039309,
+            "CGI": 51.61120452772771,
+            "PV": 0.17007204098941017
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68122371020594,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.943408370018
+          },
+          "confidence": 0.8607843134862907
+        },
+        "AST": {
+          "score": 99.97207062896115,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88828251584457
+          },
+          "confidence": 0.999473162539325
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 56.57942704573745,
+          "components": {
+            "PDE": 76.75243996431703,
+            "HPET": 43.49865324596666,
+            "PWCE": 48.30514807379384
+          },
+          "confidence": 0.7388136051923067
+        },
+        "FEP": {
+          "score": 74.43964424048636,
+          "components": {
+            "VFE": 90.09173062194334,
+            "LFED": 43.49865324596666,
+            "AIIG": 84.51118672639677
+          },
+          "confidence": 0.7142504318682474
+        },
+        "QIT": {
+          "score": 29.366087540343642,
+          "components": {
+            "LRMI": 26.945836995476203,
+            "CNC": 60.54966077745173,
+            "BCHSH": 1.409515029725467
+          },
+          "confidence": 0.18276954018708635
+        }
+      },
+      "unified": 61.33396714068148,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "hangtime",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3968,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29934682390266,
+          "components": {
+            "PLG": 1.5638721601158645,
+            "CGI": 51.61164956225495,
+            "PV": 0.16957937584122398
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68965299907008,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.97150599956512
+          },
+          "confidence": 0.8606413234118022
+        },
+        "AST": {
+          "score": 99.97047723805687,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88190895222748
+          },
+          "confidence": 0.9994430942435365
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 49.18525511283865,
+          "components": {
+            "PDE": 71.11354451646024,
+            "HPET": 40.08090026106176,
+            "PWCE": 34.22399813568651
+          },
+          "confidence": 0.6660605069092846
+        },
+        "FEP": {
+          "score": 72.91414675244827,
+          "components": {
+            "VFE": 92.42844613655272,
+            "LFED": 40.08090026106176,
+            "AIIG": 79.7283273983622
+          },
+          "confidence": 0.6848624676206303
+        },
+        "QIT": {
+          "score": 28.082580089387378,
+          "components": {
+            "LRMI": 25.145072273760743,
+            "CNC": 53.15172112037377,
+            "BCHSH": 6.9301161459031615
+          },
+          "confidence": 0.3308273652325222
+        }
+      },
+      "unified": 59.8773512879577,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "haveyoumethimyet",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 6050,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29653211276459,
+          "components": {
+            "PLG": 1.564113634553365,
+            "CGI": 51.603108459190224,
+            "PV": 0.16771378865421976
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.6661604243783,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.89319741725922
+          },
+          "confidence": 0.8610399191293117
+        },
+        "AST": {
+          "score": 99.97104633566278,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.8841853426511
+          },
+          "confidence": 0.9994538336226124
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 61.53464091772835,
+          "components": {
+            "PDE": 79.91363068354099,
+            "HPET": 53.592743388411414,
+            "PWCE": 49.3580333084834
+          },
+          "confidence": 0.7782466878431975
+        },
+        "FEP": {
+          "score": 75.91400100515375,
+          "components": {
+            "VFE": 89.17391112514548,
+            "LFED": 53.592743388411414,
+            "AIIG": 80.5553784619071
+          },
+          "confidence": 0.796404432055771
+        },
+        "QIT": {
+          "score": 29.121828841750098,
+          "components": {
+            "LRMI": 26.470200005621912,
+            "CNC": 58.96013249193265,
+            "BCHSH": 2.8190303064051245
+          },
+          "confidence": 0.21764881333752206
+        }
+      },
+      "unified": 62.21488709106256,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "howtodraw",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 4552,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299636723105895,
+          "components": {
+            "PLG": 1.5639311857583147,
+            "CGI": 51.61032622092164,
+            "PV": 0.17286631975123506
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67990942778864,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.93902742862701
+          },
+          "confidence": 0.8608066111805842
+        },
+        "AST": {
+          "score": 99.97185851360646,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88743405442588
+          },
+          "confidence": 0.9994691598619522
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 56.000271317185494,
+          "components": {
+            "PDE": 81.56352765071709,
+            "HPET": 52.474035936445176,
+            "PWCE": 30.290413538929023
+          },
+          "confidence": 0.6167051895053477
+        },
+        "FEP": {
+          "score": 75.80396338931313,
+          "components": {
+            "VFE": 90.0168189911798,
+            "LFED": 52.474035936445176,
+            "AIIG": 80.18341670635883
+          },
+          "confidence": 0.7858480877945918
+        },
+        "QIT": {
+          "score": 26.210101903071823,
+          "components": {
+            "LRMI": 24.44395214286136,
+            "CNC": 53.95285296872772,
+            "BCHSH": 0.8222171843632202
+          },
+          "confidence": 0.17690862373630334
+        }
+      },
+      "unified": 60.99510589629592,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "ifthishaircouldtalk",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3837,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.298339780918067,
+          "components": {
+            "PLG": 1.563844243025588,
+            "CGI": 51.611123779762735,
+            "PV": 0.1654026273822671
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.6760220128564,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.92606937885284
+          },
+          "confidence": 0.8608725683817126
+        },
+        "AST": {
+          "score": 99.97160211400927,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88640845603709
+          },
+          "confidence": 0.9994643214980288
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 50.212559796416855,
+          "components": {
+            "PDE": 68.82264827691644,
+            "HPET": 36.98865016246869,
+            "PWCE": 43.928684475440214
+          },
+          "confidence": 0.7261694809058029
+        },
+        "FEP": {
+          "score": 70.99590900265761,
+          "components": {
+            "VFE": 89.05714832196128,
+            "LFED": 36.98865016246869,
+            "AIIG": 80.92151541710832
+          },
+          "confidence": 0.6684955069883058
+        },
+        "QIT": {
+          "score": 28.341173503180453,
+          "components": {
+            "LRMI": 24.98372198776878,
+            "CNC": 59.749433618521245,
+            "BCHSH": 1.409515408388559
+          },
+          "confidence": 0.16547266842526642
+        }
+      },
+      "unified": 59.785086601434095,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "inamoment",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 1920,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299133103912432,
+          "components": {
+            "PLG": 1.5638301958760772,
+            "CGI": 51.61117227006255,
+            "PV": 0.16933162477813937
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67708506169596,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.92961287498474
+          },
+          "confidence": 0.8608545311095025
+        },
+        "AST": {
+          "score": 99.97178158984286,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88712635937148
+          },
+          "confidence": 0.9994677082829492
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 51.21977124841436,
+          "components": {
+            "PDE": 81.72475628016481,
+            "HPET": 39.381774304953574,
+            "PWCE": 29.44161847874309
+          },
+          "confidence": 0.5482556631004469
+        },
+        "FEP": {
+          "score": 71.72048158457457,
+          "components": {
+            "VFE": 90.89815858262912,
+            "LFED": 39.381774304953574,
+            "AIIG": 78.4889528667895
+          },
+          "confidence": 0.6845403332486584
+        },
+        "QIT": {
+          "score": 29.528313817781033,
+          "components": {
+            "LRMI": 25.14318565639031,
+            "CNC": 60.909838709508655,
+            "BCHSH": 3.9936264745743864
+          },
+          "confidence": 0.2174063108199885
+        }
+      },
+      "unified": 60.20236662946018,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "itsabox",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3381,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29776618620783,
+          "components": {
+            "PLG": 1.5638077664109857,
+            "CGI": 51.61097227943411,
+            "PV": 0.1628530958605342
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67736222329417,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.93053674697876
+          },
+          "confidence": 0.8608498284562938
+        },
+        "AST": {
+          "score": 99.97309976647597,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.89239906590386
+          },
+          "confidence": 0.9994925823368757
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 56.346082972629986,
+          "components": {
+            "PDE": 73.60416990507275,
+            "HPET": 44.35783690292689,
+            "PWCE": 50.1979352994337
+          },
+          "confidence": 0.7745490057177482
+        },
+        "FEP": {
+          "score": 73.12006144434471,
+          "components": {
+            "VFE": 88.43981733352604,
+            "LFED": 44.35783690292689,
+            "AIIG": 81.45594480018747
+          },
+          "confidence": 0.7291212069342841
+        },
+        "QIT": {
+          "score": 30.572109436765803,
+          "components": {
+            "LRMI": 28.662824562418,
+            "CNC": 62.98517445037969,
+            "BCHSH": 0.7047575889489907
+          },
+          "confidence": 0.17262612551145884
+        }
+      },
+      "unified": 61.28378314710263,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "jugglingandjesus",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 1894,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29979782953777,
+          "components": {
+            "PLG": 1.5638706685099493,
+            "CGI": 51.611292632150786,
+            "PV": 0.17237352818780405
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67955627026835,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.9378502368927
+          },
+          "confidence": 0.8608126028708338
+        },
+        "AST": {
+          "score": 99.97178145400548,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88712581602194
+          },
+          "confidence": 0.9994677057196463
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 56.74000828257842,
+          "components": {
+            "PDE": 79.58502423152423,
+            "HPET": 41.282791946087286,
+            "PWCE": 48.12090873471465
+          },
+          "confidence": 0.70389681593953
+        },
+        "FEP": {
+          "score": 72.33726524512264,
+          "components": {
+            "VFE": 89.3537482678155,
+            "LFED": 41.282791946087286,
+            "AIIG": 80.70309451390081
+          },
+          "confidence": 0.703007342075138
+        },
+        "QIT": {
+          "score": 27.071032904953956,
+          "components": {
+            "LRMI": 24.609752685397428,
+            "CNC": 57.18885354556094,
+            "BCHSH": 0.2349192237556847
+          },
+          "confidence": 0.1467529478977021
+        }
+      },
+      "unified": 60.728491712352366,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "kiksuya",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3473,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299060165252072,
+          "components": {
+            "PLG": 1.5638314612119397,
+            "CGI": 51.611233181623426,
+            "PV": 0.16887240079538113
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67778601231852,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.93194937705994
+          },
+          "confidence": 0.860842638014908
+        },
+        "AST": {
+          "score": 99.9727643359046,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.8910573436184
+          },
+          "confidence": 0.9994862528294758
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 55.974585274509586,
+          "components": {
+            "PDE": 75.18830020269823,
+            "HPET": 44.066769064739205,
+            "PWCE": 47.4510367696883
+          },
+          "confidence": 0.7491073528890093
+        },
+        "FEP": {
+          "score": 72.69305785540045,
+          "components": {
+            "VFE": 88.28685157692942,
+            "LFED": 44.066769064739205,
+            "AIIG": 80.52762168402306
+          },
+          "confidence": 0.7283175114769405
+        },
+        "QIT": {
+          "score": 29.195091981955766,
+          "components": {
+            "LRMI": 26.80571051247821,
+            "CNC": 59.22683386675782,
+            "BCHSH": 2.3491920564571074
+          },
+          "confidence": 0.20924967908023318
+        }
+      },
+      "unified": 60.97319223219158,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "leavingbaghdad",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3988,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299112507489397,
+          "components": {
+            "PLG": 1.5638610429028503,
+            "CGI": 51.61150278632074,
+            "PV": 0.1686557507087519
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.6794221598176,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.93740320205688
+          },
+          "confidence": 0.8608148782109979
+        },
+        "AST": {
+          "score": 99.97101269364212,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88405077456848
+          },
+          "confidence": 0.9994531987722308
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 53.71404771684655,
+          "components": {
+            "PDE": 76.98898422899593,
+            "HPET": 38.811812107227404,
+            "PWCE": 43.94589666389461
+          },
+          "confidence": 0.6823010048999102
+        },
+        "FEP": {
+          "score": 71.15578000755804,
+          "components": {
+            "VFE": 88.68275641501684,
+            "LFED": 38.811812107227404,
+            "AIIG": 80.1304460312769
+          },
+          "confidence": 0.6853655997618884
+        },
+        "QIT": {
+          "score": 30.769125610669214,
+          "components": {
+            "LRMI": 25.507511344323706,
+            "CNC": 62.44583761898691,
+            "BCHSH": 6.107899290812195
+          },
+          "confidence": 0.2546849380205546
+        }
+      },
+      "unified": 60.65550009943185,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "lifeanddeathontheoregontrail",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 4904,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299135463627206,
+          "components": {
+            "PLG": 1.5638063703652991,
+            "CGI": 51.61114914376094,
+            "PV": 0.1694376765813686
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68107350650111,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.94290769100189
+          },
+          "confidence": 0.8607868617547378
+        },
+        "AST": {
+          "score": 99.97027462960784,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88109851843134
+          },
+          "confidence": 0.9994392708021566
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 52.219490905134066,
+          "components": {
+            "PDE": 76.55925497393153,
+            "HPET": 35.38613934937164,
+            "PWCE": 43.462009639926535
+          },
+          "confidence": 0.6561272808493117
+        },
+        "FEP": {
+          "score": 70.59399899961102,
+          "components": {
+            "VFE": 88.40518893282622,
+            "LFED": 35.38613934937164,
+            "AIIG": 82.05360540556347
+          },
+          "confidence": 0.6554835985956082
+        },
+        "QIT": {
+          "score": 29.517684935444827,
+          "components": {
+            "LRMI": 26.1897959030454,
+            "CNC": 58.30433304919613,
+            "BCHSH": 5.168222198226105
+          },
+          "confidence": 0.26893295412345586
+        }
+      },
+      "unified": 60.183094062846585,
+      "duration_seconds": 1.8
+    },
+    {
+      "story": "lifereimagined",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3727,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29897175175601,
+          "components": {
+            "PLG": 1.5638541795605774,
+            "CGI": 51.61113053751666,
+            "PV": 0.16852750360362337
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67056550565043,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.90788102149963
+          },
+          "confidence": 0.8609651596544465
+        },
+        "AST": {
+          "score": 99.97242046205045,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88968184820182
+          },
+          "confidence": 0.9994797639402349
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 55.69657276626419,
+          "components": {
+            "PDE": 80.83584693189212,
+            "HPET": 40.93067643153999,
+            "PWCE": 43.59429863020984
+          },
+          "confidence": 0.6695201131654931
+        },
+        "FEP": {
+          "score": 72.44304301881293,
+          "components": {
+            "VFE": 89.67620267001764,
+            "LFED": 40.93067643153999,
+            "AIIG": 80.97786340447959
+          },
+          "confidence": 0.6990174512644394
+        },
+        "QIT": {
+          "score": 27.896710267380172,
+          "components": {
+            "LRMI": 25.829278417221502,
+            "CNC": 58.549996137408556,
+            "BCHSH": 1.9756335239481575e-07
+          },
+          "confidence": 0.1482009184827323
+        }
+      },
+      "unified": 60.711183395987746,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "listo",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 4667,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299035737986713,
+          "components": {
+            "PLG": 1.5638427218436044,
+            "CGI": 51.61161908500731,
+            "PV": 0.16814325781358505
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.6709571081666,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.90918636322021
+          },
+          "confidence": 0.8609585141176581
+        },
+        "AST": {
+          "score": 99.97000373321822,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88001493287285
+          },
+          "confidence": 0.9994341586609183
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 44.61868809593861,
+          "components": {
+            "PDE": 75.23222907387911,
+            "HPET": 25.396963243469163,
+            "PWCE": 31.328235949555722
+          },
+          "confidence": 0.4946814269576961
+        },
+        "FEP": {
+          "score": 67.21013554686239,
+          "components": {
+            "VFE": 88.8320763555016,
+            "LFED": 25.396963243469163,
+            "AIIG": 80.19405343873669
+          },
+          "confidence": 0.5665663607179645
+        },
+        "QIT": {
+          "score": 27.96901608110998,
+          "components": {
+            "LRMI": 24.899086207841787,
+            "CNC": 58.38683742695443,
+            "BCHSH": 1.644434566289793
+          },
+          "confidence": 0.17731824517023342
+        }
+      },
+      "unified": 58.391119471897504,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "mayorofthefreaks",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 6683,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.301805025339917,
+          "components": {
+            "PLG": 1.5638832050329095,
+            "CGI": 51.61148822480563,
+            "PV": 0.18208477690884642
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.69031997504511,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.97372925281525
+          },
+          "confidence": 0.8606300105473487
+        },
+        "AST": {
+          "score": 99.96468041356218,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85872165424874
+          },
+          "confidence": 0.9993336937090613
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 48.99335289504768,
+          "components": {
+            "PDE": 77.95031487841982,
+            "HPET": 37.71220711942778,
+            "PWCE": 28.371567319336727
+          },
+          "confidence": 0.5519657730332695
+        },
+        "FEP": {
+          "score": 70.27935161459888,
+          "components": {
+            "VFE": 87.64093592256098,
+            "LFED": 37.71220711942778,
+            "AIIG": 79.69771703248716
+          },
+          "confidence": 0.6795076075074442
+        },
+        "QIT": {
+          "score": 29.560446070460532,
+          "components": {
+            "LRMI": 25.518848546057704,
+            "CNC": 59.341466707753185,
+            "BCHSH": 5.168222132371654
+          },
+          "confidence": 0.2554718067196292
+        }
+      },
+      "unified": 59.68427942772205,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "metsmagic",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3005,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299426046811465,
+          "components": {
+            "PLG": 1.5638159975716006,
+            "CGI": 51.611666774429224,
+            "PV": 0.1700900784844863
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68476333203593,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.9552071094513
+          },
+          "confidence": 0.8607242652750974
+        },
+        "AST": {
+          "score": 99.97182534381578,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88730137526314
+          },
+          "confidence": 0.999468533936473
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 53.275345547422646,
+          "components": {
+            "PDE": 81.65106623035516,
+            "HPET": 36.97217427154933,
+            "PWCE": 39.19070457252027
+          },
+          "confidence": 0.6091813232079146
+        },
+        "FEP": {
+          "score": 71.07756608080463,
+          "components": {
+            "VFE": 89.92220208642172,
+            "LFED": 36.97217427154933,
+            "AIIG": 80.05677654923716
+          },
+          "confidence": 0.6667170435685166
+        },
+        "QIT": {
+          "score": 26.562656452611797,
+          "components": {
+            "LRMI": 24.042842756593284,
+            "CNC": 55.075549486653095,
+            "BCHSH": 1.4095150132618541
+          },
+          "confidence": 0.18047047859139242
+        }
+      },
+      "unified": 59.981654686214604,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "mybackseatviewofagreatromance",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 4385,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299812634379418,
+          "components": {
+            "PLG": 1.5638757813953,
+            "CGI": 51.61153614577504,
+            "PV": 0.17206949974626795
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68450405183115,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.95434284210205
+          },
+          "confidence": 0.8607286636638769
+        },
+        "AST": {
+          "score": 99.97148288684755,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.8859315473902
+          },
+          "confidence": 0.9994620716220755
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 48.42538254468086,
+          "components": {
+            "PDE": 79.62044898495778,
+            "HPET": 43.54303800978075,
+            "PWCE": 17.72720698840791
+          },
+          "confidence": 0.4595106564347572
+        },
+        "FEP": {
+          "score": 73.70850479219297,
+          "components": {
+            "VFE": 89.15397196218686,
+            "LFED": 43.54303800978075,
+            "AIIG": 83.28001534794664
+          },
+          "confidence": 0.718593381094234
+        },
+        "QIT": {
+          "score": 29.39364114919744,
+          "components": {
+            "LRMI": 24.65084875448657,
+            "CNC": 56.65391429224591,
+            "BCHSH": 8.457091199096789
+          },
+          "confidence": 0.33069549065261195
+        }
+      },
+      "unified": 60.06904686558992,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "myfathershands",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 1934,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.298655910599823,
+          "components": {
+            "PLG": 1.5638714491295655,
+            "CGI": 51.61123707266936,
+            "PV": 0.16674532117117
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67654414954463,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.92780983448029
+          },
+          "confidence": 0.8608637089680943
+        },
+        "AST": {
+          "score": 99.97182838588657,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.8873135435463
+          },
+          "confidence": 0.9994685913414292
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 51.1460775169451,
+          "components": {
+            "PDE": 75.34187807786137,
+            "HPET": 31.486596175971716,
+            "PWCE": 45.85370509367838
+          },
+          "confidence": 0.6413109472830514
+        },
+        "FEP": {
+          "score": 68.58687760542873,
+          "components": {
+            "VFE": 87.0306899506405,
+            "LFED": 31.486596175971716,
+            "AIIG": 81.09540924127008
+          },
+          "confidence": 0.6257311042788218
+        },
+        "QIT": {
+          "score": 29.83158684093732,
+          "components": {
+            "LRMI": 25.87256534873843,
+            "CNC": 57.65937405619703,
+            "BCHSH": 7.282494948609464
+          },
+          "confidence": 0.3128791009190012
+        }
+      },
+      "unified": 59.7873672013346,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "myfirstdaywiththeyankees",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 5835,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.300352531647334,
+          "components": {
+            "PLG": 1.563833191245122,
+            "CGI": 51.61127774733829,
+            "PV": 0.1752630591164308
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.6691484052209,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.90315735340118
+          },
+          "confidence": 0.8609892085799078
+        },
+        "AST": {
+          "score": 99.9645738179145,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85829527165797
+          },
+          "confidence": 0.9993316818249361
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 49.78123532158679,
+          "components": {
+            "PDE": 79.3277190888858,
+            "HPET": 25.828198449392893,
+            "PWCE": 43.25554727729749
+          },
+          "confidence": 0.549654314116733
+        },
+        "FEP": {
+          "score": 67.75928268119674,
+          "components": {
+            "VFE": 90.37888689850186,
+            "LFED": 25.828198449392893,
+            "AIIG": 79.53089462326044
+          },
+          "confidence": 0.5674487963463033
+        },
+        "QIT": {
+          "score": 27.28405735000309,
+          "components": {
+            "LRMI": 26.28050514089445,
+            "CNC": 54.49666903547137,
+            "BCHSH": 1.4095152766796575
+          },
+          "confidence": 0.20837263749845492
+        }
+      },
+      "unified": 59.10837858679562,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "naked",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 7084,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29985189374845,
+          "components": {
+            "PLG": 1.5638981642077519,
+            "CGI": 51.611326946230406,
+            "PV": 0.17252363887725677
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67787988963404,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.93226230144501
+          },
+          "confidence": 0.8608410452065858
+        },
+        "AST": {
+          "score": 99.97132647416379,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88530589665517
+          },
+          "confidence": 0.9994591200259396
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 54.45753405242029,
+          "components": {
+            "PDE": 76.8681153260213,
+            "HPET": 35.661636399690934,
+            "PWCE": 50.24040316140339
+          },
+          "confidence": 0.6855594698931773
+        },
+        "FEP": {
+          "score": 70.31263896883094,
+          "components": {
+            "VFE": 87.47678799063684,
+            "LFED": 35.661636399690934,
+            "AIIG": 82.07810950889642
+          },
+          "confidence": 0.6599969837193653
+        },
+        "QIT": {
+          "score": 29.935308343093553,
+          "components": {
+            "LRMI": 26.418859130833734,
+            "CNC": 59.86083170405239,
+            "BCHSH": 4.698383931814475
+          },
+          "confidence": 0.2518368859923489
+        }
+      },
+      "unified": 60.52207708884158,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "notontheusualtour",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3002,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.298952737332,
+          "components": {
+            "PLG": 1.563852584644177,
+            "CGI": 51.61134738109142,
+            "PV": 0.16811115341244476
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67533536734858,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.92378056049347
+          },
+          "confidence": 0.8608842193048383
+        },
+        "AST": {
+          "score": 99.97154045589257,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88616182357026
+          },
+          "confidence": 0.9994631579795353
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 53.38296074605229,
+          "components": {
+            "PDE": 78.810828282769,
+            "HPET": 34.908336719337086,
+            "PWCE": 45.270843317717215
+          },
+          "confidence": 0.6464458789243865
+        },
+        "FEP": {
+          "score": 70.10564728907323,
+          "components": {
+            "VFE": 88.19324851691725,
+            "LFED": 34.908336719337086,
+            "AIIG": 81.18615622168403
+          },
+          "confidence": 0.6528297904449754
+        },
+        "QIT": {
+          "score": 26.785453926982616,
+          "components": {
+            "LRMI": 25.381146249818176,
+            "CNC": 53.094126181899895,
+            "BCHSH": 2.349191908284593
+          },
+          "confidence": 0.22996485952556622
+        }
+      },
+      "unified": 59.88855578895446,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "odetostepfather",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 6074,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299739144918934,
+          "components": {
+            "PLG": 1.5639661098825905,
+            "CGI": 51.60997879387463,
+            "PV": 0.17381225907625558
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.66825612368861,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.90018308162689
+          },
+          "confidence": 0.8610043515232906
+        },
+        "AST": {
+          "score": 99.96341187678347,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85364750713389
+          },
+          "confidence": 0.9993097510001326
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 54.75500296906425,
+          "components": {
+            "PDE": 76.95095972327846,
+            "HPET": 37.98474770586628,
+            "PWCE": 48.42501789621199
+          },
+          "confidence": 0.6975562436827392
+        },
+        "FEP": {
+          "score": 70.87430910246981,
+          "components": {
+            "VFE": 87.12011802911293,
+            "LFED": 37.98474770586628,
+            "AIIG": 82.10279193021586
+          },
+          "confidence": 0.6803891006932123
+        },
+        "QIT": {
+          "score": 27.43472932826106,
+          "components": {
+            "LRMI": 26.053891724952972,
+            "CNC": 54.596302644695086,
+            "BCHSH": 2.11427281623781
+          },
+          "confidence": 0.22237832044183237
+        }
+      },
+      "unified": 60.28506407788374,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "onlyonewaytofindout",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3925,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.298636840707402,
+          "components": {
+            "PLG": 1.5638406952140527,
+            "CGI": 51.610965978918664,
+            "PV": 0.16713349712388484
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68437530579844,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.95391368865967
+          },
+          "confidence": 0.8607308477026848
+        },
+        "AST": {
+          "score": 99.97104251620983,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88417006483932
+          },
+          "confidence": 0.9994537615466745
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 45.76283045537561,
+          "components": {
+            "PDE": 79.18921266704662,
+            "HPET": 34.660157373046665,
+            "PWCE": 19.718503137809858
+          },
+          "confidence": 0.43263581397022344
+        },
+        "FEP": {
+          "score": 69.50549263446548,
+          "components": {
+            "VFE": 89.28557236703678,
+            "LFED": 34.660157373046665,
+            "AIIG": 77.97738825245592
+          },
+          "confidence": 0.6502275480289204
+        },
+        "QIT": {
+          "score": 28.128125516179715,
+          "components": {
+            "LRMI": 25.556084198212886,
+            "CNC": 57.336447482176155,
+            "BCHSH": 2.349191974139044
+          },
+          "confidence": 0.20675381271373927
+        }
+      },
+      "unified": 58.90721475267664,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "penpal",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3147,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299065763558065,
+          "components": {
+            "PLG": 1.563819519654014,
+            "CGI": 51.61123464521567,
+            "PV": 0.16892805083179452
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67777528348246,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.93191361427307
+          },
+          "confidence": 0.8608428200503981
+        },
+        "AST": {
+          "score": 99.97206625716194,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88826502864774
+          },
+          "confidence": 0.9994730800424529
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 54.01933536695699,
+          "components": {
+            "PDE": 80.85917159622561,
+            "HPET": 34.13569775946071,
+            "PWCE": 45.903770308222605
+          },
+          "confidence": 0.630034846792211
+        },
+        "FEP": {
+          "score": 69.97372691704066,
+          "components": {
+            "VFE": 88.38766932547401,
+            "LFED": 34.13569775946071,
+            "AIIG": 81.25983286337619
+          },
+          "confidence": 0.6456364373630423
+        },
+        "QIT": {
+          "score": 27.69955023769035,
+          "components": {
+            "LRMI": 24.60076147701953,
+            "CNC": 56.94670775675596,
+            "BCHSH": 2.584111066185827
+          },
+          "confidence": 0.2038692734268085
+        }
+      },
+      "unified": 60.09164568941292,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "quietfire",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3871,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29891609889639,
+          "components": {
+            "PLG": 1.5638418984684554,
+            "CGI": 51.611659681999214,
+            "PV": 0.16748622531199908
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68611963572779,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.95972812175751
+          },
+          "confidence": 0.8607012576463032
+        },
+        "AST": {
+          "score": 99.97202360163601,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88809440654407
+          },
+          "confidence": 0.9994722751222119
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 50.536494571481256,
+          "components": {
+            "PDE": 75.87878699016215,
+            "HPET": 42.952711474801305,
+            "PWCE": 29.8182336958135
+          },
+          "confidence": 0.6089974896440847
+        },
+        "FEP": {
+          "score": 71.24310303296326,
+          "components": {
+            "VFE": 88.1261618990742,
+            "LFED": 42.952711474801305,
+            "AIIG": 77.02274943631065
+          },
+          "confidence": 0.7229230713272929
+        },
+        "QIT": {
+          "score": 27.91985261549805,
+          "components": {
+            "LRMI": 26.46459186158826,
+            "CNC": 56.135618501222154,
+            "BCHSH": 1.644434401653666
+          },
+          "confidence": 0.2067639758309503
+        }
+      },
+      "unified": 59.80807279374325,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "reachingoutbetweenthebars",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3640,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29064028212253,
+          "components": {
+            "PLG": 1.565658556361145,
+            "CGI": 51.57153852794084,
+            "PV": 0.1817472277985369
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.63615276398936,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.7931718826294
+          },
+          "confidence": 0.8615494181941942
+        },
+        "AST": {
+          "score": 99.96720480537705,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.8688192215082
+          },
+          "confidence": 0.999381337357624
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 65.26731310268555,
+          "components": {
+            "PDE": 81.72378165879888,
+            "HPET": 78.03551560825649,
+            "PWCE": 31.171863530720582
+          },
+          "confidence": 0.6384499846669945
+        },
+        "FEP": {
+          "score": 83.72167941392689,
+          "components": {
+            "VFE": 89.09263753999393,
+            "LFED": 78.03551560825649,
+            "AIIG": 82.24656571817455
+          },
+          "confidence": 0.9451839681007832
+        },
+        "QIT": {
+          "score": 30.34324651530216,
+          "components": {
+            "LRMI": 26.828598958049703,
+            "CNC": 61.37906329903321,
+            "BCHSH": 3.9936264745743864
+          },
+          "confidence": 0.23245049676108653
+        }
+      },
+      "unified": 64.03231955477193,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "shoppinginchina",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3571,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299744673690597,
+          "components": {
+            "PLG": 1.563850529512891,
+            "CGI": 51.61136714893873,
+            "PV": 0.17204632126265818
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68249597134867,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.94764924049377
+          },
+          "confidence": 0.8607627294543467
+        },
+        "AST": {
+          "score": 99.97205715358375,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88822861433498
+          },
+          "confidence": 0.9994729082557755
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 56.60870387941716,
+          "components": {
+            "PDE": 82.36976815313419,
+            "HPET": 41.67110544854634,
+            "PWCE": 43.98132706276329
+          },
+          "confidence": 0.6667430901989637
+        },
+        "FEP": {
+          "score": 72.7207272373864,
+          "components": {
+            "VFE": 89.5029335126229,
+            "LFED": 41.67110544854634,
+            "AIIG": 81.3940739925778
+          },
+          "confidence": 0.7050259077566416
+        },
+        "QIT": {
+          "score": 28.28274818172018,
+          "components": {
+            "LRMI": 25.5241812912659,
+            "CNC": 58.36423182652172,
+            "BCHSH": 1.8793537241910268
+          },
+          "confidence": 0.18985361730803818
+        }
+      },
+      "unified": 60.93806815673526,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "singlewomanseekingmanwich",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3418,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.298834957855533,
+          "components": {
+            "PLG": 1.5638670637043697,
+            "CGI": 51.61120403511602,
+            "PV": 0.16770107734271475
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67573591056147,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.92511570453644
+          },
+          "confidence": 0.8608774229071398
+        },
+        "AST": {
+          "score": 99.97292483066454,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.89169932265816
+          },
+          "confidence": 0.999489281340374
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 54.4672546157971,
+          "components": {
+            "PDE": 80.76552800913353,
+            "HPET": 43.79746829757909,
+            "PWCE": 36.23401969482562
+          },
+          "confidence": 0.637004193589187
+        },
+        "FEP": {
+          "score": 73.08282648590017,
+          "components": {
+            "VFE": 88.4032000377297,
+            "LFED": 43.79746829757909,
+            "AIIG": 81.94101993844856
+          },
+          "confidence": 0.7242693828332354
+        },
+        "QIT": {
+          "score": 32.47409513518764,
+          "components": {
+            "LRMI": 27.464456342221915,
+            "CNC": 63.170617527753905,
+            "BCHSH": 8.457091133242338
+          },
+          "confidence": 0.31334141687622075
+        }
+      },
+      "unified": 61.281667419423776,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "sloth",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 5539,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29975760301552,
+          "components": {
+            "PLG": 1.5638949811580551,
+            "CGI": 51.61152502477718,
+            "PV": 0.17176302501670154
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67945881667414,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.93752539157867
+          },
+          "confidence": 0.8608142562838799
+        },
+        "AST": {
+          "score": 99.96931902410721,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.87727609642882
+          },
+          "confidence": 0.9994212372103782
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 53.498519960911736,
+          "components": {
+            "PDE": 78.96881053778745,
+            "HPET": 32.013831736906425,
+            "PWCE": 48.84865054922961
+          },
+          "confidence": 0.6354274279935846
+        },
+        "FEP": {
+          "score": 69.79974289150586,
+          "components": {
+            "VFE": 89.83080463910544,
+            "LFED": 32.013831736906425,
+            "AIIG": 80.87757171597252
+          },
+          "confidence": 0.6239806437639421
+        },
+        "QIT": {
+          "score": 28.138656942111762,
+          "components": {
+            "LRMI": 24.914782322944014,
+            "CNC": 58.69645984981952,
+            "BCHSH": 1.8793535266276744
+          },
+          "confidence": 0.1811951271937967
+        }
+      },
+      "unified": 60.0550650340466,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "souls",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 4303,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29900334691964,
+          "components": {
+            "PLG": 1.56387244354155,
+            "CGI": 51.61135280780825,
+            "PV": 0.16830641403195357
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67285611214915,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.91551637649536
+          },
+          "confidence": 0.8609262887983156
+        },
+        "AST": {
+          "score": 99.97161210633577,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88644842534306
+          },
+          "confidence": 0.999464510057884
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 49.87778117770203,
+          "components": {
+            "PDE": 79.25471852131847,
+            "HPET": 35.26574412326432,
+            "PWCE": 32.65206417366021
+          },
+          "confidence": 0.564199319950289
+        },
+        "FEP": {
+          "score": 70.65697948942231,
+          "components": {
+            "VFE": 89.85248324573303,
+            "LFED": 35.26574412326432,
+            "AIIG": 80.45420984716598
+          },
+          "confidence": 0.6522660127703772
+        },
+        "QIT": {
+          "score": 30.896192035499972,
+          "components": {
+            "LRMI": 26.228505652105348,
+            "CNC": 63.78742015134159,
+            "BCHSH": 4.228545764184521
+          },
+          "confidence": 0.21725449129290475
+        }
+      },
+      "unified": 60.05348918114698,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "stagefright",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 4426,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.300222483053897,
+          "components": {
+            "PLG": 1.5638714828444664,
+            "CGI": 51.61127966761016,
+            "PV": 0.17451420674306956
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68667932334223,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.96159374713898
+          },
+          "confidence": 0.8606917636394086
+        },
+        "AST": {
+          "score": 99.96656955787113,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.86627823148451
+          },
+          "confidence": 0.9993693484317929
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 51.63266152731483,
+          "components": {
+            "PDE": 79.27929835162142,
+            "HPET": 29.47892475307574,
+            "PWCE": 45.224278135569435
+          },
+          "confidence": 0.5950726495425859
+        },
+        "FEP": {
+          "score": 68.33127737512501,
+          "components": {
+            "VFE": 86.8730976170863,
+            "LFED": 29.47892475307574,
+            "AIIG": 82.46120300789256
+          },
+          "confidence": 0.6064911675749686
+        },
+        "QIT": {
+          "score": 28.845163139248022,
+          "components": {
+            "LRMI": 27.606728603330478,
+            "CNC": 58.401895628926724,
+            "BCHSH": 0.9396766974593864
+          },
+          "confidence": 0.18989712934713587
+        }
+      },
+      "unified": 59.680367629422165,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "stumblinginthedark",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 5537,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29850016714497,
+          "components": {
+            "PLG": 1.5638689000630084,
+            "CGI": 51.61177955219425,
+            "PV": 0.16515925727595132
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67961259665766,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.93803799152374
+          },
+          "confidence": 0.8608116472303865
+        },
+        "AST": {
+          "score": 99.97242596169724,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88970384678895
+          },
+          "confidence": 0.999479867718872
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 52.314955515655946,
+          "components": {
+            "PDE": 80.22668790285643,
+            "HPET": 34.662040749077775,
+            "PWCE": 40.34633495826327
+          },
+          "confidence": 0.608216688824885
+        },
+        "FEP": {
+          "score": 70.19732174761175,
+          "components": {
+            "VFE": 88.76384214394437,
+            "LFED": 34.662040749077775,
+            "AIIG": 80.97724221770225
+          },
+          "confidence": 0.6495009501828996
+        },
+        "QIT": {
+          "score": 26.704280381287848,
+          "components": {
+            "LRMI": 23.931314188021357,
+            "CNC": 52.172545864694186,
+            "BCHSH": 4.93330315557016
+          },
+          "confidence": 0.2815144625593896
+        }
+      },
+      "unified": 59.73815662429363,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "superheroesjustforeachother",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3390,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.298998134302618,
+          "components": {
+            "PLG": 1.5638068515611498,
+            "CGI": 51.61111357850016,
+            "PV": 0.16880317485998586
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67799880090037,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.93265867233276
+          },
+          "confidence": 0.8608390276550905
+        },
+        "AST": {
+          "score": 99.97257685164851,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.89030740659408
+          },
+          "confidence": 0.9994827150146063
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 54.375981557436006,
+          "components": {
+            "PDE": 78.77792456861215,
+            "HPET": 44.815738530217956,
+            "PWCE": 37.060664909484906
+          },
+          "confidence": 0.6616972422153817
+        },
+        "FEP": {
+          "score": 74.8436690994538,
+          "components": {
+            "VFE": 90.17946135367404,
+            "LFED": 44.815738530217956,
+            "AIIG": 84.42387666306266
+          },
+          "confidence": 0.7242889216074613
+        },
+        "QIT": {
+          "score": 31.05954985730833,
+          "components": {
+            "LRMI": 27.006428943833477,
+            "CNC": 65.87882661324753,
+            "BCHSH": 1.6444343193356026
+          },
+          "confidence": 0.16165315755503706
+        }
+      },
+      "unified": 61.318396328721384,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "sweetaspie",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 1538,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.297771879943966,
+          "components": {
+            "PLG": 1.5638010497976065,
+            "CGI": 51.610684857562205,
+            "PV": 0.16332948888251989
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.66965802493372,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.90485608577728
+          },
+          "confidence": 0.860980559965988
+        },
+        "AST": {
+          "score": 99.97271104370286,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.89084417481145
+          },
+          "confidence": 0.9994852472111363
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 55.75072652127688,
+          "components": {
+            "PDE": 78.59480404959598,
+            "HPET": 39.36873780266673,
+            "PWCE": 48.211622909949796
+          },
+          "confidence": 0.6967140237842993
+        },
+        "FEP": {
+          "score": 71.45607565918135,
+          "components": {
+            "VFE": 88.10619495630989,
+            "LFED": 39.36873780266673,
+            "AIIG": 81.34325445285792
+          },
+          "confidence": 0.6902777910970018
+        },
+        "QIT": {
+          "score": 30.820950231827794,
+          "components": {
+            "LRMI": 26.783731717477067,
+            "CNC": 65.61534320611023,
+            "BCHSH": 1.4095152766796575
+          },
+          "confidence": 0.15562715142733885
+        }
+      },
+      "unified": 60.995413337266655,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "swimmingwithastronauts",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 4242,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.301466167247554,
+          "components": {
+            "PLG": 1.5639055431606825,
+            "CGI": 51.609640109552856,
+            "PV": 0.18310681400679152
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68415089431086,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.95316565036774
+          },
+          "confidence": 0.8607346546215511
+        },
+        "AST": {
+          "score": 99.96297075711652,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85188302846608
+          },
+          "confidence": 0.9993014249974177
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 63.157649538943595,
+          "components": {
+            "PDE": 83.21455615676349,
+            "HPET": 61.171704252686446,
+            "PWCE": 42.07486131878707
+          },
+          "confidence": 0.7295485829528647
+        },
+        "FEP": {
+          "score": 78.51953416015776,
+          "components": {
+            "VFE": 90.6397017892953,
+            "LFED": 61.171704252686446,
+            "AIIG": 79.70714056211236
+          },
+          "confidence": 0.8423928123911113
+        },
+        "QIT": {
+          "score": 25.946288351544318,
+          "components": {
+            "LRMI": 23.825099815017943,
+            "CNC": 54.25098962114882,
+            "BCHSH": 0.46983846397498213
+          },
+          "confidence": 0.158993118323155
+        }
+      },
+      "unified": 62.367437124188655,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "thatthingonmyarm",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 4134,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299457710436705,
+          "components": {
+            "PLG": 1.5638597263854346,
+            "CGI": 51.611746772087095,
+            "PV": 0.1700190780892943
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68624927583018,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.96016025543213
+          },
+          "confidence": 0.8606990585426664
+        },
+        "AST": {
+          "score": 99.96810996282214,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.87243985128856
+          },
+          "confidence": 0.9993984199000898
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 53.68967775431189,
+          "components": {
+            "PDE": 76.86519679292799,
+            "HPET": 36.264478974675505,
+            "PWCE": 46.98097078550222
+          },
+          "confidence": 0.6781002232954697
+        },
+        "FEP": {
+          "score": 70.38061208567558,
+          "components": {
+            "VFE": 88.54445595991494,
+            "LFED": 36.264478974675505,
+            "AIIG": 80.27828669768982
+          },
+          "confidence": 0.664345189034945
+        },
+        "QIT": {
+          "score": 27.550226638508438,
+          "components": {
+            "LRMI": 23.745872279328843,
+            "CNC": 58.29357214697727,
+            "BCHSH": 1.8793536089457379
+          },
+          "confidence": 0.16976332165414387
+        }
+      },
+      "unified": 60.08204763251213,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "theadvancedbeginner",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3432,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299153673277786,
+          "components": {
+            "PLG": 1.5638802606310724,
+            "CGI": 51.611412490631146,
+            "PV": 0.16894897886453733
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67889734092036,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.93565380573273
+          },
+          "confidence": 0.8608237824535795
+        },
+        "AST": {
+          "score": 99.97123847972881,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88495391891527
+          },
+          "confidence": 0.9994574595155852
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 48.80473423765558,
+          "components": {
+            "PDE": 69.76719075396109,
+            "HPET": 32.71604032202732,
+            "PWCE": 43.118677870198816
+          },
+          "confidence": 0.6785091811051891
+        },
+        "FEP": {
+          "score": 69.33659346917344,
+          "components": {
+            "VFE": 86.86727908177971,
+            "LFED": 32.71604032202732,
+            "AIIG": 82.58289913284452
+          },
+          "confidence": 0.6352563836491519
+        },
+        "QIT": {
+          "score": 28.21359199177034,
+          "components": {
+            "LRMI": 24.94429644533059,
+            "CNC": 57.262456767382055,
+            "BCHSH": 3.523787944744953
+          },
+          "confidence": 0.22704647304388637
+        }
+      },
+      "unified": 59.32917274178947,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "theclosetthatateeverything",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3908,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299979333737507,
+          "components": {
+            "PLG": 1.5638504699800784,
+            "CGI": 51.61142979458233,
+            "PV": 0.1731258018638649
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68377806725779,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.95192289352417
+          },
+          "confidence": 0.8607409793139118
+        },
+        "AST": {
+          "score": 99.97009316637175,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88037266548702
+          },
+          "confidence": 0.9994358463763565
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 55.2494256491089,
+          "components": {
+            "PDE": 80.52562921341963,
+            "HPET": 35.21219838096988,
+            "PWCE": 49.137286636908556
+          },
+          "confidence": 0.6551657950014923
+        },
+        "FEP": {
+          "score": 70.77479828931257,
+          "components": {
+            "VFE": 89.18126095890209,
+            "LFED": 35.21219838096988,
+            "AIIG": 81.7954479715359
+          },
+          "confidence": 0.6523851475824003
+        },
+        "QIT": {
+          "score": 29.628564775963703,
+          "components": {
+            "LRMI": 24.49677071466899,
+            "CNC": 60.46146103730705,
+            "BCHSH": 5.638060596346636
+          },
+          "confidence": 0.24692864364623157
+        }
+      },
+      "unified": 60.658091325964605,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "thecurse",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 4455,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.298661057228394,
+          "components": {
+            "PLG": 1.5638138007416222,
+            "CGI": 51.61097445850666,
+            "PV": 0.16730909652792247
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67629649224558,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.92698431015015
+          },
+          "confidence": 0.860867911106123
+        },
+        "AST": {
+          "score": 99.9711226903271,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88449076130843
+          },
+          "confidence": 0.9994552744907804
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 48.583991535300434,
+          "components": {
+            "PDE": 79.21729839370573,
+            "HPET": 33.86068263834865,
+            "PWCE": 30.022327246937998
+          },
+          "confidence": 0.5316352791654424
+        },
+        "FEP": {
+          "score": 71.0047649434762,
+          "components": {
+            "VFE": 92.31129112149922,
+            "LFED": 33.86068263834865,
+            "AIIG": 79.74014567790643
+          },
+          "confidence": 0.6340088694573831
+        },
+        "QIT": {
+          "score": 29.193354715745006,
+          "components": {
+            "LRMI": 25.709901550253782,
+            "CNC": 58.56784892762258,
+            "BCHSH": 4.463464724522403
+          },
+          "confidence": 0.24757844311625088
+        }
+      },
+      "unified": 59.67545591918895,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "thefreedomridersandme",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3190,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.298998551754597,
+          "components": {
+            "PLG": 1.5638480928351481,
+            "CGI": 51.611477019914574,
+            "PV": 0.16815699681325577
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67801757636347,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.93272125720978
+          },
+          "confidence": 0.8608387090949117
+        },
+        "AST": {
+          "score": 99.97270703758684,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.89082815034735
+          },
+          "confidence": 0.9994851716160831
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 52.61547052621073,
+          "components": {
+            "PDE": 81.0306124617517,
+            "HPET": 33.09488394505639,
+            "PWCE": 42.238489279426325
+          },
+          "confidence": 0.6013152130770498
+        },
+        "FEP": {
+          "score": 70.05229063203937,
+          "components": {
+            "VFE": 90.39814285256577,
+            "LFED": 33.09488394505639,
+            "AIIG": 79.8818943583205
+          },
+          "confidence": 0.6325931242466003
+        },
+        "QIT": {
+          "score": 29.716967190290422,
+          "components": {
+            "LRMI": 28.604399737036033,
+            "CNC": 60.682438460758235,
+            "BCHSH": 0.2349191908284593
+          },
+          "confidence": 0.1725004016998275
+        }
+      },
+      "unified": 60.19063593060649,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "theinterview",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 2185,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.28149686356057,
+          "components": {
+            "PLG": 1.566563050842182,
+            "CGI": 51.54778735281133,
+            "PV": 0.16939566148038895
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.60805126014033,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.69950020313263
+          },
+          "confidence": 0.8620269219766445
+        },
+        "AST": {
+          "score": 99.96920595610635,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.87682382442537
+          },
+          "confidence": 0.9994191034310779
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 65.91942951327559,
+          "components": {
+            "PDE": 78.53114807324461,
+            "HPET": 68.49495214517026,
+            "PWCE": 48.200981456101275
+          },
+          "confidence": 0.8061322104376843
+        },
+        "FEP": {
+          "score": 80.2814112638735,
+          "components": {
+            "VFE": 88.69765168297683,
+            "LFED": 68.49495214517026,
+            "AIIG": 80.84621649043895
+          },
+          "confidence": 0.8951981854996851
+        },
+        "QIT": {
+          "score": 30.203879421712912,
+          "components": {
+            "LRMI": 24.179331685693636,
+            "CNC": 58.33896359029496,
+            "BCHSH": 10.10152556782323
+          },
+          "confidence": 0.34397265875986127
+        }
+      },
+      "unified": 63.6090677540956,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "thepostmanalwayscalls",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 4590,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299445517303436,
+          "components": {
+            "PLG": 1.563884201592394,
+            "CGI": 51.6114072823116,
+            "PV": 0.17040615906878565
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67638768735209,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.9272882938385
+          },
+          "confidence": 0.8608663637452156
+        },
+        "AST": {
+          "score": 99.97011472344009,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88045889376038
+          },
+          "confidence": 0.9994362531845896
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 48.513834760867915,
+          "components": {
+            "PDE": 77.92238508490733,
+            "HPET": 33.85809627302325,
+            "PWCE": 31.302220951974036
+          },
+          "confidence": 0.5513087864932575
+        },
+        "FEP": {
+          "score": 69.947267115198,
+          "components": {
+            "VFE": 89.54369625969736,
+            "LFED": 33.85809627302325,
+            "AIIG": 79.90786576470693
+          },
+          "confidence": 0.6414368130373501
+        },
+        "QIT": {
+          "score": 25.82800142717274,
+          "components": {
+            "LRMI": 23.373689070721678,
+            "CNC": 52.34430826342775,
+            "BCHSH": 2.584111066185827
+          },
+          "confidence": 0.2181885398983715
+        }
+      },
+      "unified": 59.03357874733347,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "theshower",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 2967,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.297761326354745,
+          "components": {
+            "PLG": 1.5635997936716224,
+            "CGI": 51.61128470940333,
+            "PV": 0.16288008348969296
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67696168008128,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.92920160293579
+          },
+          "confidence": 0.8608566245598308
+        },
+        "AST": {
+          "score": 99.96450707396156,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.8580282958462
+          },
+          "confidence": 0.9993304220979888
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 47.9735466693872,
+          "components": {
+            "PDE": 68.6340840650478,
+            "HPET": 37.73185370236323,
+            "PWCE": 35.818228169311126
+          },
+          "confidence": 0.6826903548458021
+        },
+        "FEP": {
+          "score": 70.85746063116508,
+          "components": {
+            "VFE": 89.1843194093777,
+            "LFED": 37.73185370236323,
+            "AIIG": 79.54725585568345
+          },
+          "confidence": 0.6754961037718239
+        },
+        "QIT": {
+          "score": 30.592521594095725,
+          "components": {
+            "LRMI": 24.316574659757485,
+            "CNC": 67.90853793354043,
+            "BCHSH": 1.6444345004353422
+          },
+          "confidence": 0.12118744238260992
+        }
+      },
+      "unified": 59.766108425006514,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "thetiniestbouquet",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 1930,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.298868744857717,
+          "components": {
+            "PLG": 1.5638452030478291,
+            "CGI": 51.61143672545172,
+            "PV": 0.16757562849145125
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68244500937739,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.94747936725616
+          },
+          "confidence": 0.8607635940150129
+        },
+        "AST": {
+          "score": 99.97215573834036,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88862295336143
+          },
+          "confidence": 0.9994747685712712
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 48.47633805338996,
+          "components": {
+            "PDE": 69.50049958691602,
+            "HPET": 40.811381777722445,
+            "PWCE": 32.89059858588834
+          },
+          "confidence": 0.6705263127599834
+        },
+        "FEP": {
+          "score": 71.1430000205918,
+          "components": {
+            "VFE": 87.7570968519093,
+            "LFED": 40.811381777722445,
+            "AIIG": 79.32248915503781
+          },
+          "confidence": 0.7051159192304453
+        },
+        "QIT": {
+          "score": 31.61404417875215,
+          "components": {
+            "LRMI": 25.19464687950308,
+            "CNC": 61.92067867585331,
+            "BCHSH": 9.866606080649742
+          },
+          "confidence": 0.32437039932089917
+        }
+      },
+      "unified": 60.026693106472756,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "thetriangleshirtwaistconnection",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 2970,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.298948776712706,
+          "components": {
+            "PLG": 1.5637933495787317,
+            "CGI": 51.61132245858604,
+            "PV": 0.16827682173763903
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68270697179118,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.94835257530212
+          },
+          "confidence": 0.8607591498823117
+        },
+        "AST": {
+          "score": 99.97057789032863,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88231156131452
+          },
+          "confidence": 0.999444993653487
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 52.39380510819835,
+          "components": {
+            "PDE": 82.42722080071681,
+            "HPET": 33.82458431441949,
+            "PWCE": 39.01891105966884
+          },
+          "confidence": 0.5789814670928426
+        },
+        "FEP": {
+          "score": 69.92452628697154,
+          "components": {
+            "VFE": 89.96080124633285,
+            "LFED": 33.82458431441949,
+            "AIIG": 79.30943498037519
+          },
+          "confidence": 0.6404069448190992
+        },
+        "QIT": {
+          "score": 31.52621876026263,
+          "components": {
+            "LRMI": 28.489227080110318,
+            "CNC": 61.698618602164345,
+            "BCHSH": 5.403141158563987
+          },
+          "confidence": 0.2748459356088844
+        }
+      },
+      "unified": 60.39954054203786,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "threemonths",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 4041,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299712826217014,
+          "components": {
+            "PLG": 1.5638050506204915,
+            "CGI": 51.61150773013728,
+            "PV": 0.17178990932790877
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.6793059307603,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.93701577186584
+          },
+          "confidence": 0.8608168501790423
+        },
+        "AST": {
+          "score": 99.96875025723969,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.87500102895879
+          },
+          "confidence": 0.9994105035780823
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 48.60062712956143,
+          "components": {
+            "PDE": 73.28383729817749,
+            "HPET": 30.73261951099491,
+            "PWCE": 40.649557487836994
+          },
+          "confidence": 0.6230357459269646
+        },
+        "FEP": {
+          "score": 68.98748454843634,
+          "components": {
+            "VFE": 90.32022665074537,
+            "LFED": 30.73261951099491,
+            "AIIG": 78.79869344946574
+          },
+          "confidence": 0.6126150358855178
+        },
+        "QIT": {
+          "score": 29.100404076472913,
+          "components": {
+            "LRMI": 24.882764924724352,
+            "CNC": 59.5957815376408,
+            "BCHSH": 4.228545484303106
+          },
+          "confidence": 0.2273949582212259
+        }
+      },
+      "unified": 59.37661210981252,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "thumbsup",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 6329,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299549915358373,
+          "components": {
+            "PLG": 1.5637801792207893,
+            "CGI": 51.611669406478555,
+            "PV": 0.17079501902205918
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.6836233932046,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.95140731334686
+          },
+          "confidence": 0.8607436032454663
+        },
+        "AST": {
+          "score": 99.97114317962496,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88457271849984
+          },
+          "confidence": 0.9994556611382653
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 50.78458754381922,
+          "components": {
+            "PDE": 74.86393307046164,
+            "HPET": 35.0496439206631,
+            "PWCE": 41.04945198975187
+          },
+          "confidence": 0.651706704406201
+        },
+        "FEP": {
+          "score": 69.5136038617787,
+          "components": {
+            "VFE": 87.23849678788773,
+            "LFED": 35.0496439206631,
+            "AIIG": 80.34437323474897
+          },
+          "confidence": 0.6572785430679842
+        },
+        "QIT": {
+          "score": 27.478020502178538,
+          "components": {
+            "LRMI": 24.22938712772294,
+            "CNC": 54.119330037926225,
+            "BCHSH": 5.168222132371654
+          },
+          "confidence": 0.2763190259594185
+        }
+      },
+      "unified": 59.53293262799491,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "tildeath",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 5205,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.300529895115133,
+          "components": {
+            "PLG": 1.5638232744335332,
+            "CGI": 51.611207032782104,
+            "PV": 0.17628074031868443
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68281426015177,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.94871020317078
+          },
+          "confidence": 0.8607573297686464
+        },
+        "AST": {
+          "score": 99.96871347357981,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.87485389431926
+          },
+          "confidence": 0.9994098094000431
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 54.26808492780964,
+          "components": {
+            "PDE": 79.15732982334794,
+            "HPET": 35.415697716369095,
+            "PWCE": 47.225084296362255
+          },
+          "confidence": 0.6574139374958827
+        },
+        "FEP": {
+          "score": 70.50162630038736,
+          "components": {
+            "VFE": 88.11777967502532,
+            "LFED": 35.415697716369095,
+            "AIIG": 82.0993503848883
+          },
+          "confidence": 0.6563689184998149
+        },
+        "QIT": {
+          "score": 27.691523836360894,
+          "components": {
+            "LRMI": 26.70946768682129,
+            "CNC": 56.2226176221599,
+            "BCHSH": 0.469838249948017
+          },
+          "confidence": 0.18080842736034497
+        }
+      },
+      "unified": 60.20189895620066,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "treasureisland",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3588,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.301177313990447,
+          "components": {
+            "PLG": 1.5638512043875972,
+            "CGI": 51.61158769137087,
+            "PV": 0.17887702192694008
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68933037751361,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.2834698742505,
+            "IGC": 99.9701052904129
+          },
+          "confidence": 0.8606495499791651
+        },
+        "AST": {
+          "score": 99.96681844639244,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.86727378556975
+          },
+          "confidence": 0.9993740456897476
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 51.72189502988586,
+          "components": {
+            "PDE": 78.89546218750259,
+            "HPET": 31.762921289529505,
+            "PWCE": 43.30486937641543
+          },
+          "confidence": 0.6091409540469219
+        },
+        "FEP": {
+          "score": 69.26861630479291,
+          "components": {
+            "VFE": 88.54075548186312,
+            "LFED": 31.762921289529505,
+            "AIIG": 81.0781257506294
+          },
+          "confidence": 0.6247236749772449
+        },
+        "QIT": {
+          "score": 29.832061965071155,
+          "components": {
+            "LRMI": 24.898361973760885,
+            "CNC": 62.01384508445595,
+            "BCHSH": 4.228545500766718
+          },
+          "confidence": 0.21307129130671065
+        }
+      },
+      "unified": 59.96855706252092,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "undertheinfluence",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3967,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299209769759273,
+          "components": {
+            "PLG": 1.5639004412267203,
+            "CGI": 51.611299762682684,
+            "PV": 0.1693481017055297
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.6787980991868,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.93532299995422
+          },
+          "confidence": 0.8608254662340464
+        },
+        "AST": {
+          "score": 99.97162016478885,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88648065915535
+          },
+          "confidence": 0.9994646621246104
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 51.6803335755272,
+          "components": {
+            "PDE": 79.08995559949632,
+            "HPET": 41.64089907682273,
+            "PWCE": 31.415114796051796
+          },
+          "confidence": 0.5959091020208479
+        },
+        "FEP": {
+          "score": 71.800727613849,
+          "components": {
+            "VFE": 89.73559627050032,
+            "LFED": 41.64089907682273,
+            "AIIG": 78.04739794200684
+          },
+          "confidence": 0.7066131078059084
+        },
+        "QIT": {
+          "score": 27.54413464622789,
+          "components": {
+            "LRMI": 24.660059801435978,
+            "CNC": 57.05434869465397,
+            "BCHSH": 1.8793537241910268
+          },
+          "confidence": 0.18754284818760736
+        }
+      },
+      "unified": 59.99640340990557,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "vixenandtheussr",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 4338,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29980781345223,
+          "components": {
+            "PLG": 1.5638350530898122,
+            "CGI": 51.61109413175999,
+            "PV": 0.1728102368966419
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68143381657877,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.94410872459412
+          },
+          "confidence": 0.860780748961207
+        },
+        "AST": {
+          "score": 99.9702868939635,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88114757585403
+          },
+          "confidence": 0.9994395022444496
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 54.292214011491644,
+          "components": {
+            "PDE": 71.46754906707085,
+            "HPET": 43.0066431225088,
+            "PWCE": 47.42082248379592
+          },
+          "confidence": 0.7682446400901847
+        },
+        "FEP": {
+          "score": 72.51508106113148,
+          "components": {
+            "VFE": 87.62867734188448,
+            "LFED": 43.0066431225088,
+            "AIIG": 81.87205729208348
+          },
+          "confidence": 0.7202259103634189
+        },
+        "QIT": {
+          "score": 29.7586879513246,
+          "components": {
+            "LRMI": 25.172931780569336,
+            "CNC": 64.45712147658669,
+            "BCHSH": 1.174595987069522
+          },
+          "confidence": 0.13820487112852042
+        }
+      },
+      "unified": 60.78821593542032,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "waitingtogo",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3403,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29899600512153,
+          "components": {
+            "PLG": 1.5638658762165962,
+            "CGI": 51.61125732583722,
+            "PV": 0.16842934631032208
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.67991926255503,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.93906021118164
+          },
+          "confidence": 0.8608064443241934
+        },
+        "AST": {
+          "score": 99.97175587416723,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88702349666893
+          },
+          "confidence": 0.9994672230182642
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 53.565710431641065,
+          "components": {
+            "PDE": 74.8911709295939,
+            "HPET": 40.13268631198849,
+            "PWCE": 44.35786799029078
+          },
+          "confidence": 0.7085150916633904
+        },
+        "FEP": {
+          "score": 72.36831913377867,
+          "components": {
+            "VFE": 90.12067544078299,
+            "LFED": 40.13268631198849,
+            "AIIG": 80.93414354622972
+          },
+          "confidence": 0.691381827382811
+        },
+        "QIT": {
+          "score": 28.34168965090569,
+          "components": {
+            "LRMI": 24.502536968397933,
+            "CNC": 57.808623070580666,
+            "BCHSH": 3.9936264745743864
+          },
+          "confidence": 0.22915140113564636
+        }
+      },
+      "unified": 60.46091290830988,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "whenmothersbullyback",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 3642,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.30005210636882,
+          "components": {
+            "PLG": 1.5638506404209773,
+            "CGI": 51.611361742212814,
+            "PV": 0.17359131747242376
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68419112744608,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.95329976081848
+          },
+          "confidence": 0.8607339721045439
+        },
+        "AST": {
+          "score": 99.9716335592102,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.88653423684083
+          },
+          "confidence": 0.9994649148834472
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 58.84359100570167,
+          "components": {
+            "PDE": 80.41519132306708,
+            "HPET": 47.41134828215459,
+            "PWCE": 47.0143404795803
+          },
+          "confidence": 0.7314259297179145
+        },
+        "FEP": {
+          "score": 74.23348825135953,
+          "components": {
+            "VFE": 88.40638862172786,
+            "LFED": 47.41134828215459,
+            "AIIG": 82.15842772674006
+          },
+          "confidence": 0.751800099235938
+        },
+        "QIT": {
+          "score": 28.949713330367825,
+          "components": {
+            "LRMI": 26.170828416569215,
+            "CNC": 55.73162652813478,
+            "BCHSH": 5.872980017665673
+          },
+          "confidence": 0.30032364665510647
+        }
+      },
+      "unified": 61.568952768636315,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "wheretheressmoke",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 4034,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299416357022935,
+          "components": {
+            "PLG": 1.563858433298973,
+            "CGI": 51.61130291743877,
+            "PV": 0.1704813257090775
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.68717284980097,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.96323883533478
+          },
+          "confidence": 0.8606833920445729
+        },
+        "AST": {
+          "score": 99.96959106506127,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.87836426024505
+          },
+          "confidence": 0.9994263710446231
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 53.39232598758986,
+          "components": {
+            "PDE": 76.32801045626798,
+            "HPET": 36.425859921157134,
+            "PWCE": 46.428237851636894
+          },
+          "confidence": 0.6805234767612465
+        },
+        "FEP": {
+          "score": 70.25091841753861,
+          "components": {
+            "VFE": 88.50149672201393,
+            "LFED": 36.425859921157134,
+            "AIIG": 79.74187250795302
+          },
+          "confidence": 0.6662911839493402
+        },
+        "QIT": {
+          "score": 27.78302281540956,
+          "components": {
+            "LRMI": 23.720527595123336,
+            "CNC": 58.633513555268344,
+            "BCHSH": 2.349192369265749
+          },
+          "confidence": 0.17835722382014485
+        }
+      },
+      "unified": 60.05463535606045,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "wildwomenanddancingqueens",
+      "model_name": "mistralai/Mistral-7B-Instruct-v0.3",
+      "n_tokens_full": 2519,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29682417245147,
+          "components": {
+            "PLG": 1.5644095910462044,
+            "CGI": 51.59948536765246,
+            "PV": 0.17386883316314458
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.65733059230128,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.28314457028648,
+            "IGC": 99.86376464366913
+          },
+          "confidence": 0.8611897982928699
+        },
+        "AST": {
+          "score": 99.96978928027426,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.87915712109701
+          },
+          "confidence": 0.9994301116493007
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 56.83002815254338,
+          "components": {
+            "PDE": 78.65587562828885,
+            "HPET": 52.02355023881263,
+            "PWCE": 36.97409699685954
+          },
+          "confidence": 0.6916116501882936
+        },
+        "FEP": {
+          "score": 75.16866115636557,
+          "components": {
+            "VFE": 88.10896514456323,
+            "LFED": 52.02355023881263,
+            "AIIG": 81.06003342298833
+          },
+          "confidence": 0.7881916845090471
+        },
+        "QIT": {
+          "score": 28.15492146753115,
+          "components": {
+            "LRMI": 25.652516800915304,
+            "CNC": 55.1829180294455,
+            "BCHSH": 4.4634644611046
+          },
+          "confidence": 0.2684807777993955
+        }
+      },
+      "unified": 61.29679354592387,
+      "duration_seconds": 1.6
+    }
+  ]
+}

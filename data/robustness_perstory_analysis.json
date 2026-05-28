@@ -1,0 +1,194 @@
+{
+  "IIT": {
+    "pearson_r": 0.18088926728826837,
+    "pearson_p": 0.11787603405322286,
+    "spearman_r": 0.14985645933014352,
+    "spearman_p": 0.1963305616953615,
+    "permutation_p": 0.1182,
+    "split_r1": 0.3087696305114719,
+    "split_r2": 0.09798653593685394,
+    "n_stories": 76,
+    "model_avg_per_subject": {
+      "UTS01": 0.10321901612852025,
+      "UTS02": 0.029741343630863587,
+      "UTS03": 0.17421648826579822
+    },
+    "per_model_subject_avg": {
+      "meta-llama/Llama-3.1-8B-Instruct": 0.02489643983297358,
+      "microsoft/Phi-3-mini-4k-instruct": 0.19031781038517964,
+      "mistralai/Mistral-7B-Instruct-v0.3": -0.0962227642244595,
+      "mistralai/Mistral-Nemo-Instruct-2407": -0.07869807031238603
+    },
+    "between_story_sd": 0.10513960029747257,
+    "within_story_sd": 0.25496760737021,
+    "variance_ratio": 0.4123645390469015
+  },
+  "GWT": {
+    "pearson_r": 0.3647118190157716,
+    "pearson_p": 0.0011989339049643102,
+    "spearman_r": 0.3229254955570745,
+    "spearman_p": 0.004438437125675488,
+    "permutation_p": 0.0008,
+    "split_r1": 0.3722868088003642,
+    "split_r2": 0.3727022143673406,
+    "n_stories": 76,
+    "model_avg_per_subject": {
+      "UTS01": 0.32444381419804774,
+      "UTS02": 0.3757377547864298,
+      "UTS03": 0.3804903992590663
+    },
+    "per_model_subject_avg": {
+      "meta-llama/Llama-3.1-8B-Instruct": 0.06669461279782354,
+      "microsoft/Phi-3-mini-4k-instruct": 0.1726199608981984,
+      "mistralai/Mistral-7B-Instruct-v0.3": -0.18542038799957736,
+      "mistralai/Mistral-Nemo-Instruct-2407": 0.4278164307889639
+    },
+    "between_story_sd": 0.07688866447781093,
+    "within_story_sd": 1.4205244934868944,
+    "variance_ratio": 0.05412695435820962
+  },
+  "AST": {
+    "pearson_r": 0.04271309448271991,
+    "pearson_p": 0.7140963767529387,
+    "spearman_r": 0.08131237183868763,
+    "spearman_p": 0.48500574564842625,
+    "permutation_p": 0.7184,
+    "split_r1": 0.02941315397464382,
+    "split_r2": 0.0854104335599151,
+    "n_stories": 76,
+    "model_avg_per_subject": {
+      "UTS01": -0.06452657788682939,
+      "UTS02": -0.057373572503771786,
+      "UTS03": 0.1968137523895911
+    },
+    "per_model_subject_avg": {
+      "meta-llama/Llama-3.1-8B-Instruct": -0.07570049887540209,
+      "microsoft/Phi-3-mini-4k-instruct": 0.016948347944385128,
+      "mistralai/Mistral-7B-Instruct-v0.3": -0.03943155793972285,
+      "mistralai/Mistral-Nemo-Instruct-2407": 0.1179504963486003
+    },
+    "between_story_sd": 0.049395166448822345,
+    "within_story_sd": 0.4382987638087588,
+    "variance_ratio": 0.11269748038275841
+  },
+  "HOT": {
+    "pearson_r": 0.10123822771749613,
+    "pearson_p": 0.3841987924345217,
+    "spearman_r": -0.08950714355453118,
+    "spearman_p": 0.4419418734261054,
+    "permutation_p": 0.4042,
+    "split_r1": 0.0907143139295582,
+    "split_r2": 0.11457898829434408,
+    "n_stories": 76,
+    "model_avg_per_subject": {
+      "UTS01": 0.12666441249748087,
+      "UTS02": -0.015323175114133454,
+      "UTS03": 0.08739054078858902
+    },
+    "per_model_subject_avg": {
+      "meta-llama/Llama-3.1-8B-Instruct": NaN,
+      "microsoft/Phi-3-mini-4k-instruct": -0.09279943674354527,
+      "mistralai/Mistral-7B-Instruct-v0.3": NaN,
+      "mistralai/Mistral-Nemo-Instruct-2407": 0.11974955622733946
+    },
+    "between_story_sd": 1.6710254249411094,
+    "within_story_sd": 7.292725363576241,
+    "variance_ratio": 0.2291359322343284
+  },
+  "PPT": {
+    "pearson_r": 0.03779222026854212,
+    "pearson_p": 0.7458468415944466,
+    "spearman_r": 0.08850307587149693,
+    "spearman_p": 0.44710011964160884,
+    "permutation_p": 0.7442,
+    "split_r1": 0.013853448937843344,
+    "split_r2": 0.027353887067224244,
+    "n_stories": 76,
+    "model_avg_per_subject": {
+      "UTS01": 0.172201303512436,
+      "UTS02": -0.05381216277269682,
+      "UTS03": -0.01731863315876997
+    },
+    "per_model_subject_avg": {
+      "meta-llama/Llama-3.1-8B-Instruct": 0.12386908976669486,
+      "microsoft/Phi-3-mini-4k-instruct": 0.008739161197618781,
+      "mistralai/Mistral-7B-Instruct-v0.3": -0.08172013989593403,
+      "mistralai/Mistral-Nemo-Instruct-2407": 0.09042047245615037
+    },
+    "between_story_sd": 2.5378779262914004,
+    "within_story_sd": 4.471582003378643,
+    "variance_ratio": 0.5675570578390983
+  },
+  "QIT": {
+    "pearson_r": -0.06304620268231935,
+    "pearson_p": 0.5884705495321585,
+    "spearman_r": -0.06764316312471,
+    "spearman_p": 0.5615155938969518,
+    "permutation_p": 0.5834,
+    "split_r1": -0.1028812953780307,
+    "split_r2": 0.016330101352069967,
+    "n_stories": 76,
+    "model_avg_per_subject": {
+      "UTS01": -0.05578751758780991,
+      "UTS02": -0.09210447266234036,
+      "UTS03": 0.03526123957128441
+    },
+    "per_model_subject_avg": {
+      "meta-llama/Llama-3.1-8B-Instruct": -0.08295880267314347,
+      "microsoft/Phi-3-mini-4k-instruct": 0.12691198850600988,
+      "mistralai/Mistral-7B-Instruct-v0.3": -0.14913800031634447,
+      "mistralai/Mistral-Nemo-Instruct-2407": -0.03676088750061878
+    },
+    "between_story_sd": 0.8332019162808094,
+    "within_story_sd": 3.943118287975151,
+    "variance_ratio": 0.21130533126800147
+  },
+  "FEP": {
+    "pearson_r": -0.1665997428598318,
+    "pearson_p": 0.15032457010030592,
+    "spearman_r": 0.05107313738892686,
+    "spearman_p": 0.6612759021857723,
+    "permutation_p": 0.1524,
+    "split_r1": 0.02445998342577163,
+    "split_r2": -0.3091027163849132,
+    "n_stories": 76,
+    "model_avg_per_subject": {
+      "UTS01": 0.03868892783345172,
+      "UTS02": -0.2768783062779888,
+      "UTS03": -0.1375795992737344
+    },
+    "per_model_subject_avg": {
+      "meta-llama/Llama-3.1-8B-Instruct": 0.13230971667965535,
+      "microsoft/Phi-3-mini-4k-instruct": -0.181898071877114,
+      "mistralai/Mistral-7B-Instruct-v0.3": -0.27176579036925463,
+      "mistralai/Mistral-Nemo-Instruct-2407": -0.13559686989817113
+    },
+    "between_story_sd": 1.2796285791976811,
+    "within_story_sd": 3.2251062079760175,
+    "variance_ratio": 0.3967709886999249
+  },
+  "unified": {
+    "pearson_r": -0.08671227224182382,
+    "pearson_p": 0.45638282839296773,
+    "spearman_r": -0.00456596035543404,
+    "spearman_p": 0.968774295074513,
+    "permutation_p": 0.4468,
+    "split_r1": 0.05123095623075499,
+    "split_r2": -0.2939472268551718,
+    "n_stories": 76,
+    "model_avg_per_subject": {
+      "UTS01": 0.1797872353188872,
+      "UTS02": -0.0976949703860604,
+      "UTS03": -0.2186629082440853
+    },
+    "per_model_subject_avg": {
+      "meta-llama/Llama-3.1-8B-Instruct": 0.029361819966057225,
+      "microsoft/Phi-3-mini-4k-instruct": -0.1377865363575228,
+      "mistralai/Mistral-7B-Instruct-v0.3": -0.19055330369385307,
+      "mistralai/Mistral-Nemo-Instruct-2407": 0.05539390552010931
+    },
+    "between_story_sd": 0.5879520970164892,
+    "within_story_sd": 1.3077571085661337,
+    "variance_ratio": 0.44958814807097497
+  }
+}

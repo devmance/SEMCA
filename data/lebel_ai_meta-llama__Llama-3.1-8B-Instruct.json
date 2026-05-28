@@ -1,0 +1,6002 @@
+{
+  "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+  "stimulus_set": "lebel_ds003020_stories",
+  "max_story_tokens": 1500,
+  "n_stories_processed": 81,
+  "results": [
+    {
+      "story": "adollshouse",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2508,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.296572764146205,
+          "components": {
+            "PLG": 1.5639195965764894,
+            "CGI": 51.611459188404126,
+            "PV": 0.15587604668360944
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81597898115245,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.9778300523758
+          },
+          "confidence": 0.8619933156337359
+        },
+        "AST": {
+          "score": 99.96050359907765,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.84201439631062
+          },
+          "confidence": 0.9992548563154264
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 58.15964648817114,
+          "components": {
+            "PDE": 78.1445930329425,
+            "HPET": 50.44583998889494,
+            "PWCE": 43.84331643509349
+          },
+          "confidence": 0.741464921936136
+        },
+        "FEP": {
+          "score": 72.48541995692979,
+          "components": {
+            "VFE": 84.92081070570207,
+            "LFED": 50.44583998889494,
+            "AIIG": 77.9444789266016
+          },
+          "confidence": 0.7906947024558499
+        },
+        "QIT": {
+          "score": 18.47021833710031,
+          "components": {
+            "LRMI": 26.139905094823966,
+            "CNC": 26.59672828251514,
+            "BCHSH": 0.11745938138726456
+          },
+          "confidence": 0.2975277365373523
+        }
+      },
+      "unified": 59.741191446653936,
+      "duration_seconds": 2.1
+    },
+    {
+      "story": "adventuresinsayingyes",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 3422,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.294578878143007,
+          "components": {
+            "PLG": 1.5639431438964548,
+            "CGI": 51.61180411615474,
+            "PV": 0.14533035674180442
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.8190000425729,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.9879002571106
+          },
+          "confidence": 0.861942113550088
+        },
+        "AST": {
+          "score": 99.96484657822134,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85938631288536
+          },
+          "confidence": 0.9993368298861076
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 63.512728309939504,
+          "components": {
+            "PDE": 80.73362472028853,
+            "HPET": 59.77228247935511,
+            "PWCE": 47.78553596688078
+          },
+          "confidence": 0.7830546793470924
+        },
+        "FEP": {
+          "score": 75.68851557316076,
+          "components": {
+            "VFE": 84.59642250084005,
+            "LFED": 59.77228247935511,
+            "AIIG": 79.72753943006067
+          },
+          "confidence": 0.856220562916806
+        },
+        "QIT": {
+          "score": 18.84665876795459,
+          "components": {
+            "LRMI": 24.954726817087742,
+            "CNC": 28.139711395343088,
+            "BCHSH": 1.409515408388559
+          },
+          "confidence": 0.34383747558343924
+        }
+      },
+      "unified": 61.0180468785703,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "afatherscover",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 1944,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.307569297771398,
+          "components": {
+            "PLG": 1.5626713303122604,
+            "CGI": 51.610520789130646,
+            "PV": 0.21538697938038437
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81558827270595,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.97652769088745
+          },
+          "confidence": 0.8619999378069502
+        },
+        "AST": {
+          "score": 99.96487169732156,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85948678928624
+          },
+          "confidence": 0.9993373039805686
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 61.99934435893114,
+          "components": {
+            "PDE": 81.19587037517519,
+            "HPET": 61.383529955422844,
+            "PWCE": 40.321847477406116
+          },
+          "confidence": 0.726256409972472
+        },
+        "FEP": {
+          "score": 78.18354054824988,
+          "components": {
+            "VFE": 89.96561336369865,
+            "LFED": 61.383529955422844,
+            "AIIG": 79.27412072047856
+          },
+          "confidence": 0.8466158395204607
+        },
+        "QIT": {
+          "score": 18.302368352603597,
+          "components": {
+            "LRMI": 24.993180099561364,
+            "CNC": 26.509058454715095,
+            "BCHSH": 1.1745959212150712
+          },
+          "confidence": 0.3392540923869134
+        }
+      },
+      "unified": 61.0818975039405,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "againstthewind",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 1350,
+      "n_tokens_encoded": 1351,
+      "truncated": false,
+      "theories": {
+        "IIT": {
+          "score": 16.297074409291337,
+          "components": {
+            "PLG": 1.5636866302535273,
+            "CGI": 51.611569280264945,
+            "PV": 0.15880155042544447
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.71151652762309,
+          "components": {
+            "CGAS": 75.12953367875647,
+            "NDE": 75.54444624352331,
+            "IGC": 99.98789727687836
+          },
+          "confidence": 0.8609068468467543
+        },
+        "AST": {
+          "score": 99.9643895488378,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85755819535119
+          },
+          "confidence": 0.9993282039205694
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 56.979474649668376,
+          "components": {
+            "PDE": 77.74212709387803,
+            "HPET": 53.08992955626023,
+            "PWCE": 37.29418274039995
+          },
+          "confidence": 0.7030048284181013
+        },
+        "FEP": {
+          "score": 73.75341511437735,
+          "components": {
+            "VFE": 84.58228378233017,
+            "LFED": 53.08992955626023,
+            "AIIG": 79.97840911522405
+          },
+          "confidence": 0.8085703350770733
+        },
+        "QIT": {
+          "score": 21.197362482249098,
+          "components": {
+            "LRMI": 27.11034928368241,
+            "CNC": 27.98761726176604,
+            "BCHSH": 6.523125300821067
+          },
+          "confidence": 0.517138406809984
+        }
+      },
+      "unified": 60.129033247435295,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "alternateithicatom",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 4036,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.291839175491546,
+          "components": {
+            "PLG": 1.56395737277737,
+            "CGI": 51.61165161225966,
+            "PV": 0.13182502712483724
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.82009885419933,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.99156296253204
+          },
+          "confidence": 0.8619234914957232
+        },
+        "AST": {
+          "score": 99.96714950265698,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.86859801062795
+          },
+          "confidence": 0.9993802936461984
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 59.56680702344353,
+          "components": {
+            "PDE": 83.32920946861407,
+            "HPET": 49.530635201254704,
+            "PWCE": 43.55287129663154
+          },
+          "confidence": 0.7021873830637704
+        },
+        "FEP": {
+          "score": 73.41413708794157,
+          "components": {
+            "VFE": 87.93551568928257,
+            "LFED": 49.530635201254704,
+            "AIIG": 77.93580083950712
+          },
+          "confidence": 0.7734305121413433
+        },
+        "QIT": {
+          "score": 20.125653054403656,
+          "components": {
+            "LRMI": 26.72828803121728,
+            "CNC": 27.454166397669216,
+            "BCHSH": 3.993626408719935
+          },
+          "confidence": 0.43830805672515694
+        }
+      },
+      "unified": 60.31224067116237,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "avatar",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2787,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299614290171878,
+          "components": {
+            "PLG": 1.563347398385695,
+            "CGI": 51.611383118228616,
+            "PV": 0.17262827755223295
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81691507209865,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98095035552979
+          },
+          "confidence": 0.8619774499739692
+        },
+        "AST": {
+          "score": 99.96462956468005,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85851825872022
+          },
+          "confidence": 0.9993327339889895
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 60.625919915988746,
+          "components": {
+            "PDE": 77.47780985182456,
+            "HPET": 57.335375384733965,
+            "PWCE": 44.80435027731088
+          },
+          "confidence": 0.7752058905316866
+        },
+        "FEP": {
+          "score": 74.60843017322085,
+          "components": {
+            "VFE": 83.08002068209598,
+            "LFED": 57.335375384733965,
+            "AIIG": 80.58603094987424
+          },
+          "confidence": 0.8426286165405148
+        },
+        "QIT": {
+          "score": 19.526384693212478,
+          "components": {
+            "LRMI": 26.91070549054022,
+            "CNC": 27.092735556474317,
+            "BCHSH": 2.114272766846972
+          },
+          "confidence": 0.37280281343723454
+        }
+      },
+      "unified": 60.548841958481816,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "backsideofthestorm",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 3001,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.296044512219645,
+          "components": {
+            "PLG": 1.5637681309670497,
+            "CGI": 51.61152851850256,
+            "PV": 0.1535094559267624
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81773046363918,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98366832733154
+          },
+          "confidence": 0.8619636303507506
+        },
+        "AST": {
+          "score": 99.9650284760101,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.86011390404043
+          },
+          "confidence": 0.9993402629929076
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 64.11742454899235,
+          "components": {
+            "PDE": 80.34231114871476,
+            "HPET": 60.684172931585536,
+            "PWCE": 49.193850402957494
+          },
+          "confidence": 0.797163482699891
+        },
+        "FEP": {
+          "score": 76.44156970765508,
+          "components": {
+            "VFE": 85.15815177101969,
+            "LFED": 60.684172931585536,
+            "AIIG": 80.57685706590512
+          },
+          "confidence": 0.8592443525328045
+        },
+        "QIT": {
+          "score": 18.649388019918163,
+          "components": {
+            "LRMI": 25.89011933031892,
+            "CNC": 26.93971006994688,
+            "BCHSH": 0.7047575560217653
+          },
+          "confidence": 0.32039506186298106
+        }
+      },
+      "unified": 61.183883675490634,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "becomingindian",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 4049,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299228076697066,
+          "components": {
+            "PLG": 1.5635052448387476,
+            "CGI": 51.611421101582025,
+            "PV": 0.17024561901540783
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81641349901287,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.97927844524384
+          },
+          "confidence": 0.861985951009139
+        },
+        "AST": {
+          "score": 99.96438515412518,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85754061650074
+          },
+          "confidence": 0.9993281209743209
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 65.58498409760207,
+          "components": {
+            "PDE": 80.70710459603913,
+            "HPET": 65.09342548642039,
+            "PWCE": 48.515995229137474
+          },
+          "confidence": 0.797074462752492
+        },
+        "FEP": {
+          "score": 77.77986647291354,
+          "components": {
+            "VFE": 84.77303468219908,
+            "LFED": 65.09342548642039,
+            "AIIG": 81.1420831803593
+          },
+          "confidence": 0.888956054393416
+        },
+        "QIT": {
+          "score": 19.202401124629894,
+          "components": {
+            "LRMI": 26.56953078082657,
+            "CNC": 26.702609197500145,
+            "BCHSH": 1.8793535101640617
+          },
+          "confidence": 0.36517288358707034
+        }
+      },
+      "unified": 61.66389691785438,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "beneaththemushroomcloud",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 3104,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.296756435872496,
+          "components": {
+            "PLG": 1.5638555351104984,
+            "CGI": 51.61153633956334,
+            "PV": 0.15683883224124873
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81468718807194,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69823242838109,
+            "IGC": 99.97319877147675
+          },
+          "confidence": 0.8620179368819291
+        },
+        "AST": {
+          "score": 99.96261940677246,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85047762708984
+          },
+          "confidence": 0.9992947932939072
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 64.05772782732274,
+          "components": {
+            "PDE": 83.43386834132754,
+            "HPET": 60.286160972574585,
+            "PWCE": 45.85239189152334
+          },
+          "confidence": 0.7550365283454181
+        },
+        "FEP": {
+          "score": 76.7895655397927,
+          "components": {
+            "VFE": 86.97640162435518,
+            "LFED": 60.286160972574585,
+            "AIIG": 79.7105219942609
+          },
+          "confidence": 0.8510818557197077
+        },
+        "QIT": {
+          "score": 19.30970483152393,
+          "components": {
+            "LRMI": 25.87541732048949,
+            "CNC": 26.106419208853698,
+            "BCHSH": 3.7587071355734123
+          },
+          "confidence": 0.43591566733400466
+        }
+      },
+      "unified": 61.318723032765185,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "birthofanation",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2470,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.297261689553096,
+          "components": {
+            "PLG": 1.563783144812908,
+            "CGI": 51.61162373300674,
+            "PV": 0.15941498622310882
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81639472354976,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.97921586036682
+          },
+          "confidence": 0.8619862692319035
+        },
+        "AST": {
+          "score": 99.96107966860276,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.84431867441104
+          },
+          "confidence": 0.9992657301528024
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 59.874951370618675,
+          "components": {
+            "PDE": 81.4710443257562,
+            "HPET": 47.14801612639597,
+            "PWCE": 49.52760070788473
+          },
+          "confidence": 0.7364642342743917
+        },
+        "FEP": {
+          "score": 73.00065105332004,
+          "components": {
+            "VFE": 87.24718800103123,
+            "LFED": 47.14801612639597,
+            "AIIG": 79.85790338329586
+          },
+          "confidence": 0.756021525071777
+        },
+        "QIT": {
+          "score": 17.715741782412277,
+          "components": {
+            "LRMI": 23.594281996857923,
+            "CNC": 26.88867234015109,
+            "BCHSH": 0.7047576054126033
+          },
+          "confidence": 0.3175325344473746
+        }
+      },
+      "unified": 59.95229718400809,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "bluehope",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 3100,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299411231737896,
+          "components": {
+            "PLG": 1.5634116598695458,
+            "CGI": 51.61129603104104,
+            "PV": 0.1715829624540495
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.8159396420869,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.97769892215729
+          },
+          "confidence": 0.8619939823940637
+        },
+        "AST": {
+          "score": 99.96477434240416,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85909736961659
+          },
+          "confidence": 0.999335466515406
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 60.29260795781966,
+          "components": {
+            "PDE": 77.66431666252731,
+            "HPET": 56.51432652926679,
+            "PWCE": 44.43360946897243
+          },
+          "confidence": 0.769325551695009
+        },
+        "FEP": {
+          "score": 75.18772082105527,
+          "components": {
+            "VFE": 84.63268028405105,
+            "LFED": 56.51432652926679,
+            "AIIG": 81.26783582884934
+          },
+          "confidence": 0.8308903291534968
+        },
+        "QIT": {
+          "score": 19.03076542486074,
+          "components": {
+            "LRMI": 26.318962029079785,
+            "CNC": 25.289985797877772,
+            "BCHSH": 3.0539495795516474
+          },
+          "confidence": 0.4109574630881957
+        }
+      },
+      "unified": 60.51303134570924,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "breakingupintheageofgoogle",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 5089,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29549244954121,
+          "components": {
+            "PLG": 1.5639305354569901,
+            "CGI": 51.61161010509662,
+            "PV": 0.1502207514186583
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81695619930355,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98108744621277
+          },
+          "confidence": 0.8619767529244104
+        },
+        "AST": {
+          "score": 99.9632024380102,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85280975204083
+          },
+          "confidence": 0.9993057979177015
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 58.41735347214943,
+          "components": {
+            "PDE": 77.48380806064854,
+            "HPET": 52.55939222694723,
+            "PWCE": 43.00744457163635
+          },
+          "confidence": 0.7480422958053954
+        },
+        "FEP": {
+          "score": 72.88342771042174,
+          "components": {
+            "VFE": 83.83490798088687,
+            "LFED": 52.55939222694723,
+            "AIIG": 78.60548949994276
+          },
+          "confidence": 0.8091374971816392
+        },
+        "QIT": {
+          "score": 17.943986741435122,
+          "components": {
+            "LRMI": 24.270579172056923,
+            "CNC": 25.338244108933644,
+            "BCHSH": 2.1142727997741972
+          },
+          "confidence": 0.37909104028506424
+        }
+      },
+      "unified": 59.760059858694476,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "buck",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2593,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.296367529089455,
+          "components": {
+            "PLG": 1.5638656251385359,
+            "CGI": 51.61143973278802,
+            "PV": 0.15501398341891365
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81653777469722,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.97969269752502
+          },
+          "confidence": 0.8619838446815044
+        },
+        "AST": {
+          "score": 99.96363566301213,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85454265204852
+          },
+          "confidence": 0.9993139748612763
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 62.17041907795325,
+          "components": {
+            "PDE": 77.56866965261973,
+            "HPET": 58.95917342699749,
+            "PWCE": 47.95224666695742
+          },
+          "confidence": 0.801231858432147
+        },
+        "FEP": {
+          "score": 75.23194789048165,
+          "components": {
+            "VFE": 84.89579318646277,
+            "LFED": 58.95917342699749,
+            "AIIG": 78.61959529265768
+          },
+          "confidence": 0.8510139580103295
+        },
+        "QIT": {
+          "score": 18.17923743530238,
+          "components": {
+            "LRMI": 23.586471310983338,
+            "CNC": 27.73931449220494,
+            "BCHSH": 1.4095152108252067
+          },
+          "confidence": 0.34248004933984577
+        }
+      },
+      "unified": 60.665449338648,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "catfishingstrangerstofindmyself",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2668,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.298110567705596,
+          "components": {
+            "PLG": 1.5633928856740535,
+            "CGI": 51.61143084133588,
+            "PV": 0.16492436233902066
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81829640974132,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98555481433868
+          },
+          "confidence": 0.8619540386169809
+        },
+        "AST": {
+          "score": 99.964150751706,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.856603006824
+          },
+          "confidence": 0.9993236968253508
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 63.568154541641036,
+          "components": {
+            "PDE": 77.63549440675968,
+            "HPET": 63.59468787594948,
+            "PWCE": 47.1253024756428
+          },
+          "confidence": 0.8014040311290145
+        },
+        "FEP": {
+          "score": 78.1709818033175,
+          "components": {
+            "VFE": 85.98554325335054,
+            "LFED": 63.59468787594948,
+            "AIIG": 82.32786046397477
+          },
+          "confidence": 0.873130281987361
+        },
+        "QIT": {
+          "score": 19.250935068270937,
+          "components": {
+            "LRMI": 26.793210002467426,
+            "CNC": 25.8613923597185,
+            "BCHSH": 2.5841111978947287
+          },
+          "confidence": 0.39177928666969863
+        }
+      },
+      "unified": 61.438661306054634,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "cautioneating",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2460,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.296180781105036,
+          "components": {
+            "PLG": 1.5639410602870212,
+            "CGI": 51.61185602988656,
+            "PV": 0.15326720997779078
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81652346958248,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.9796450138092
+          },
+          "confidence": 0.8619840871361302
+        },
+        "AST": {
+          "score": 99.96192562815072,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.8477025126029
+          },
+          "confidence": 0.9992816981074475
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 57.05413438379711,
+          "components": {
+            "PDE": 77.17138941016371,
+            "HPET": 45.22989613122744,
+            "PWCE": 47.3789481477007
+          },
+          "confidence": 0.7424213604643956
+        },
+        "FEP": {
+          "score": 71.50710300943166,
+          "components": {
+            "VFE": 83.20731281591051,
+            "LFED": 45.22989613122744,
+            "AIIG": 82.18403014566407
+          },
+          "confidence": 0.7483661778727566
+        },
+        "QIT": {
+          "score": 20.255558378383032,
+          "components": {
+            "LRMI": 26.232957393583906,
+            "CNC": 29.48730188946771,
+            "BCHSH": 3.0539495136971966
+          },
+          "confidence": 0.39927852053409363
+        }
+      },
+      "unified": 59.69877509292144,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "christmas1940",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 1983,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.297099787665307,
+          "components": {
+            "PLG": 1.5636801228477277,
+            "CGI": 51.61135672983163,
+            "PV": 0.1592635364597853
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81611040939418,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.97826814651489
+          },
+          "confidence": 0.861991088053142
+        },
+        "AST": {
+          "score": 99.96292999998911,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85171999995647
+          },
+          "confidence": 0.9993006557137966
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 63.990855017695154,
+          "components": {
+            "PDE": 80.70660988405733,
+            "HPET": 58.73050593274273,
+            "PWCE": 50.62621493938379
+          },
+          "confidence": 0.7994128847169693
+        },
+        "FEP": {
+          "score": 76.20159577534857,
+          "components": {
+            "VFE": 85.45967151071821,
+            "LFED": 58.73050593274273,
+            "AIIG": 81.32858463746156
+          },
+          "confidence": 0.8437173131551605
+        },
+        "QIT": {
+          "score": 18.982412718411364,
+          "components": {
+            "LRMI": 27.221745093257,
+            "CNC": 26.274291331615945,
+            "BCHSH": 0.7047576054126033
+          },
+          "confidence": 0.3201389740590438
+        }
+      },
+      "unified": 61.17871481550053,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "cocoonoflove",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2990,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.301435569368234,
+          "components": {
+            "PLG": 1.5634458839805403,
+            "CGI": 51.611514775829534,
+            "PV": 0.18129097314552067
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81519935239879,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.97523128986359
+          },
+          "confidence": 0.8620065297409137
+        },
+        "AST": {
+          "score": 99.96005409946883,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.84021639787532
+          },
+          "confidence": 0.9992463714845052
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 60.72610260788025,
+          "components": {
+            "PDE": 77.33575106180575,
+            "HPET": 53.840883752845805,
+            "PWCE": 49.38093474250736
+          },
+          "confidence": 0.7962522395770815
+        },
+        "FEP": {
+          "score": 73.80413582379867,
+          "components": {
+            "VFE": 84.11182294708559,
+            "LFED": 53.840883752845805,
+            "AIIG": 80.02380506370234
+          },
+          "confidence": 0.8154311832320811
+        },
+        "QIT": {
+          "score": 19.00702479515316,
+          "components": {
+            "LRMI": 26.016297512041348,
+            "CNC": 27.493756779094785,
+            "BCHSH": 1.1745958553606204
+          },
+          "confidence": 0.33763094776120117
+        }
+      },
+      "unified": 60.373421749723995,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "comingofageondeathrow",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 3420,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.296987615589483,
+          "components": {
+            "PLG": 1.5637865648453666,
+            "CGI": 51.61137114038975,
+            "PV": 0.1584149552493875
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81582698930828,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.9773234128952
+          },
+          "confidence": 0.8619958917570341
+        },
+        "AST": {
+          "score": 99.96224091488632,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.84896365954528
+          },
+          "confidence": 0.9992876492268794
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 62.7546517788853,
+          "components": {
+            "PDE": 81.9779302890598,
+            "HPET": 58.49002895203681,
+            "PWCE": 45.30288681500497
+          },
+          "confidence": 0.7550514630544881
+        },
+        "FEP": {
+          "score": 75.39261033481941,
+          "components": {
+            "VFE": 85.11214646307766,
+            "LFED": 58.49002895203681,
+            "AIIG": 79.33581021325764
+          },
+          "confidence": 0.8461351068738382
+        },
+        "QIT": {
+          "score": 19.39623440733302,
+          "components": {
+            "LRMI": 25.22537123636685,
+            "CNC": 25.147306588779166,
+            "BCHSH": 5.872979787175096
+          },
+          "confidence": 0.5143912808896096
+        }
+      },
+      "unified": 60.94550743440311,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "eyespy",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 3571,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29566177400003,
+          "components": {
+            "PLG": 1.563934031301459,
+            "CGI": 51.61169291462587,
+            "PV": 0.15093441980771302
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81702414859859,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98131394386292
+          },
+          "confidence": 0.8619756012789799
+        },
+        "AST": {
+          "score": 99.96366798685877,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85467194743507
+          },
+          "confidence": 0.9993145849567866
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 49.60672402111167,
+          "components": {
+            "PDE": 77.22119082962428,
+            "HPET": 55.541295154085326,
+            "PWCE": 10.466179756044372
+          },
+          "confidence": 0.4176115588160082
+        },
+        "FEP": {
+          "score": 72.65939822660783,
+          "components": {
+            "VFE": 81.46527095894753,
+            "LFED": 55.541295154085326,
+            "AIIG": 78.03633765601079
+          },
+          "confidence": 0.8395947321121526
+        },
+        "QIT": {
+          "score": 19.41606072375957,
+          "components": {
+            "LRMI": 24.995287218938216,
+            "CNC": 27.869364760217934,
+            "BCHSH": 3.5237880270630164
+          },
+          "confidence": 0.42207605753089217
+        }
+      },
+      "unified": 58.67979098299093,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "firetestforlove",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 3424,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29569657667202,
+          "components": {
+            "PLG": 1.5639333699762785,
+            "CGI": 51.61170899139569,
+            "PV": 0.15108597132588625
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81814531196682,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98505115509033
+          },
+          "confidence": 0.8619565994291235
+        },
+        "AST": {
+          "score": 99.96242395541333,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.84969582165333
+          },
+          "confidence": 0.9992911041416376
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 59.053540783624506,
+          "components": {
+            "PDE": 79.13392080038794,
+            "HPET": 49.974446798242745,
+            "PWCE": 46.21870708034591
+          },
+          "confidence": 0.7482773588796701
+        },
+        "FEP": {
+          "score": 72.57979771006592,
+          "components": {
+            "VFE": 84.4969452702113,
+            "LFED": 49.974446798242745,
+            "AIIG": 79.29561854169526
+          },
+          "confidence": 0.7867232548195313
+        },
+        "QIT": {
+          "score": 18.715129651114015,
+          "components": {
+            "LRMI": 24.43395884048028,
+            "CNC": 27.45596185751259,
+            "BCHSH": 2.349191858893755
+          },
+          "confidence": 0.3809985881650545
+        }
+      },
+      "unified": 59.91781914126523,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "food",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 3255,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29750341833531,
+          "components": {
+            "PLG": 1.56369164360812,
+            "CGI": 51.61175534840409,
+            "PV": 0.16065496005012211
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81689719070522,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98089075088501
+          },
+          "confidence": 0.8619777530392321
+        },
+        "AST": {
+          "score": 99.96258806386213,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.8503522554485
+          },
+          "confidence": 0.9992942016965083
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 61.15362689723554,
+          "components": {
+            "PDE": 79.50936038666971,
+            "HPET": 59.00765741101331,
+            "PWCE": 42.24223556015492
+          },
+          "confidence": 0.7470717678127075
+        },
+        "FEP": {
+          "score": 76.66402597348262,
+          "components": {
+            "VFE": 88.04790768851164,
+            "LFED": 59.00765741101331,
+            "AIIG": 79.14188558257989
+          },
+          "confidence": 0.8388916850249216
+        },
+        "QIT": {
+          "score": 18.331567295296033,
+          "components": {
+            "LRMI": 24.048685201881877,
+            "CNC": 27.63079557017352,
+            "BCHSH": 1.4095151449707557
+          },
+          "confidence": 0.34398857525427384
+        }
+      },
+      "unified": 60.74660126270241,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "forgettingfear",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 1940,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29448309696239,
+          "components": {
+            "PLG": 1.5638566347390963,
+            "CGI": 51.61165597976952,
+            "PV": 0.14528992830994844
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81800226081936,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98457431793213
+          },
+          "confidence": 0.8619590238761153
+        },
+        "AST": {
+          "score": 99.964881093136,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85952437254403
+          },
+          "confidence": 0.9993374813158035
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 62.84361353736455,
+          "components": {
+            "PDE": 77.13414150068692,
+            "HPET": 63.132227887392425,
+            "PWCE": 45.834614171789276
+          },
+          "confidence": 0.7936351266057646
+        },
+        "FEP": {
+          "score": 76.16946203038323,
+          "components": {
+            "VFE": 82.7712256075478,
+            "LFED": 63.132227887392425,
+            "AIIG": 80.40434473715462
+          },
+          "confidence": 0.8839607552036008
+        },
+        "QIT": {
+          "score": 18.931824536102553,
+          "components": {
+            "LRMI": 23.474491145301652,
+            "CNC": 24.759184469231403,
+            "BCHSH": 7.04757579070823
+          },
+          "confidence": 0.5624048875979037
+        }
+      },
+      "unified": 61.00318093639544,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "fromboyhoodtofatherhood",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 4518,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.295190455866155,
+          "components": {
+            "PLG": 1.5637391012306976,
+            "CGI": 51.61155094788283,
+            "PV": 0.1492781044297941
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.8185682069215,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98646080493927
+          },
+          "confidence": 0.8619494322115134
+        },
+        "AST": {
+          "score": 99.96220097602239,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.84880390408954
+          },
+          "confidence": 0.9992868953731667
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 55.8407623177987,
+          "components": {
+            "PDE": 77.73265815852017,
+            "HPET": 46.709411054174545,
+            "PWCE": 40.95346031118517
+          },
+          "confidence": 0.7070109574930703
+        },
+        "FEP": {
+          "score": 71.05951935677525,
+          "components": {
+            "VFE": 81.9517159081079,
+            "LFED": 46.709411054174545,
+            "AIIG": 80.88669892426574
+          },
+          "confidence": 0.7656649891557593
+        },
+        "QIT": {
+          "score": 19.35940930961924,
+          "components": {
+            "LRMI": 26.93535324062119,
+            "CNC": 26.973125544133875,
+            "BCHSH": 1.6444345004353422
+          },
+          "confidence": 0.35568636966274236
+        }
+      },
+      "unified": 59.33366437471475,
+      "duration_seconds": 1.8
+    },
+    {
+      "story": "gangstersandcookies",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2318,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29678903205791,
+          "components": {
+            "PLG": 1.563637709866754,
+            "CGI": 51.611841933427186,
+            "PV": 0.1570879854818687
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81871394027797,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98694658279419
+          },
+          "confidence": 0.8619469623433147
+        },
+        "AST": {
+          "score": 99.96555536976678,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.86222147906712
+          },
+          "confidence": 0.999350207398765
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 58.067938031285316,
+          "components": {
+            "PDE": 80.0638733364694,
+            "HPET": 60.15075657289199,
+            "PWCE": 29.976058543362782
+          },
+          "confidence": 0.6370398624489997
+        },
+        "FEP": {
+          "score": 74.9434512505625,
+          "components": {
+            "VFE": 82.76121035308049,
+            "LFED": 60.15075657289199,
+            "AIIG": 79.31246712487567
+          },
+          "confidence": 0.8657309881352265
+        },
+        "QIT": {
+          "score": 18.097903941609182,
+          "components": {
+            "LRMI": 26.22473926289597,
+            "CNC": 24.18543140191201,
+            "BCHSH": 1.1745960529239727
+          },
+          "confidence": 0.3394193156685733
+        }
+      },
+      "unified": 60.02719308079424,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "goingthelibertyway",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 3629,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.295959518219632,
+          "components": {
+            "PLG": 1.5639233202965026,
+            "CGI": 51.61153442968046,
+            "PV": 0.15268764583622788
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81644032110302,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.979367852211
+          },
+          "confidence": 0.8619854964054646
+        },
+        "AST": {
+          "score": 99.96261179819885,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85044719279541
+          },
+          "confidence": 0.999294649682134
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 62.325706336235555,
+          "components": {
+            "PDE": 80.04617658606318,
+            "HPET": 56.690852744716956,
+            "PWCE": 48.22582023487502
+          },
+          "confidence": 0.7817449024589731
+        },
+        "FEP": {
+          "score": 74.54562708932616,
+          "components": {
+            "VFE": 83.3761073529592,
+            "LFED": 56.690852744716956,
+            "AIIG": 80.6264277490913
+          },
+          "confidence": 0.8370934279486135
+        },
+        "QIT": {
+          "score": 19.2945369244182,
+          "components": {
+            "LRMI": 25.540313222583176,
+            "CNC": 27.207422867670378,
+            "BCHSH": 3.0539492502793935
+          },
+          "confidence": 0.407858575990378
+        }
+      },
+      "unified": 60.74869742678591,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "goldiethegoldfish",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2676,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299317115985104,
+          "components": {
+            "PLG": 1.5634342760857234,
+            "CGI": 51.611782269614025,
+            "PV": 0.17032648529017913
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81769023050396,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.9835342168808
+          },
+          "confidence": 0.8619643122330422
+        },
+        "AST": {
+          "score": 99.96541234883921,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.86164939535682
+          },
+          "confidence": 0.9993475080863344
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 56.31843590069652,
+          "components": {
+            "PDE": 78.10699177742401,
+            "HPET": 56.632721107093516,
+            "PWCE": 30.531787970384627
+          },
+          "confidence": 0.6468885561463815
+        },
+        "FEP": {
+          "score": 74.39664505825212,
+          "components": {
+            "VFE": 84.72412360799763,
+            "LFED": 56.632721107093516,
+            "AIIG": 78.39059760975007
+          },
+          "confidence": 0.8357560748146993
+        },
+        "QIT": {
+          "score": 19.333271098515656,
+          "components": {
+            "LRMI": 26.203341138281615,
+            "CNC": 27.627095218194576,
+            "BCHSH": 1.8793535924821254
+          },
+          "confidence": 0.3636850464100312
+        }
+      },
+      "unified": 59.875824536113214,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "golfclubbing",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 1930,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.2985782105142,
+          "components": {
+            "PLG": 1.5635709894910272,
+            "CGI": 51.611733367310904,
+            "PV": 0.16636352787708225
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81815157045452,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.985072016716
+          },
+          "confidence": 0.8619564933597776
+        },
+        "AST": {
+          "score": 99.96230220579457,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.84920882317829
+          },
+          "confidence": 0.9992888061029596
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 60.58609200608295,
+          "components": {
+            "PDE": 78.24437561861862,
+            "HPET": 50.99673487684817,
+            "PWCE": 51.17234444223192
+          },
+          "confidence": 0.7870978606410923
+        },
+        "FEP": {
+          "score": 72.04426636518576,
+          "components": {
+            "VFE": 82.24648217944525,
+            "LFED": 50.99673487684817,
+            "AIIG": 79.4888434345107
+          },
+          "confidence": 0.8007885214139755
+        },
+        "QIT": {
+          "score": 18.93400801967,
+          "components": {
+            "LRMI": 27.08082716893353,
+            "CNC": 26.770671349087383,
+            "BCHSH": 0.2349191579012339
+          },
+          "confidence": 0.3020716316497668
+        }
+      },
+      "unified": 60.09191405395743,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "gpsformylostidentity",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2896,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29360759384142,
+          "components": {
+            "PLG": 1.5639060446271773,
+            "CGI": 51.61164275725063,
+            "PV": 0.14080872176321568
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81836614717571,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98578727245331
+          },
+          "confidence": 0.8619528567071468
+        },
+        "AST": {
+          "score": 99.96488311073323,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.8595324429329
+          },
+          "confidence": 0.999337519395634
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 65.16875411073171,
+          "components": {
+            "PDE": 81.04114951689859,
+            "HPET": 64.20259617648011,
+            "PWCE": 47.778143726830564
+          },
+          "confidence": 0.78893716059397
+        },
+        "FEP": {
+          "score": 78.5129188194243,
+          "components": {
+            "VFE": 85.11669489952054,
+            "LFED": 64.20259617648011,
+            "AIIG": 84.01820668890683
+          },
+          "confidence": 0.8764379478882538
+        },
+        "QIT": {
+          "score": 19.51300612449599,
+          "components": {
+            "LRMI": 27.37863671806458,
+            "CNC": 26.894070356319638,
+            "BCHSH": 1.6444344345808912
+          },
+          "confidence": 0.3551905326168654
+        }
+      },
+      "unified": 61.753076558057465,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "hangtime",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2920,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.293981205413584,
+          "components": {
+            "PLG": 1.563928858516575,
+            "CGI": 51.61161180839986,
+            "PV": 0.14266616817669836
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81787351478664,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98414516448975
+          },
+          "confidence": 0.8619612058862755
+        },
+        "AST": {
+          "score": 99.96426879630918,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85707518523674
+          },
+          "confidence": 0.9993259248216404
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 60.6550498072083,
+          "components": {
+            "PDE": 78.82288782724652,
+            "HPET": 57.41551629693081,
+            "PWCE": 43.23869454582082
+          },
+          "confidence": 0.7555095547960288
+        },
+        "FEP": {
+          "score": 77.08491729692254,
+          "components": {
+            "VFE": 90.4153776808195,
+            "LFED": 57.41551629693081,
+            "AIIG": 78.98037111838501
+          },
+          "confidence": 0.8190291283375621
+        },
+        "QIT": {
+          "score": 18.86897458497303,
+          "components": {
+            "LRMI": 23.79685108744846,
+            "CNC": 27.64365907372803,
+            "BCHSH": 3.523788092917467
+          },
+          "confidence": 0.42249538517912166
+        }
+      },
+      "unified": 60.81215217223047,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "haveyoumethimyet",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 4458,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29758786458834,
+          "components": {
+            "PLG": 1.5636379373993807,
+            "CGI": 51.61179875372368,
+            "PV": 0.16114634885774895
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81771437038509,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98361468315125
+          },
+          "confidence": 0.8619639031035798
+        },
+        "AST": {
+          "score": 99.96450581107288,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85802324429152
+          },
+          "confidence": 0.9993303982621766
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 58.4366710889269,
+          "components": {
+            "PDE": 81.09363363888082,
+            "HPET": 56.56396048726668,
+            "PWCE": 34.18837714925094
+          },
+          "confidence": 0.6655891241693744
+        },
+        "FEP": {
+          "score": 74.34480064091925,
+          "components": {
+            "VFE": 85.19896244902516,
+            "LFED": 56.56396048726668,
+            "AIIG": 77.65342505043058
+          },
+          "confidence": 0.834311812928636
+        },
+        "QIT": {
+          "score": 18.685623814968707,
+          "components": {
+            "LRMI": 26.184180994280087,
+            "CNC": 25.493817913618734,
+            "BCHSH": 1.8793534772368363
+          },
+          "confidence": 0.3671344386113521
+        }
+      },
+      "unified": 60.07812908440874,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "howtodraw",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 3416,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29579251940473,
+          "components": {
+            "PLG": 1.5636160580082423,
+            "CGI": 51.61185120905918,
+            "PV": 0.1521456384142854
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.82002285827724,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.99130964279175
+          },
+          "confidence": 0.8619247794152873
+        },
+        "AST": {
+          "score": 99.96664967573778,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.86659870295111
+          },
+          "confidence": 0.9993708604948309
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 64.04446473500533,
+          "components": {
+            "PDE": 82.61060652128921,
+            "HPET": 59.11425578982386,
+            "PWCE": 48.13587642038591
+          },
+          "confidence": 0.7727777305797812
+        },
+        "FEP": {
+          "score": 76.25859818639687,
+          "components": {
+            "VFE": 86.13594452270974,
+            "LFED": 59.11425578982386,
+            "AIIG": 80.23314546788608
+          },
+          "confidence": 0.8456660108091454
+        },
+        "QIT": {
+          "score": 20.39136722555332,
+          "components": {
+            "LRMI": 28.262798657387094,
+            "CNC": 25.11927019559633,
+            "BCHSH": 5.168222346398619
+          },
+          "confidence": 0.4759995820673347
+        }
+      },
+      "unified": 61.39669931433932,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "ifthishaircouldtalk",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2789,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.293394955558536,
+          "components": {
+            "PLG": 1.5639062425574093,
+            "CGI": 51.61131959763274,
+            "PV": 0.1402297749500428
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81831965555278,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98563230037689
+          },
+          "confidence": 0.8619536446467932
+        },
+        "AST": {
+          "score": 99.9654341032437,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.86173641297475
+          },
+          "confidence": 0.9993479186698093
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 59.745033630603984,
+          "components": {
+            "PDE": 79.03405603699865,
+            "HPET": 53.357507149355655,
+            "PWCE": 44.693288384599946
+          },
+          "confidence": 0.7529704229031251
+        },
+        "FEP": {
+          "score": 72.73311434786598,
+          "components": {
+            "VFE": 82.55445530437329,
+            "LFED": 53.357507149355655,
+            "AIIG": 79.01360027103324
+          },
+          "confidence": 0.8184085826251277
+        },
+        "QIT": {
+          "score": 18.494456322899506,
+          "components": {
+            "LRMI": 26.77112146738597,
+            "CNC": 25.718439846670528,
+            "BCHSH": 0.2349192731465228
+          },
+          "confidence": 0.3019165697358379
+        }
+      },
+      "unified": 60.00710757367493,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "inamoment",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 1434,
+      "n_tokens_encoded": 1435,
+      "truncated": false,
+      "theories": {
+        "IIT": {
+          "score": 16.298311700061507,
+          "components": {
+            "PLG": 1.5636938862191216,
+            "CGI": 51.61160756791959,
+            "PV": 0.16491243288034532
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.80122688215368,
+          "components": {
+            "CGAS": 75.26132404181185,
+            "NDE": 75.67610790505226,
+            "IGC": 99.97954964637756
+          },
+          "confidence": 0.8618376665413197
+        },
+        "AST": {
+          "score": 99.96227021534324,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.84908086137298
+          },
+          "confidence": 0.9992882022781098
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 65.0835701700952,
+          "components": {
+            "PDE": 81.51925754012328,
+            "HPET": 64.78594144977721,
+            "PWCE": 46.25583507876679
+          },
+          "confidence": 0.7756172215456518
+        },
+        "FEP": {
+          "score": 76.73584427500364,
+          "components": {
+            "VFE": 83.65209468405953,
+            "LFED": 64.78594144977721,
+            "AIIG": 79.46407988815554
+          },
+          "confidence": 0.8935172132665823
+        },
+        "QIT": {
+          "score": 18.439513574621678,
+          "components": {
+            "LRMI": 23.98848972888612,
+            "CNC": 26.031090836182212,
+            "BCHSH": 3.4493014407085583
+          },
+          "confidence": 0.4278244122634024
+        }
+      },
+      "unified": 61.331533831039856,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "itsabox",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2560,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29920664361232,
+          "components": {
+            "PLG": 1.563526761670002,
+            "CGI": 51.611273393096404,
+            "PV": 0.1703062242419698
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81542197574703,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.97597336769104
+          },
+          "confidence": 0.8620027564186653
+        },
+        "AST": {
+          "score": 99.96478047912473,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.8591219164989
+          },
+          "confidence": 0.9993355823392831
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 67.34519774236398,
+          "components": {
+            "PDE": 82.50121986899889,
+            "HPET": 68.20157373182568,
+            "PWCE": 48.66406660691796
+          },
+          "confidence": 0.7913040577092718
+        },
+        "FEP": {
+          "score": 78.8221131486395,
+          "components": {
+            "VFE": 86.93125591099538,
+            "LFED": 68.20157373182568,
+            "AIIG": 78.6304622156455
+          },
+          "confidence": 0.9016595561244662
+        },
+        "QIT": {
+          "score": 18.63312643415329,
+          "components": {
+            "LRMI": 24.435814774608446,
+            "CNC": 27.18014290933065,
+            "BCHSH": 2.3491921717023962
+          },
+          "confidence": 0.3820908539057125
+        }
+      },
+      "unified": 61.982835203377256,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "jugglingandjesus",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 1447,
+      "n_tokens_encoded": 1448,
+      "truncated": false,
+      "theories": {
+        "IIT": {
+          "score": 16.295436457225957,
+          "components": {
+            "PLG": 1.5638249296872069,
+            "CGI": 51.611619527557785,
+            "PV": 0.15019067057510221
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81359972051494,
+          "components": {
+            "CGAS": 75.27624309392266,
+            "NDE": 75.69101238777624,
+            "IGC": 99.98599588871002
+          },
+          "confidence": 0.8619053371253994
+        },
+        "AST": {
+          "score": 99.96570253879014,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.86281015516059
+          },
+          "confidence": 0.9993529849897312
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 61.04214534443702,
+          "components": {
+            "PDE": 81.34165188861434,
+            "HPET": 60.6792323466022,
+            "PWCE": 37.78278620703745
+          },
+          "confidence": 0.7031657909573558
+        },
+        "FEP": {
+          "score": 77.00635977502633,
+          "components": {
+            "VFE": 86.96813767283001,
+            "LFED": 60.6792323466022,
+            "AIIG": 80.05111667304553
+          },
+          "confidence": 0.8534028094791601
+        },
+        "QIT": {
+          "score": 18.22136196781193,
+          "components": {
+            "LRMI": 25.110120489579085,
+            "CNC": 24.810976377452537,
+            "BCHSH": 2.4467361958151144
+          },
+          "confidence": 0.39196555185313753
+        }
+      },
+      "unified": 60.763515114829474,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "kiksuya",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2610,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29554436664038,
+          "components": {
+            "PLG": 1.5637645121615806,
+            "CGI": 51.61159013491009,
+            "PV": 0.15092535043282604
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81695798744289,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98109340667725
+          },
+          "confidence": 0.8619767226179251
+        },
+        "AST": {
+          "score": 99.96527629867074,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.86110519468295
+          },
+          "confidence": 0.9993449403273058
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 65.28339214637879,
+          "components": {
+            "PDE": 81.58754982090777,
+            "HPET": 66.34926547006826,
+            "PWCE": 45.01835598179063
+          },
+          "confidence": 0.7668129112112758
+        },
+        "FEP": {
+          "score": 78.68611452804595,
+          "components": {
+            "VFE": 87.43962827670921,
+            "LFED": 66.34926547006826,
+            "AIIG": 79.3516119211393
+          },
+          "confidence": 0.888209006514689
+        },
+        "QIT": {
+          "score": 19.013394664626095,
+          "components": {
+            "LRMI": 26.30194013901918,
+            "CNC": 27.134132907221904,
+            "BCHSH": 1.1745957895061696
+          },
+          "confidence": 0.3382564842435487
+        }
+      },
+      "unified": 61.722954284543555,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "leavingbaghdad",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2986,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.300733871792435,
+          "components": {
+            "PLG": 1.563368663065992,
+            "CGI": 51.611319309972224,
+            "PV": 0.17826873633886475
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81664953340618,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98006522655487
+          },
+          "confidence": 0.861981950507908
+        },
+        "AST": {
+          "score": 99.96445035641868,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85780142567474
+          },
+          "confidence": 0.9993293516079795
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 62.95155672639318,
+          "components": {
+            "PDE": 79.85809365928935,
+            "HPET": 60.46795715708638,
+            "PWCE": 46.12479646887223
+          },
+          "confidence": 0.7775900150771085
+        },
+        "FEP": {
+          "score": 74.90600889078976,
+          "components": {
+            "VFE": 81.98055145466417,
+            "LFED": 60.46795715708638,
+            "AIIG": 79.91133720599393
+          },
+          "confidence": 0.8692618270282036
+        },
+        "QIT": {
+          "score": 18.19832205031656,
+          "components": {
+            "LRMI": 24.016094078070168,
+            "CNC": 27.465018874934344,
+            "BCHSH": 1.1745958553606204
+          },
+          "confidence": 0.33535480785016414
+        }
+      },
+      "unified": 60.733960204159544,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "lifeanddeathontheoregontrail",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 3648,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.297306897198993,
+          "components": {
+            "PLG": 1.5636450345884998,
+            "CGI": 51.61144811690185,
+            "PV": 0.1602497241709556
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81641439308254,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.97928142547607
+          },
+          "confidence": 0.861985935855678
+        },
+        "AST": {
+          "score": 99.96443920257158,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85775681028632
+          },
+          "confidence": 0.999329141089468
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 60.03855547301806,
+          "components": {
+            "PDE": 79.15390107552646,
+            "HPET": 52.18763504810826,
+            "PWCE": 46.89672609915303
+          },
+          "confidence": 0.7622525991543647
+        },
+        "FEP": {
+          "score": 73.52738114670716,
+          "components": {
+            "VFE": 84.00272211371332,
+            "LFED": 52.18763504810826,
+            "AIIG": 80.9000059559645
+          },
+          "confidence": 0.8020743923442348
+        },
+        "QIT": {
+          "score": 20.900558697762307,
+          "components": {
+            "LRMI": 27.74322248306352,
+            "CNC": 28.68393933892418,
+            "BCHSH": 3.993626342865485
+          },
+          "confidence": 0.43278528825793694
+        }
+      },
+      "unified": 60.506379401477226,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "lifereimagined",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2755,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29874999549192,
+          "components": {
+            "PLG": 1.5636114771247627,
+            "CGI": 51.61163490175939,
+            "PV": 0.16726893200861992
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81718597520916,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98185336589813
+          },
+          "confidence": 0.8619728585528277
+        },
+        "AST": {
+          "score": 99.96519813301057,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.8607925320423
+          },
+          "confidence": 0.9993434650542106
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 60.595862111163996,
+          "components": {
+            "PDE": 81.85143760168569,
+            "HPET": 58.555527395630115,
+            "PWCE": 38.178081207011545
+          },
+          "confidence": 0.7002631795078339
+        },
+        "FEP": {
+          "score": 75.30974956963558,
+          "components": {
+            "VFE": 85.18764052760893,
+            "LFED": 58.555527395630115,
+            "AIIG": 78.89345046634324
+          },
+          "confidence": 0.8468548904718864
+        },
+        "QIT": {
+          "score": 18.058853234606637,
+          "components": {
+            "LRMI": 23.920151049846854,
+            "CNC": 25.71853151766493,
+            "BCHSH": 2.5841111978947287
+          },
+          "confidence": 0.39638603773637826
+        }
+      },
+      "unified": 60.4350855741597,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "listo",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 3406,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.296426345878444,
+          "components": {
+            "PLG": 1.5638450610381045,
+            "CGI": 51.611948781087044,
+            "PV": 0.15459590516639232
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81820521463482,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98525083065033
+          },
+          "confidence": 0.861955584194679
+        },
+        "AST": {
+          "score": 99.96154367385785,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.8461746954314
+          },
+          "confidence": 0.9992744885534123
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 55.121259900289594,
+          "components": {
+            "PDE": 76.45550568800726,
+            "HPET": 43.01913591983052,
+            "PWCE": 44.35045112515459
+          },
+          "confidence": 0.7169331096330844
+        },
+        "FEP": {
+          "score": 70.8374897737696,
+          "components": {
+            "VFE": 85.75287701214428,
+            "LFED": 43.01913591983052,
+            "AIIG": 78.76866064320913
+          },
+          "confidence": 0.7294438469151558
+        },
+        "QIT": {
+          "score": 18.807482375220694,
+          "components": {
+            "LRMI": 25.51003847730448,
+            "CNC": 26.563950596467436,
+            "BCHSH": 2.1142726845289084
+          },
+          "confidence": 0.37520690203508866
+        }
+      },
+      "unified": 59.12034389766443,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "mayorofthefreaks",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 4962,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299026362108297,
+          "components": {
+            "PLG": 1.5634568912792757,
+            "CGI": 51.61176155295526,
+            "PV": 0.16884725291040847
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.8193245898637,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98898208141327
+          },
+          "confidence": 0.8619366132448276
+        },
+        "AST": {
+          "score": 99.9636364328565,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85454573142603
+          },
+          "confidence": 0.9993139893916879
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 60.33766410409892,
+          "components": {
+            "PDE": 79.2766699786477,
+            "HPET": 56.37769829521952,
+            "PWCE": 42.862117360817976
+          },
+          "confidence": 0.7474216787474512
+        },
+        "FEP": {
+          "score": 74.08155374950957,
+          "components": {
+            "VFE": 83.61548462535889,
+            "LFED": 56.37769829521952,
+            "AIIG": 79.07350136933383
+          },
+          "confidence": 0.836835546200295
+        },
+        "QIT": {
+          "score": 19.82322883265362,
+          "components": {
+            "LRMI": 24.824144868648244,
+            "CNC": 27.34050883986803,
+            "BCHSH": 5.638060777446376
+          },
+          "confidence": 0.4969725760194945
+        }
+      },
+      "unified": 60.47491915301294,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "metsmagic",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2160,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29549542327447,
+          "components": {
+            "PLG": 1.563935784452421,
+            "CGI": 51.61148961504617,
+            "PV": 0.15040323267206115
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81591103185741,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.97760355472565
+          },
+          "confidence": 0.8619944673111029
+        },
+        "AST": {
+          "score": 99.96459591770477,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.8583836708191
+          },
+          "confidence": 0.9993320989364066
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 61.99555256344056,
+          "components": {
+            "PDE": 81.13517168691216,
+            "HPET": 57.027404198201424,
+            "PWCE": 45.46217001216938
+          },
+          "confidence": 0.7572145841598399
+        },
+        "FEP": {
+          "score": 75.3280142734894,
+          "components": {
+            "VFE": 86.40556404289342,
+            "LFED": 57.027404198201424,
+            "AIIG": 78.85855798957206
+          },
+          "confidence": 0.8318804499317052
+        },
+        "QIT": {
+          "score": 17.477313544378013,
+          "components": {
+            "LRMI": 26.51657796270553,
+            "CNC": 22.902274530986006,
+            "BCHSH": 0.0
+          },
+          "confidence": 0.28724243993540366
+        }
+      },
+      "unified": 60.55384039344925,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "mybackseatviewofagreatromance",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 3363,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.2964159182078,
+          "components": {
+            "PLG": 1.5634483748787582,
+            "CGI": 51.61161700578686,
+            "PV": 0.1560331451618131
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81973049749462,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.99033510684967
+          },
+          "confidence": 0.8619297341418215
+        },
+        "AST": {
+          "score": 99.96619202693938,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.86476810775756
+          },
+          "confidence": 0.9993622232538972
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 58.28059816364124,
+          "components": {
+            "PDE": 80.32553340616033,
+            "HPET": 64.09243281787465,
+            "PWCE": 25.78103328409665
+          },
+          "confidence": 0.5969244422469604
+        },
+        "FEP": {
+          "score": 79.08465339277532,
+          "components": {
+            "VFE": 87.69619112071474,
+            "LFED": 64.09243281787465,
+            "AIIG": 82.59482366375681
+          },
+          "confidence": 0.8702040229722544
+        },
+        "QIT": {
+          "score": 21.069793685459565,
+          "components": {
+            "LRMI": 28.083159331995855,
+            "CNC": 27.150372463945484,
+            "BCHSH": 5.638060711591925
+          },
+          "confidence": 0.48902978780479966
+        }
+      },
+      "unified": 61.07391195493113,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "myfathershands",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 1397,
+      "n_tokens_encoded": 1398,
+      "truncated": false,
+      "theories": {
+        "IIT": {
+          "score": 16.29504235588356,
+          "components": {
+            "PLG": 1.5638533973986137,
+            "CGI": 51.61161385562827,
+            "PV": 0.14815750247884923
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.69611429503036,
+          "components": {
+            "CGAS": 75.10729613733906,
+            "NDE": 75.52257968973534,
+            "IGC": 99.98807311058044
+          },
+          "confidence": 0.8607570236793052
+        },
+        "AST": {
+          "score": 99.96474950090021,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85899800360085
+          },
+          "confidence": 0.9993349976590432
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 58.80549765965794,
+          "components": {
+            "PDE": 78.80032087213678,
+            "HPET": 56.640828636474716,
+            "PWCE": 38.00365110547972
+          },
+          "confidence": 0.7115650068606438
+        },
+        "FEP": {
+          "score": 75.1045559288928,
+          "components": {
+            "VFE": 85.25625419897017,
+            "LFED": 56.640828636474716,
+            "AIIG": 80.03268552787436
+          },
+          "confidence": 0.831807012890086
+        },
+        "QIT": {
+          "score": 19.912603271868342,
+          "components": {
+            "LRMI": 26.003877036226115,
+            "CNC": 27.394972219631335,
+            "BCHSH": 4.308535971628319
+          },
+          "confidence": 0.45048109085632193
+        }
+      },
+      "unified": 60.396937573176174,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "myfirstdaywiththeyankees",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 4329,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.296439075638602,
+          "components": {
+            "PLG": 1.5639251744805356,
+            "CGI": 51.61177437334587,
+            "PV": 0.15472088197286063
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81733975519268,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.9823659658432
+          },
+          "confidence": 0.8619702522162362
+        },
+        "AST": {
+          "score": 99.9596049090595,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.838419636238
+          },
+          "confidence": 0.9992378923884316
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 56.41622310195966,
+          "components": {
+            "PDE": 82.07049195579411,
+            "HPET": 41.73983110682455,
+            "PWCE": 43.60870010014376
+          },
+          "confidence": 0.6669334634886388
+        },
+        "FEP": {
+          "score": 70.25725928007076,
+          "components": {
+            "VFE": 85.92709147404088,
+            "LFED": 41.73983110682455,
+            "AIIG": 77.88157786135682
+          },
+          "confidence": 0.7195331241162621
+        },
+        "QIT": {
+          "score": 18.54336846458601,
+          "components": {
+            "LRMI": 27.94101473668386,
+            "CNC": 23.851784294295616,
+            "BCHSH": 0.7047576054126033
+          },
+          "confidence": 0.31469831537966453
+        }
+      },
+      "unified": 59.184319226643886,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "naked",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 5404,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.293583554423282,
+          "components": {
+            "PLG": 1.5639102378769274,
+            "CGI": 51.6117522712151,
+            "PV": 0.14051377060144635
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81925574649898,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98875260353088
+          },
+          "confidence": 0.8619377799722889
+        },
+        "AST": {
+          "score": 99.96453365214998,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85813460859995
+          },
+          "confidence": 0.9993309237356152
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 60.27693471445045,
+          "components": {
+            "PDE": 81.04127302474431,
+            "HPET": 57.93379249133075,
+            "PWCE": 38.78553927941391
+          },
+          "confidence": 0.7084384290510761
+        },
+        "FEP": {
+          "score": 76.10914516827822,
+          "components": {
+            "VFE": 86.23630767524017,
+            "LFED": 57.93379249133075,
+            "AIIG": 80.78161450260976
+          },
+          "confidence": 0.8364957912381686
+        },
+        "QIT": {
+          "score": 20.517070858398426,
+          "components": {
+            "LRMI": 26.97835784043363,
+            "CNC": 29.130223801672606,
+            "BCHSH": 3.2888686057439798
+          },
+          "confidence": 0.4086848074055126
+        }
+      },
+      "unified": 60.854360527742756,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "notontheusualtour",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2275,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.294833200934843,
+          "components": {
+            "PLG": 1.5639196122061605,
+            "CGI": 51.61153184982417,
+            "PV": 0.14706919942255303
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.8174711834344,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.9828040599823
+          },
+          "confidence": 0.8619680247160657
+        },
+        "AST": {
+          "score": 99.9633615288816,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85344611552644
+          },
+          "confidence": 0.9993088007033906
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 60.88204248997717,
+          "components": {
+            "PDE": 79.36384771743052,
+            "HPET": 53.98783050271796,
+            "PWCE": 47.363183709750686
+          },
+          "confidence": 0.7710494938147581
+        },
+        "FEP": {
+          "score": 74.45769030635563,
+          "components": {
+            "VFE": 84.21493120498454,
+            "LFED": 53.98783050271796,
+            "AIIG": 81.91789557848811
+          },
+          "confidence": 0.8127415934736435
+        },
+        "QIT": {
+          "score": 19.25734316298315,
+          "components": {
+            "LRMI": 25.370023839510125,
+            "CNC": 26.135899923163624,
+            "BCHSH": 4.228545500766718
+          },
+          "confidence": 0.45357745983474296
+        }
+      },
+      "unified": 60.524677410366685,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "odetostepfather",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 4630,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29630883215675,
+          "components": {
+            "PLG": 1.5635493712264674,
+            "CGI": 51.611818318191226,
+            "PV": 0.15494325543075818
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.82069966901867,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.9935656785965
+          },
+          "confidence": 0.8619133094465855
+        },
+        "AST": {
+          "score": 99.96546368139575,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.861854725583
+          },
+          "confidence": 0.9993484769150213
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 57.23442641772786,
+          "components": {
+            "PDE": 78.7223329977387,
+            "HPET": 47.450444479283846,
+            "PWCE": 43.579847669233224
+          },
+          "confidence": 0.7219441664171207
+        },
+        "FEP": {
+          "score": 71.82009531582742,
+          "components": {
+            "VFE": 83.82516982317046,
+            "LFED": 47.450444479283846,
+            "AIIG": 80.18298014258025
+          },
+          "confidence": 0.7679479966642995
+        },
+        "QIT": {
+          "score": 18.3949728606024,
+          "components": {
+            "LRMI": 26.776192736103706,
+            "CNC": 25.49752624239799,
+            "BCHSH": 0.11745964480506775
+          },
+          "confidence": 0.2970133803022329
+        }
+      },
+      "unified": 59.50456668238984,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "onlyonewaytofindout",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2920,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.296374914549784,
+          "components": {
+            "PLG": 1.5638287552725672,
+            "CGI": 51.61128944854527,
+            "PV": 0.15536851174959795
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81496242393581,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.97444152832031
+          },
+          "confidence": 0.8620105455501186
+        },
+        "AST": {
+          "score": 99.9627389597973,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85095583918921
+          },
+          "confidence": 0.9992970498525802
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 62.78996099968648,
+          "components": {
+            "PDE": 82.828169405,
+            "HPET": 56.632629290357684,
+            "PWCE": 46.595604854370976
+          },
+          "confidence": 0.7537144940345942
+        },
+        "FEP": {
+          "score": 75.08347599104948,
+          "components": {
+            "VFE": 86.14558899695814,
+            "LFED": 56.632629290357684,
+            "AIIG": 78.78483868386307
+          },
+          "confidence": 0.830167278918451
+        },
+        "QIT": {
+          "score": 18.98827028297568,
+          "components": {
+            "LRMI": 25.60691185257702,
+            "CNC": 26.567574007775956,
+            "BCHSH": 2.584111132040278
+          },
+          "confidence": 0.39262021040514505
+        }
+      },
+      "unified": 60.84796908171351,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "penpal",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2350,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.2956008457538,
+          "components": {
+            "PLG": 1.5639307796393929,
+            "CGI": 51.61167721124702,
+            "PV": 0.15066146279998957
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81611040939418,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.97826814651489
+          },
+          "confidence": 0.861991088053142
+        },
+        "AST": {
+          "score": 99.9636180975735,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85447239029402
+          },
+          "confidence": 0.9993136433226913
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 60.8548874971391,
+          "components": {
+            "PDE": 80.10823693030382,
+            "HPET": 53.4058916340438,
+            "PWCE": 47.08314166539149
+          },
+          "confidence": 0.7622459201003637
+        },
+        "FEP": {
+          "score": 73.43011917898949,
+          "components": {
+            "VFE": 83.33922327366862,
+            "LFED": 53.4058916340438,
+            "AIIG": 80.24220793102967
+          },
+          "confidence": 0.814178045584031
+        },
+        "QIT": {
+          "score": 18.797453928363474,
+          "components": {
+            "LRMI": 25.37743227995778,
+            "CNC": 23.183542939760425,
+            "BCHSH": 5.638060448174122
+          },
+          "confidence": 0.511044038128933
+        }
+      },
+      "unified": 60.30825570817337,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "quietfire",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2951,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.296983107777674,
+          "components": {
+            "PLG": 1.563655169600641,
+            "CGI": 51.61161745569463,
+            "PV": 0.15835143134483354
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.8172476660165,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98205900192261
+          },
+          "confidence": 0.8619718129862899
+        },
+        "AST": {
+          "score": 99.96477521117775,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85910084471101
+          },
+          "confidence": 0.999335482912557
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 64.05984940331331,
+          "components": {
+            "PDE": 79.7550830759698,
+            "HPET": 60.42247454565428,
+            "PWCE": 49.99234745248296
+          },
+          "confidence": 0.8054827880458347
+        },
+        "FEP": {
+          "score": 76.29510473337213,
+          "components": {
+            "VFE": 85.17906966845712,
+            "LFED": 60.42247454565428,
+            "AIIG": 80.32244834097662
+          },
+          "confidence": 0.8577738466381941
+        },
+        "QIT": {
+          "score": 20.294226679026316,
+          "components": {
+            "LRMI": 26.709174178628054,
+            "CNC": 26.86696762946087,
+            "BCHSH": 5.168222395789457
+          },
+          "confidence": 0.47951273034484065
+        }
+      },
+      "unified": 61.38974097152624,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "reachingoutbetweenthebars",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2756,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.293549589579968,
+          "components": {
+            "PLG": 1.5637636161839514,
+            "CGI": 51.61148317088171,
+            "PV": 0.14111415111739625
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81846807111828,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98612701892853
+          },
+          "confidence": 0.8619511293044
+        },
+        "AST": {
+          "score": 99.96509614596326,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.86038458385302
+          },
+          "confidence": 0.9993415401794223
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 61.575325475669814,
+          "components": {
+            "PDE": 80.71224383254393,
+            "HPET": 61.851226414644564,
+            "PWCE": 38.92703629717946
+          },
+          "confidence": 0.7175785897225749
+        },
+        "FEP": {
+          "score": 78.16448955145164,
+          "components": {
+            "VFE": 87.11072506017022,
+            "LFED": 61.851226414644564,
+            "AIIG": 82.54943867663391
+          },
+          "confidence": 0.8575721033284973
+        },
+        "QIT": {
+          "score": 20.8677045795167,
+          "components": {
+            "LRMI": 28.02882151207941,
+            "CNC": 26.314273313602182,
+            "BCHSH": 5.872979935347609
+          },
+          "confidence": 0.4985752273580909
+        }
+      },
+      "unified": 61.38351905904282,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "shoppinginchina",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2701,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299368610894845,
+          "components": {
+            "PLG": 1.5634658001485138,
+            "CGI": 51.611583636598326,
+            "PV": 0.17080309920546521
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81732992042629,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98233318328857
+          },
+          "confidence": 0.8619704189002348
+        },
+        "AST": {
+          "score": 99.9664467569779,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.86578702791161
+          },
+          "confidence": 0.9993670308064984
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 66.869808874808,
+          "components": {
+            "PDE": 82.98678872281488,
+            "HPET": 67.94019253047038,
+            "PWCE": 46.81788478719389
+          },
+          "confidence": 0.7749346234922538
+        },
+        "FEP": {
+          "score": 78.21399955424695,
+          "components": {
+            "VFE": 84.29360786865848,
+            "LFED": 67.94019253047038,
+            "AIIG": 80.38166215880818
+          },
+          "confidence": 0.9100783667737291
+        },
+        "QIT": {
+          "score": 19.706580976184934,
+          "components": {
+            "LRMI": 24.953073722239967,
+            "CNC": 26.309939131859856,
+            "BCHSH": 6.107899159103295
+          },
+          "confidence": 0.5178651630665165
+        }
+      },
+      "unified": 61.981933527648415,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "singlewomanseekingmanwich",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2678,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29129096378709,
+          "components": {
+            "PLG": 1.5639175392039948,
+            "CGI": 51.61160129568905,
+            "PV": 0.12925902739191134
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.82029644359676,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.99222159385681
+          },
+          "confidence": 0.8619201429170091
+        },
+        "AST": {
+          "score": 99.96826565383172,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.87306261532689
+          },
+          "confidence": 0.9994013581299659
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 61.08275495251559,
+          "components": {
+            "PDE": 82.23387936133628,
+            "HPET": 65.32112372166826,
+            "PWCE": 31.461679578213353
+          },
+          "confidence": 0.6462503786037829
+        },
+        "FEP": {
+          "score": 78.69681327301004,
+          "components": {
+            "VFE": 87.27129214349645,
+            "LFED": 65.32112372166826,
+            "AIIG": 80.63986433036993
+          },
+          "confidence": 0.881764867262191
+        },
+        "QIT": {
+          "score": 19.74465319605413,
+          "components": {
+            "LRMI": 26.226130933217284,
+            "CNC": 26.61879069036929,
+            "BCHSH": 4.2285453855214294
+          },
+          "confidence": 0.44999626195587394
+        }
+      },
+      "unified": 61.229153497542185,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "sloth",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 4191,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.293254520931168,
+          "components": {
+            "PLG": 1.5638323558466367,
+            "CGI": 51.61171906750424,
+            "PV": 0.13911311378288851
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.8197877179536,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.99052584171295
+          },
+          "confidence": 0.8619287644063863
+        },
+        "AST": {
+          "score": 99.96742353941563,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.86969415766255
+          },
+          "confidence": 0.9993854654435563
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 58.40826794261283,
+          "components": {
+            "PDE": 80.50795872743966,
+            "HPET": 51.866880269862435,
+            "PWCE": 40.25691431185698
+          },
+          "confidence": 0.7060395156865624
+        },
+        "FEP": {
+          "score": 73.33392833934184,
+          "components": {
+            "VFE": 84.17760514501329,
+            "LFED": 51.866880269862435,
+            "AIIG": 80.34274066792595
+          },
+          "confidence": 0.800180199949169
+        },
+        "QIT": {
+          "score": 20.043965026275185,
+          "components": {
+            "LRMI": 27.611724251074826,
+            "CNC": 29.292826814071578,
+            "BCHSH": 0.7047576054126033
+          },
+          "confidence": 0.31790721880519723
+        }
+      },
+      "unified": 60.123803869504336,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "souls",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 3189,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29451858836255,
+          "components": {
+            "PLG": 1.5638225700245212,
+            "CGI": 51.61178161806036,
+            "PV": 0.1453640896609125
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81932190765468,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98897314071655
+          },
+          "confidence": 0.8619366587017019
+        },
+        "AST": {
+          "score": 99.96526954802782,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.86107819211126
+          },
+          "confidence": 0.9993448129180014
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 58.976405796552186,
+          "components": {
+            "PDE": 81.01742020731234,
+            "HPET": 53.309271302855024,
+            "PWCE": 39.87354589331205
+          },
+          "confidence": 0.7049864777498451
+        },
+        "FEP": {
+          "score": 74.51525409691085,
+          "components": {
+            "VFE": 86.14703605218479,
+            "LFED": 53.309271302855024,
+            "AIIG": 80.21219428393476
+          },
+          "confidence": 0.8048703600348627
+        },
+        "QIT": {
+          "score": 20.199404886589207,
+          "components": {
+            "LRMI": 27.16525246284282,
+            "CNC": 28.057063425288618,
+            "BCHSH": 3.0539495795516474
+          },
+          "confidence": 0.4037656971086443
+        }
+      },
+      "unified": 60.39573926058532,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "stagefright",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 3410,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29441916355964,
+          "components": {
+            "PLG": 1.5639336152900967,
+            "CGI": 51.611708539735716,
+            "PV": 0.14469896996938278
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81834826578228,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98572766780853
+          },
+          "confidence": 0.8619531597607419
+        },
+        "AST": {
+          "score": 99.96331288655595,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.8532515462238
+          },
+          "confidence": 0.9993078825975126
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 60.02017670714197,
+          "components": {
+            "PDE": 80.80402568327851,
+            "HPET": 49.69745516063991,
+            "PWCE": 47.81552803923507
+          },
+          "confidence": 0.7455058952196277
+        },
+        "FEP": {
+          "score": 72.52792080349658,
+          "components": {
+            "VFE": 83.90408923952072,
+            "LFED": 49.69745516063991,
+            "AIIG": 80.19016186498776
+          },
+          "confidence": 0.7849546666530272
+        },
+        "QIT": {
+          "score": 19.583720407961682,
+          "components": {
+            "LRMI": 27.23103220764594,
+            "CNC": 26.856752398482108,
+            "BCHSH": 2.1142726845289084
+          },
+          "confidence": 0.37264242997187047
+        }
+      },
+      "unified": 60.17255689064258,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "stumblinginthedark",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 4093,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29457637171511,
+          "components": {
+            "PLG": 1.5639501618293756,
+            "CGI": 51.61191532376055,
+            "PV": 0.14513346836128901
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81779394258587,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.9838799238205
+          },
+          "confidence": 0.8619625544935041
+        },
+        "AST": {
+          "score": 99.96179248304931,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.84716993219725
+          },
+          "confidence": 0.9992791849438701
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 56.71919189228865,
+          "components": {
+            "PDE": 79.97208176131409,
+            "HPET": 53.930094554644285,
+            "PWCE": 32.84476727234407
+          },
+          "confidence": 0.6532155141907086
+        },
+        "FEP": {
+          "score": 74.84103103668237,
+          "components": {
+            "VFE": 87.15356874356527,
+            "LFED": 53.930094554644285,
+            "AIIG": 79.33525057620989
+          },
+          "confidence": 0.8069667645910876
+        },
+        "QIT": {
+          "score": 19.218809903901427,
+          "components": {
+            "LRMI": 26.117309904387685,
+            "CNC": 27.59518532318277,
+            "BCHSH": 1.6444344839717295
+          },
+          "confidence": 0.35507981521745235
+        }
+      },
+      "unified": 59.97902794717468,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "superheroesjustforeachother",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2602,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.297653086617448,
+          "components": {
+            "PLG": 1.563355712376434,
+            "CGI": 51.6116986783347,
+            "PV": 0.1623281346441043
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81857088913051,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98646974563599
+          },
+          "confidence": 0.8619493867537302
+        },
+        "AST": {
+          "score": 99.96634338709308,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.86537354837233
+          },
+          "confidence": 0.9993650798973783
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 65.64081868340834,
+          "components": {
+            "PDE": 79.03366023182214,
+            "HPET": 66.93263915272722,
+            "PWCE": 48.508712996053575
+          },
+          "confidence": 0.8063932819672774
+        },
+        "FEP": {
+          "score": 79.68137142992816,
+          "components": {
+            "VFE": 86.11006855974858,
+            "LFED": 66.93263915272722,
+            "AIIG": 83.85850753403523
+          },
+          "confidence": 0.891611405376855
+        },
+        "QIT": {
+          "score": 18.949557079607352,
+          "components": {
+            "LRMI": 26.11791171801645,
+            "CNC": 27.40163134306431,
+            "BCHSH": 0.9396766316049356
+          },
+          "confidence": 0.3288746957412293
+        }
+      },
+      "unified": 61.90775922225498,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "sweetaspie",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 1159,
+      "n_tokens_encoded": 1160,
+      "truncated": false,
+      "theories": {
+        "IIT": {
+          "score": 16.299961292025436,
+          "components": {
+            "PLG": 1.5631991522864528,
+            "CGI": 51.610735812828224,
+            "PV": 0.17570486016872572
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.62224346399307,
+          "components": {
+            "CGAS": 75.0,
+            "NDE": 75.4150390625,
+            "IGC": 99.99243915081024
+          },
+          "confidence": 0.8600087530671496
+        },
+        "AST": {
+          "score": 99.9651597144527,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.86063885781078
+          },
+          "confidence": 0.9993427399537915
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 63.56701527014495,
+          "components": {
+            "PDE": 79.85350389589257,
+            "HPET": 59.93644469848104,
+            "PWCE": 48.80177754038062
+          },
+          "confidence": 0.7956742933269171
+        },
+        "FEP": {
+          "score": 75.66571657041983,
+          "components": {
+            "VFE": 83.54388923753264,
+            "LFED": 59.93644469848104,
+            "AIIG": 80.89075821954155
+          },
+          "confidence": 0.8588186077489584
+        },
+        "QIT": {
+          "score": 21.698887259690796,
+          "components": {
+            "LRMI": 30.32915975175017,
+            "CNC": 24.910720325110663,
+            "BCHSH": 6.980024204858435
+          },
+          "confidence": 0.5188980224278239
+        }
+      },
+      "unified": 61.40271193867526,
+      "duration_seconds": 1.5
+    },
+    {
+      "story": "swimmingwithastronauts",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 3235,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29574515659325,
+          "components": {
+            "PLG": 1.5638861090074805,
+            "CGI": 51.61145769959574,
+            "PV": 0.15182396105395352
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81658516038982,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.97985064983368
+          },
+          "confidence": 0.8619830415512136
+        },
+        "AST": {
+          "score": 99.96391726076965,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.8556690430786
+          },
+          "confidence": 0.9993192898523483
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 63.6629259448961,
+          "components": {
+            "PDE": 82.2478548710124,
+            "HPET": 61.55884856916818,
+            "PWCE": 44.43526580277635
+          },
+          "confidence": 0.7536184485637751
+        },
+        "FEP": {
+          "score": 76.55131799257106,
+          "components": {
+            "VFE": 85.80902100273657,
+            "LFED": 61.55884856916818,
+            "AIIG": 79.20018340241992
+          },
+          "confidence": 0.8644657830011585
+        },
+        "QIT": {
+          "score": 18.98114706950813,
+          "components": {
+            "LRMI": 26.47227162219971,
+            "CNC": 26.564612907326445,
+            "BCHSH": 1.4095151614343686
+          },
+          "confidence": 0.347806915687789
+        }
+      },
+      "unified": 61.181662654961144,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "thatthingonmyarm",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 3115,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.296436573103716,
+          "components": {
+            "PLG": 1.563873722135807,
+            "CGI": 51.61147664175832,
+            "PV": 0.1552835975415698
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81602904905407,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.97799694538116
+          },
+          "confidence": 0.861992467030689
+        },
+        "AST": {
+          "score": 99.96395976561136,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85583906244547
+          },
+          "confidence": 0.9993200921026201
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 61.075878576950586,
+          "components": {
+            "PDE": 80.0274288583313,
+            "HPET": 55.00066565497033,
+            "PWCE": 46.0534849909834
+          },
+          "confidence": 0.7617929872843454
+        },
+        "FEP": {
+          "score": 73.82029151651504,
+          "components": {
+            "VFE": 84.40583195559093,
+            "LFED": 55.00066565497033,
+            "AIIG": 78.52586345929191
+          },
+          "confidence": 0.8251111293113826
+        },
+        "QIT": {
+          "score": 19.02491883112848,
+          "components": {
+            "LRMI": 23.388494757673648,
+            "CNC": 28.94286755770163,
+            "BCHSH": 3.2888688691617824
+          },
+          "confidence": 0.4056092262546708
+        }
+      },
+      "unified": 60.42821633033761,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "theadvancedbeginner",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2510,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.297637633846136,
+          "components": {
+            "PLG": 1.5636029267498261,
+            "CGI": 51.611699364059746,
+            "PV": 0.16163180626650434
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81759814132778,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.9832272529602
+          },
+          "confidence": 0.8619658729885826
+        },
+        "AST": {
+          "score": 99.96395348541483,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85581394165936
+          },
+          "confidence": 0.9993199735681959
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 58.928576800540185,
+          "components": {
+            "PDE": 76.44272696823991,
+            "HPET": 51.1619996927041,
+            "PWCE": 47.5564082306993
+          },
+          "confidence": 0.7798849182595302
+        },
+        "FEP": {
+          "score": 72.61000843533384,
+          "components": {
+            "VFE": 83.04887083835834,
+            "LFED": 51.1619996927041,
+            "AIIG": 80.1395339739309
+          },
+          "confidence": 0.7985313579474725
+        },
+        "QIT": {
+          "score": 17.59728007931311,
+          "components": {
+            "LRMI": 23.53299342358489,
+            "CNC": 27.28027569959717,
+            "BCHSH": 0.0
+          },
+          "confidence": 0.2871481647969877
+        }
+      },
+      "unified": 59.74500779653941,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "theclosetthatateeverything",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2818,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29605543064415,
+          "components": {
+            "PLG": 1.563892901533305,
+            "CGI": 51.61166982848327,
+            "PV": 0.153040156662579
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81705633510677,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98142123222351
+          },
+          "confidence": 0.8619750557634478
+        },
+        "AST": {
+          "score": 99.96321058534768,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85284234139073
+          },
+          "confidence": 0.9993059516962145
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 63.22580475040427,
+          "components": {
+            "PDE": 80.27575408509757,
+            "HPET": 61.040596265704174,
+            "PWCE": 45.88360709207888
+          },
+          "confidence": 0.7744646857449955
+        },
+        "FEP": {
+          "score": 76.42103581393212,
+          "components": {
+            "VFE": 85.2368133141702,
+            "LFED": 61.040596265704174,
+            "AIIG": 80.04710536184261
+          },
+          "confidence": 0.862130874658557
+        },
+        "QIT": {
+          "score": 19.241333675123485,
+          "components": {
+            "LRMI": 24.566557310483223,
+            "CNC": 27.858581323804042,
+            "BCHSH": 3.5237878459632768
+          },
+          "confidence": 0.42198881190141546
+        }
+      },
+      "unified": 61.13778522722264,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "thecurse",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 3311,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.293890335461636,
+          "components": {
+            "PLG": 1.5638525722157237,
+            "CGI": 51.61118211417598,
+            "PV": 0.1430470755048954
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81797454465953,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98448193073273
+          },
+          "confidence": 0.8619594936137841
+        },
+        "AST": {
+          "score": 99.96455015732845,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85820062931377
+          },
+          "confidence": 0.9993312352547318
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 56.46359493015472,
+          "components": {
+            "PDE": 80.05173101490193,
+            "HPET": 53.671943000832826,
+            "PWCE": 32.20103008215854
+          },
+          "confidence": 0.6461792388141334
+        },
+        "FEP": {
+          "score": 75.84244830703747,
+          "components": {
+            "VFE": 91.2717893644908,
+            "LFED": 53.671943000832826,
+            "AIIG": 77.44049886997097
+          },
+          "confidence": 0.7905281796997666
+        },
+        "QIT": {
+          "score": 17.642286084575765,
+          "components": {
+            "LRMI": 25.26630220113113,
+            "CNC": 23.70970207039806,
+            "BCHSH": 1.4095152766796575
+          },
+          "confidence": 0.35113220613604124
+        }
+      },
+      "unified": 59.86067776560252,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "thefreedomridersandme",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2382,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.298309875882335,
+          "components": {
+            "PLG": 1.5636008149358775,
+            "CGI": 51.61163809720141,
+            "PV": 0.16509019626987428
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81537190784542,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.97580647468567
+          },
+          "confidence": 0.862003605035381
+        },
+        "AST": {
+          "score": 99.9633006270502,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85320250820082
+          },
+          "confidence": 0.999307651203695
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 60.923301799952434,
+          "components": {
+            "PDE": 81.00503305746088,
+            "HPET": 53.83302371545952,
+            "PWCE": 45.76660643143433
+          },
+          "confidence": 0.7496015127209839
+        },
+        "FEP": {
+          "score": 73.66993126598643,
+          "components": {
+            "VFE": 85.48997359991789,
+            "LFED": 53.83302371545952,
+            "AIIG": 77.7467823712714
+          },
+          "confidence": 0.8137805763704247
+        },
+        "QIT": {
+          "score": 18.227881924109244,
+          "components": {
+            "LRMI": 25.165087629912875,
+            "CNC": 26.501398256404602,
+            "BCHSH": 0.7047579840756955
+          },
+          "confidence": 0.3207205153021634
+        }
+      },
+      "unified": 60.27115677154658,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "theinterview",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 1626,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.299485553947026,
+          "components": {
+            "PLG": 1.5633372402396584,
+            "CGI": 51.61175160944163,
+            "PV": 0.17145725497354097
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81814084161846,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98503625392914
+          },
+          "confidence": 0.8619566751929526
+        },
+        "AST": {
+          "score": 99.96572949245811,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.86291796983244
+          },
+          "confidence": 0.9993534936979434
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 60.5723679466515,
+          "components": {
+            "PDE": 79.06553744914349,
+            "HPET": 50.42898887605769,
+            "PWCE": 50.83094577610362
+          },
+          "confidence": 0.7769755894895423
+        },
+        "FEP": {
+          "score": 72.49939448993862,
+          "components": {
+            "VFE": 83.25928842591568,
+            "LFED": 50.42898887605769,
+            "AIIG": 80.22327485585016
+          },
+          "confidence": 0.792259429928075
+        },
+        "QIT": {
+          "score": 18.88730970715781,
+          "components": {
+            "LRMI": 25.738808562201715,
+            "CNC": 26.29009556759693,
+            "BCHSH": 2.3491920399934947
+          },
+          "confidence": 0.384411297385879
+        }
+      },
+      "unified": 60.148918290253064,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "thepostmanalwayscalls",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 3374,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.297565741963748,
+          "components": {
+            "PLG": 1.5637471032774395,
+            "CGI": 51.611668876338804,
+            "PV": 0.16095763711693448
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81669705669377,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69823242838109,
+            "IGC": 99.9798983335495
+          },
+          "confidence": 0.8619838711828929
+        },
+        "AST": {
+          "score": 99.96301935404952,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85207741619811
+          },
+          "confidence": 0.9993023422548994
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 48.82783371571412,
+          "components": {
+            "PDE": 81.67209735377364,
+            "HPET": 47.18353026013624,
+            "PWCE": 12.427880169485574
+          },
+          "confidence": 0.39974090760581493
+        },
+        "FEP": {
+          "score": 72.31634822209142,
+          "components": {
+            "VFE": 85.76778382050631,
+            "LFED": 47.18353026013624,
+            "AIIG": 79.51391871949343
+          },
+          "confidence": 0.761251166670837
+        },
+        "QIT": {
+          "score": 18.1821501106517,
+          "components": {
+            "LRMI": 23.808468013540875,
+            "CNC": 25.573674477561642,
+            "BCHSH": 3.2888685398895285
+          },
+          "confidence": 0.4238880659224876
+        }
+      },
+      "unified": 58.34337345730918,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "theshower",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2290,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.307060721369485,
+          "components": {
+            "PLG": 1.5625515855137697,
+            "CGI": 51.61104987505255,
+            "PV": 0.21234983048416767
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81703219522564,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98134076595306
+          },
+          "confidence": 0.8619754649000532
+        },
+        "AST": {
+          "score": 99.9630153639333,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85206145573319
+          },
+          "confidence": 0.999302266942291
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 59.63440251826369,
+          "components": {
+            "PDE": 77.27019553075436,
+            "HPET": 56.835422003148516,
+            "PWCE": 42.3247879379923
+          },
+          "confidence": 0.7562567492602064
+        },
+        "FEP": {
+          "score": 75.83307489546641,
+          "components": {
+            "VFE": 87.33173863809202,
+            "LFED": 56.835422003148516,
+            "AIIG": 79.49917613095013
+          },
+          "confidence": 0.8265515084122423
+        },
+        "QIT": {
+          "score": 20.946279395774724,
+          "components": {
+            "LRMI": 27.573181354249947,
+            "CNC": 25.304356051607197,
+            "BCHSH": 7.752333461975285
+          },
+          "confidence": 0.5617292489286554
+        }
+      },
+      "unified": 60.78583787000475,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "thetiniestbouquet",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 1471,
+      "n_tokens_encoded": 1472,
+      "truncated": false,
+      "theories": {
+        "IIT": {
+          "score": 16.29590200423846,
+          "components": {
+            "PLG": 1.563938800460471,
+            "CGI": 51.611586329687995,
+            "PV": 0.15228352550912938
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.66681585622871,
+          "components": {
+            "CGAS": 75.06793478260869,
+            "NDE": 75.48290750254756,
+            "IGC": 99.9825656414032
+          },
+          "confidence": 0.8605181033780526
+        },
+        "AST": {
+          "score": 99.96239050565467,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.84956202261864
+          },
+          "confidence": 0.9992904727741685
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 64.53220610316998,
+          "components": {
+            "PDE": 79.4359656158876,
+            "HPET": 64.74297559133961,
+            "PWCE": 46.89858893546822
+          },
+          "confidence": 0.7911201759187794
+        },
+        "FEP": {
+          "score": 76.43656275135729,
+          "components": {
+            "VFE": 82.37275683165748,
+            "LFED": 64.74297559133961,
+            "AIIG": 80.2152244709747
+          },
+          "confidence": 0.8963829980109518
+        },
+        "QIT": {
+          "score": 17.97339232900382,
+          "components": {
+            "LRMI": 24.021346766910046,
+            "CNC": 26.684359269571484,
+            "BCHSH": 1.1984861378945126
+          },
+          "confidence": 0.3388822451526555
+        }
+      },
+      "unified": 61.12389564995043,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "thetriangleshirtwaistconnection",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2141,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29798076606374,
+          "components": {
+            "PLG": 1.5636932753245114,
+            "CGI": 51.6115390830972,
+            "PV": 0.16336201736163455
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81682477106182,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98064935207367
+          },
+          "confidence": 0.8619789804550168
+        },
+        "AST": {
+          "score": 99.9591216954956,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.83648678198239
+          },
+          "confidence": 0.9992287709443584
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 57.64559131628898,
+          "components": {
+            "PDE": 80.69004037670074,
+            "HPET": 50.17949833460838,
+            "PWCE": 39.470842557769316
+          },
+          "confidence": 0.6924461393976669
+        },
+        "FEP": {
+          "score": 73.41983198878715,
+          "components": {
+            "VFE": 86.19061391759134,
+            "LFED": 50.17949833460838,
+            "AIIG": 79.63245640456036
+          },
+          "confidence": 0.7824943969338133
+        },
+        "QIT": {
+          "score": 20.06628081375775,
+          "components": {
+            "LRMI": 26.233586341225397,
+            "CNC": 25.56666980072304,
+            "BCHSH": 6.342817790168922
+          },
+          "confidence": 0.5241002951181604
+        }
+      },
+      "unified": 60.02937590735072,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "threemonths",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 3072,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29658825666822,
+          "components": {
+            "PLG": 1.5638586237685346,
+            "CGI": 51.61181020731092,
+            "PV": 0.15557941295339484
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81690434326259,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98091459274292
+          },
+          "confidence": 0.8619776318131097
+        },
+        "AST": {
+          "score": 99.96049171058081,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.84196684232323
+          },
+          "confidence": 0.9992546319074519
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 59.52663848538831,
+          "components": {
+            "PDE": 80.68468300732484,
+            "HPET": 48.807279284989235,
+            "PWCE": 47.34817227692798
+          },
+          "confidence": 0.739042186928252
+        },
+        "FEP": {
+          "score": 72.89670484214871,
+          "components": {
+            "VFE": 85.98210078314882,
+            "LFED": 48.807279284989235,
+            "AIIG": 79.53893581130804
+          },
+          "confidence": 0.7729593428987663
+        },
+        "QIT": {
+          "score": 19.767375552262017,
+          "components": {
+            "LRMI": 26.160603110499274,
+            "CNC": 27.251740376867872,
+            "BCHSH": 3.7587073166731524
+          },
+          "confidence": 0.4318782258595385
+        }
+      },
+      "unified": 60.180671884330096,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "thumbsup",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 4581,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.293689193436702,
+          "components": {
+            "PLG": 1.5639245656635965,
+            "CGI": 51.611527320811014,
+            "PV": 0.1413435718080045
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81869158853618,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98687207698822
+          },
+          "confidence": 0.8619473411568356
+        },
+        "AST": {
+          "score": 99.96531917776608,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.86127671106432
+          },
+          "confidence": 0.9993457496120152
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 57.09650930168943,
+          "components": {
+            "PDE": 74.6633716158821,
+            "HPET": 50.02264446286298,
+            "PWCE": 44.85467891376219
+          },
+          "confidence": 0.7698585122730875
+        },
+        "FEP": {
+          "score": 71.0499084962318,
+          "components": {
+            "VFE": 80.28040817056177,
+            "LFED": 50.02264446286298,
+            "AIIG": 79.76983963049398
+          },
+          "confidence": 0.798000967872229
+        },
+        "QIT": {
+          "score": 18.836846128030043,
+          "components": {
+            "LRMI": 26.519083667817174,
+            "CNC": 25.31643605343944,
+            "BCHSH": 2.11427281623781
+          },
+          "confidence": 0.3754299796029281
+        }
+      },
+      "unified": 59.43728055509861,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "tildeath",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 3990,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.294074992477825,
+          "components": {
+            "PLG": 1.5636717356861916,
+            "CGI": 51.611221274554545,
+            "PV": 0.14436371134182935
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81996832002727,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.99112784862518
+          },
+          "confidence": 0.861925703688575
+        },
+        "AST": {
+          "score": 99.96487795064289,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85951180257156
+          },
+          "confidence": 0.9993374220048505
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 62.19702387757296,
+          "components": {
+            "PDE": 80.97962109862829,
+            "HPET": 57.1019782974287,
+            "PWCE": 46.228213629843395
+          },
+          "confidence": 0.7637480549611886
+        },
+        "FEP": {
+          "score": 75.36224798431266,
+          "components": {
+            "VFE": 84.50168572647992,
+            "LFED": 57.1019782974287,
+            "AIIG": 81.43660068164029
+          },
+          "confidence": 0.8351248251886998
+        },
+        "QIT": {
+          "score": 20.904923510114827,
+          "components": {
+            "LRMI": 28.605142381996686,
+            "CNC": 25.669908523185107,
+            "BCHSH": 5.872980001202061
+          },
+          "confidence": 0.4964637108352039
+        }
+      },
+      "unified": 61.077588090735496,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "treasureisland",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2681,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.29973548020555,
+          "components": {
+            "PLG": 1.5635285360517588,
+            "CGI": 51.61158966678426,
+            "PV": 0.17247156072196965
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81620249857036,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.97857511043549
+          },
+          "confidence": 0.8619895272359933
+        },
+        "AST": {
+          "score": 99.96286335079792,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85145340319166
+          },
+          "confidence": 0.9992993977202164
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 57.93682896790024,
+          "components": {
+            "PDE": 79.26275979904854,
+            "HPET": 47.08471920202345,
+            "PWCE": 45.71737105841681
+          },
+          "confidence": 0.7297318687189452
+        },
+        "FEP": {
+          "score": 71.30686892352041,
+          "components": {
+            "VFE": 83.23543362716381,
+            "LFED": 47.08471920202345,
+            "AIIG": 79.62426570682617
+          },
+          "confidence": 0.7676894890209636
+        },
+        "QIT": {
+          "score": 18.840167678079272,
+          "components": {
+            "LRMI": 24.879866053914885,
+            "CNC": 28.45280813545375,
+            "BCHSH": 1.1745960529239727
+          },
+          "confidence": 0.3337516870123226
+        }
+      },
+      "unified": 59.59466669986768,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "undertheinfluence",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 3037,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.293420693855637,
+          "components": {
+            "PLG": 1.5638683120313683,
+            "CGI": 51.61164807640579,
+            "PV": 0.13996057459107578
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.82014445175258,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.99171495437622
+          },
+          "confidence": 0.8619227187452311
+        },
+        "AST": {
+          "score": 99.96606833595898,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.8642733438359
+          },
+          "confidence": 0.9993598888064177
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 61.61220101076542,
+          "components": {
+            "PDE": 79.53329706951415,
+            "HPET": 56.80861195244709,
+            "PWCE": 46.30844284359663
+          },
+          "confidence": 0.7722427078065666
+        },
+        "FEP": {
+          "score": 75.44189966878267,
+          "components": {
+            "VFE": 86.02839320032072,
+            "LFED": 56.80861195244709,
+            "AIIG": 79.95986267640085
+          },
+          "confidence": 0.8304715860318487
+        },
+        "QIT": {
+          "score": 20.377039166648736,
+          "components": {
+            "LRMI": 27.098990349416415,
+            "CNC": 28.032769703018552,
+            "BCHSH": 3.758707053255349
+          },
+          "confidence": 0.427957589179749
+        }
+      },
+      "unified": 60.93011047539486,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "vixenandtheussr",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 3232,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.30022869062398,
+          "components": {
+            "PLG": 1.563295705351301,
+            "CGI": 51.61142923378614,
+            "PV": 0.17576033906245717
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81642869819729,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.9793291091919
+          },
+          "confidence": 0.8619856934003505
+        },
+        "AST": {
+          "score": 99.96406921272434,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85627685089736
+          },
+          "confidence": 0.999322157839007
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 60.501012227695625,
+          "components": {
+            "PDE": 80.13175565118816,
+            "HPET": 57.64069207411011,
+            "PWCE": 40.935518412804115
+          },
+          "confidence": 0.7304014282896907
+        },
+        "FEP": {
+          "score": 76.01463236552217,
+          "components": {
+            "VFE": 85.68453989294609,
+            "LFED": 57.64069207411011,
+            "AIIG": 81.49536262036905
+          },
+          "confidence": 0.8351809575058564
+        },
+        "QIT": {
+          "score": 20.160600986205996,
+          "components": {
+            "LRMI": 25.531391808556396,
+            "CNC": 29.636359713111798,
+            "BCHSH": 3.5237878294996645
+          },
+          "confidence": 0.4139611857730776
+        }
+      },
+      "unified": 60.82242459728135,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "waitingtogo",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2541,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.30288161396787,
+          "components": {
+            "PLG": 1.5631301166238776,
+            "CGI": 51.6113987928423,
+            "PV": 0.18948458901621518
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.8165163170251,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.9796211719513
+          },
+          "confidence": 0.8619842083634777
+        },
+        "AST": {
+          "score": 99.96483887712161,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.85935550848643
+          },
+          "confidence": 0.9993366845365412
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 66.32066025957552,
+          "components": {
+            "PDE": 78.41123174296536,
+            "HPET": 69.55991867331676,
+            "PWCE": 48.43585871292259
+          },
+          "confidence": 0.8079298350933016
+        },
+        "FEP": {
+          "score": 79.50987790535183,
+          "components": {
+            "VFE": 86.24621399074012,
+            "LFED": 69.55991867331676,
+            "AIIG": 80.4780556902025
+          },
+          "confidence": 0.9121466080554372
+        },
+        "QIT": {
+          "score": 19.561480953603326,
+          "components": {
+            "LRMI": 25.568299679062733,
+            "CNC": 27.825001519344276,
+            "BCHSH": 3.288868753916494
+          },
+          "confidence": 0.41394651584470765
+        }
+      },
+      "unified": 62.06803656094933,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "whenmothersbullyback",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 2819,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.295208676170777,
+          "components": {
+            "PLG": 1.5634765268328743,
+            "CGI": 51.61167182958428,
+            "PV": 0.14984431939528678
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.82026872743694,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.99212920665741
+          },
+          "confidence": 0.861920612626087
+        },
+        "AST": {
+          "score": 99.9688130742739,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.87525229709557
+          },
+          "confidence": 0.9994116890541286
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 66.23563945771959,
+          "components": {
+            "PDE": 81.15659828743445,
+            "HPET": 67.38093583167196,
+            "PWCE": 47.491675053441135
+          },
+          "confidence": 0.7885164703172635
+        },
+        "FEP": {
+          "score": 79.2245891562626,
+          "components": {
+            "VFE": 85.62318846435069,
+            "LFED": 67.38093583167196,
+            "AIIG": 82.53677673673579
+          },
+          "confidence": 0.8984608160974304
+        },
+        "QIT": {
+          "score": 21.32729414844707,
+          "components": {
+            "LRMI": 28.82359778752217,
+            "CNC": 27.72621367194802,
+            "BCHSH": 4.933303106179322
+          },
+          "confidence": 0.46265961049493187
+        }
+      },
+      "unified": 62.26740189147298,
+      "duration_seconds": 1.6
+    },
+    {
+      "story": "wheretheressmoke",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 3091,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.2935889850369,
+          "components": {
+            "PLG": 1.563922232341347,
+            "CGI": 51.611572535898844,
+            "PV": 0.14078054048286548
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.8184735731313,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69823242838109,
+            "IGC": 99.98582005500793
+          },
+          "confidence": 0.8619537621330471
+        },
+        "AST": {
+          "score": 99.96517049877723,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.86068199510889
+          },
+          "confidence": 0.9993429434939958
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 60.71730629903895,
+          "components": {
+            "PDE": 79.284016492429,
+            "HPET": 56.626565593367815,
+            "PWCE": 43.828675230033554
+          },
+          "confidence": 0.7553130475800113
+        },
+        "FEP": {
+          "score": 73.44912913437395,
+          "components": {
+            "VFE": 82.17114487035957,
+            "LFED": 56.626565593367815,
+            "AIIG": 78.64233836073261
+          },
+          "confidence": 0.8440636054014574
+        },
+        "QIT": {
+          "score": 19.715930037592525,
+          "components": {
+            "LRMI": 26.633272413297043,
+            "CNC": 27.859544933439985,
+            "BCHSH": 2.349191974139044
+          },
+          "confidence": 0.38000084251742205
+        }
+      },
+      "unified": 60.42279978970726,
+      "duration_seconds": 1.7
+    },
+    {
+      "story": "wildwomenanddancingqueens",
+      "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+      "n_tokens_full": 1795,
+      "n_tokens_encoded": 1501,
+      "truncated": true,
+      "theories": {
+        "IIT": {
+          "score": 16.295511723886573,
+          "components": {
+            "PLG": 1.5639232945943295,
+            "CGI": 51.611583596815095,
+            "PV": 0.15037498772440414
+          },
+          "confidence": 0.0
+        },
+        "GWT": {
+          "score": 82.81712607254116,
+          "components": {
+            "CGAS": 75.28314457028648,
+            "NDE": 75.69790712441706,
+            "IGC": 99.98165369033813
+          },
+          "confidence": 0.8619738738147267
+        },
+        "AST": {
+          "score": 99.95910396713465,
+          "components": {
+            "UP": 100.0,
+            "SC": 100.0,
+            "SCoh": 99.83641586853861
+          },
+          "confidence": 0.9992284362903966
+        },
+        "HOT": {
+          "score": 70.0,
+          "components": {
+            "SRC": 100.0,
+            "RD": 0.0,
+            "MRS": 100.0
+          },
+          "confidence": 0.29289321881345254
+        },
+        "PPT": {
+          "score": 56.10268312982618,
+          "components": {
+            "PDE": 78.17544387978006,
+            "HPET": 44.29862090835941,
+            "PWCE": 44.12253484659126
+          },
+          "confidence": 0.7116744376395273
+        },
+        "FEP": {
+          "score": 70.65802224355784,
+          "components": {
+            "VFE": 84.11099413232921,
+            "LFED": 44.29862090835941,
+            "AIIG": 79.0801277270611
+          },
+          "confidence": 0.7440620482981349
+        },
+        "QIT": {
+          "score": 18.267208267937843,
+          "components": {
+            "LRMI": 25.631588804136136,
+            "CNC": 25.54064656639623,
+            "BCHSH": 1.1745959212150712
+          },
+          "confidence": 0.3404895009412616
+        }
+      },
+      "unified": 59.157093629269184,
+      "duration_seconds": 1.6
+    }
+  ]
+}
