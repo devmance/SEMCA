@@ -23,8 +23,9 @@ preferred-citation:
       family-names: Travis
       affiliation: Devmance Labs
   year: 2026
-  url: "https://github.com/devmance/SEMCA"
+  doi: 10.5281/zenodo.20435290
+  url: "https://doi.org/10.5281/zenodo.20435290"
   notes: >-
-    Preprint, Devmance Labs. A cross-substrate comparison with human
-    fMRI BOLD reveals coincidental magnitude alignment of fundamentally
-    different variance sources.
+    A cross-substrate comparison with human fMRI BOLD reveals
+    coincidental magnitude alignment of fundamentally different
+    variance sources.

@@ -1,5 +1,7 @@
 # SEMCA-7 — Substrate-Agnostic Cross-Substrate Consciousness Theory Comparison
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20435290.svg)](https://doi.org/10.5281/zenodo.20435290)
+
 Reproducible code and data for the paper:
 
 > **Architectural Variance Dominates Stimulus Variance in Six of Seven Substrate-Agnostic Consciousness Operationalizations**
@@ -8,7 +10,7 @@ Reproducible code and data for the paper:
 >
 > Nate Travis · Devmance Labs
 
-LaTeX source: [`paper/semca7.tex`](paper/semca7.tex) (bibliography: [`paper/refs.bib`](paper/refs.bib)).
+Paper: [https://doi.org/10.5281/zenodo.20435290](https://doi.org/10.5281/zenodo.20435290). LaTeX source: [`paper/semca7.tex`](paper/semca7.tex) (bibliography: [`paper/refs.bib`](paper/refs.bib)).
 
 ## What's in this repository
 
@@ -136,8 +138,9 @@ If you use this work, please cite:
          Six of Seven Substrate-Agnostic Consciousness Operationalizations},
   author={Travis, Nate},
   year={2026},
-  howpublished={Preprint, Devmance Labs},
-  url={https://github.com/devmance/SEMCA}
+  publisher={Zenodo},
+  doi={10.5281/zenodo.20435290},
+  url={https://doi.org/10.5281/zenodo.20435290}
 }
 ```
 
